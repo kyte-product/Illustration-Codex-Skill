@@ -24,11 +24,11 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 
 ## Style lock
 
-- Medium: hand-built cardboard craft miniature.
-- Form: folded kraft-paper construction with real-looking seams, edge thickness, straps, tabs, and cutouts, three-quarter view.
-- Surface and light: fine corrugated fiber and paper grain, matte edges, soft tabletop lighting.
-- Default color direction: warm tan kraft dominates; muted indigo-blue and teal paper panels; tiny coral or golden fasteners.
-- Avoid: plastic coating, metal, glossy gradients, or perfectly seamless geometry, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
+- Medium: illustrated hand-built corrugated-card miniature.
+- Form: one compact object assembled from folded kraft-paper planes; make its box folds, layered edge thickness, tabs, slots, or one paper strap visibly structural, in a consistent three-quarter view.
+- Surface and light: matte paper with restrained fiber grain; show corrugation only on exposed cut edges, a few clear fold seams, soft upper-left studio light, and a small contact shadow.
+- Default color direction: warm kraft tan covers the broad planes; use muted indigo or teal on one or two panels, with a tiny coral or ochre paper fastener.
+- Avoid: weathered wood grain, dense surface noise, photographic realism, plastic coating, metal hardware, seamless molded forms, or an elaborate scene, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
 
 ## Visual calibration
 

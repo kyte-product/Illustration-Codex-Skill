@@ -24,11 +24,11 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 
 ## Style lock
 
-- Medium: small handmade watercolor illustration.
-- Form: object with realistic simplified structure, mostly three-quarter view.
-- Surface and light: visible uneven pigment wash, granulation and dry-paper flecks, soft edges within a clear silhouette.
-- Default color direction: dusty medium blue dominates, warm ochre-yellow on key parts, cream-paper highlights.
-- Avoid: rainbow naturalism, glossy plastic, hard vector fills, or heavy black outlines, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
+- Medium: small hand-painted watercolor spot illustration.
+- Form: one familiar object with believable but simplified construction, arranged as a compact three-quarter view with a clear outer silhouette and no surrounding scene.
+- Surface and light: build the form from a few translucent, overlapping pigment washes; keep soft blooms, granulation, and occasional dry-brush paper flecks inside the painted shape, with slightly pooled edges and only a faint grounding wash.
+- Default color direction: dusty denim or slate blue carries the main form; warm ochre marks one or two key parts, with cream paper left visible as highlights.
+- Avoid: photographic product rendering, glossy 3D plastic, smooth airbrush gradients, hard vector fills, uniformly fuzzy edges, heavy black outlines, rainbow color, or a painted backdrop, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
 
 ## Visual calibration
 

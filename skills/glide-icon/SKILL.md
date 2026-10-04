@@ -24,11 +24,11 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 
 ## Style lock
 
-- Medium: ultra-clean flat vector with gentle dimensional cutouts.
-- Form: simplified lifestyle object built from a few broad rounded planes, mild three-quarter view.
-- Surface and light: no drawn outlines or texture; at most a slightly darker green side plane and one minimal highlight.
-- Default color direction: deep emerald green dominates; saturated golden yellow on key parts; tiny violet and cream accents.
-- Avoid: black contour lines, blue-dominant palette, metallic gradients, or small technical details, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
+- Medium: ultra-clean flat lifestyle vector.
+- Form: one familiar home or daily-use object built from two to five broad, softly rounded geometric shapes; use a mild three-quarter view only when needed to clarify its construction.
+- Surface and light: solid matte color planes with crisp overlap boundaries and simple cutout shapes; no outline, surface texture, airbrush, or modeled light; one darker-green plane may indicate depth.
+- Default color direction: deep emerald is the main shape; golden yellow marks one large functional component, while violet and cream appear only as tiny secondary accents.
+- Avoid: 3D product rendering, gradients, glossy highlights, outlines, realistic material texture, fussy controls, or a blue-dominant palette, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
 
 ## Visual calibration
 

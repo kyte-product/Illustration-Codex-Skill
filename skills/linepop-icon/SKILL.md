@@ -24,11 +24,11 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 
 ## Style lock
 
-- Medium: precise technical line illustration.
-- Form: mostly white object described by thin even near-black contours and clean inner construction lines, slight three-quarter view.
-- Surface and light: little to no shaded fill, extremely restrained pale-blue side plane, tiny crisp highlight.
-- Default color direction: white dominates; neon lime focal marks and smaller yellow marks; pale blue for depth; near-black for hairline outlines.
-- Avoid: heavy black comic strokes, dark filled body, painterly shading, or dense gradients, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
+- Medium: precise technical contour illustration.
+- Form: one cleanly constructed utility object, mostly white, in a mild three-quarter view; define its function with a small number of accurate interior divisions.
+- Surface and light: crisp, even, fine near-black strokes with deliberate joins and no sketch wobble; leave most faces unfilled, adding at most one pale-blue side plane and a tiny sharp highlight.
+- Default color direction: white remains dominant; use neon lime on one focal control, a smaller lemon-yellow mark, and near-black only for fine contours.
+- Avoid: bold comic outlines, loose hand sketching, dark filled surfaces, broad color blocks, painterly shading, gradients, or decorative line clutter, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
 
 ## Visual calibration
 

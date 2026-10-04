@@ -24,11 +24,11 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 
 ## Style lock
 
-- Medium: airy modern digital icon with soft volume.
-- Form: very simple rounded UI object with few parts, mostly frontal with subtle three-quarter depth.
-- Surface and light: smooth pale-blue-to-cobalt shading, milky white top-left glow, soft edge highlights and no dark stroke.
-- Default color direction: powder blue and white dominate; coral red is a tiny functional accent.
-- Avoid: hard black outlines, heavy shadows, detailed machinery, or metallic shine, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
+- Medium: soft-volume digital app icon.
+- Form: a single simple UI object with a compact rounded silhouette and only a few essential parts; mostly front-facing, with just enough three-quarter depth to read its edge.
+- Surface and light: opaque, softly airbrushed pale-cyan-to-mid-blue shading, brightest at the upper left and deeper blue at the lower right; one broad milky highlight and a restrained cool edge glow, no drawn contour.
+- Default color direction: powder blue and white occupy nearly all the icon; cobalt is limited to lower edges and recesses, with coral red on one tiny functional control.
+- Avoid: glass or see-through material, hard black outlines, sharp specular streaks, heavy bloom, deep cast shadows, many controls, or metallic reflections, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
 
 ## Visual calibration
 

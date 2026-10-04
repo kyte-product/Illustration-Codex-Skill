@@ -24,11 +24,11 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 
 ## Style lock
 
-- Medium: clean outlined product vector.
-- Form: simple commerce or utility object with accurate functional parts, shallow three-quarter view.
-- Surface and light: thin consistent black outlines, white broad faces, restrained light-blue side shade, flat fills.
-- Default color direction: white dominates; strong royal blue areas; small vivid yellow functional accents; black contours.
-- Avoid: lime green, heavy shading, rough sketching, or thick comic outlines, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
+- Medium: clear outlined commerce and utility icon.
+- Form: one functional household, retail, or electronic object with accurate recognizable parts, a compact silhouette, and a shallow three-quarter view.
+- Surface and light: steady medium-fine black contours around flat faces; use broad royal-blue panels, open white face areas, and only a pale-blue side plane for depth, with no modeled gradient.
+- Default color direction: royal blue and white share the main body; yellow marks one important control or fitting, and black is reserved for the consistent outline and small openings.
+- Avoid: lime or emerald accents, sketchy linework, heavy comic contours, toy-like rounded volume, extensive gray shading, or a long cast shadow, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
 
 ## Visual calibration
 

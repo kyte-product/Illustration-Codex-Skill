@@ -290,10 +290,10 @@
   {
     "name": "Zing",
     "slug": "zing",
-    "description": "Minimal editorial line-and-fill drawing",
-    "form": "Recognizable school or study object, thin black outer and inner contours, white open planes, gentle three-quarter tilt",
-    "finish": "Flat untextured fills, small simple side faces, almost no shadow",
-    "palette": "Mostly white with periwinkle blue side planes; small lemon-yellow and bubblegum-pink details",
+    "description": "Minimal editorial school-object illustration",
+    "form": "One familiar study object, simplified to its essential parts, with open white planes, a gentle tilt, and a steady, fine black contour",
+    "finish": "Crisp near-monoline outlines and flat, untextured fills; use periwinkle only on a few side faces or components, with almost no shading or cast shadow",
+    "palette": "White is the main field; periwinkle blue is the largest accent, with tiny lemon-yellow and bubblegum-pink marks",
     "reference": "assets/generated/zing.webp",
     "references": [
       {
@@ -578,10 +578,10 @@
   {
     "name": "Mist",
     "slug": "mist",
-    "description": "Airy modern digital icon with soft volume",
-    "form": "Very simple rounded UI object with few parts, mostly frontal with subtle three-quarter depth",
-    "finish": "Smooth pale-blue-to-cobalt shading, milky white top-left glow, soft edge highlights and no dark stroke",
-    "palette": "Powder blue and white dominate; coral red is a tiny functional accent",
+    "description": "Soft-volume digital app icon",
+    "form": "A single simple UI object with a compact rounded silhouette and only a few essential parts; mostly front-facing, with just enough three-quarter depth to read its edge",
+    "finish": "Opaque, softly airbrushed pale-cyan-to-mid-blue shading, brightest at the upper left and deeper blue at the lower right; one broad milky highlight and a restrained cool edge glow, no drawn contour",
+    "palette": "Powder blue and white occupy nearly all the icon; cobalt is limited to lower edges and recesses, with coral red on one tiny functional control",
     "reference": "assets/generated/mist.webp",
     "references": [
       {
@@ -722,10 +722,10 @@
   {
     "name": "Pebble",
     "slug": "pebble",
-    "description": "Friendly compact product illustration",
-    "form": "Sturdy rounded everyday object with simple proportions, shallow three-quarter view",
-    "finish": "Mostly flat blue fills, restrained smooth shading, short dark-blue side face, tiny glints",
-    "palette": "Medium cornflower or cobalt blue dominates, bright yellow for large functional parts, orange for tiny details, navy for holes and shadows",
+    "description": "Friendly molded-plastic product icon",
+    "form": "A sturdy everyday object with broad rounded masses, a compact readable silhouette, and a shallow three-quarter view that reveals one short side face",
+    "finish": "Smooth soft-touch plastic with broad, restrained tonal shifts, clean rounded edges, one small controlled glint, and a short soft contact shadow only",
+    "palette": "Cornflower or cobalt blue covers the main body; bright yellow marks a key functional part, orange is a pin-size accent, and navy stays in recesses and the small side face",
     "reference": "assets/generated/pebble.webp",
     "references": [
       {
@@ -1010,10 +1010,10 @@
   {
     "name": "Ink",
     "slug": "ink",
-    "description": "Loose black marker-ink icon",
-    "form": "Single instantly readable object drawn with confidently irregular medium black lines, nearly frontal",
-    "finish": "White interiors, selective solid-black side or cavity, a few short motion ticks; little to no hatching",
-    "palette": "Black ink only on white",
+    "description": "Expressive black marker spot drawing",
+    "form": "One immediately recognizable everyday object, nearly frontal, drawn with a confident hand and slightly irregular outer contour; keep the silhouette bold and the interior spare",
+    "finish": "Medium-weight black marker lines with subtle pressure variation, rounded line ends, a few short interior strokes, and at most two or three gesture marks; leave the interior white, using solid black only for a small opening or recess",
+    "palette": "Black ink marks on a clean white field only",
     "reference": "assets/generated/ink.webp",
     "references": [
       {
@@ -1154,10 +1154,10 @@
   {
     "name": "Cardboard",
     "slug": "cardboard",
-    "description": "Hand-built cardboard craft miniature",
-    "form": "Folded kraft-paper construction with real-looking seams, edge thickness, straps, tabs, and cutouts, three-quarter view",
-    "finish": "Fine corrugated fiber and paper grain, matte edges, soft tabletop lighting",
-    "palette": "Warm tan kraft dominates; muted indigo-blue and teal paper panels; tiny coral or golden fasteners",
+    "description": "Illustrated hand-built corrugated-card miniature",
+    "form": "One compact object assembled from folded kraft-paper planes; make its box folds, layered edge thickness, tabs, slots, or one paper strap visibly structural, in a consistent three-quarter view",
+    "finish": "Matte paper with restrained fiber grain; show corrugation only on exposed cut edges, a few clear fold seams, soft upper-left studio light, and a small contact shadow",
+    "palette": "Warm kraft tan covers the broad planes; use muted indigo or teal on one or two panels, with a tiny coral or ochre paper fastener",
     "reference": "assets/generated/cardboard.webp",
     "references": [
       {
@@ -1298,10 +1298,10 @@
   {
     "name": "Linepop",
     "slug": "linepop",
-    "description": "Precise technical line illustration",
-    "form": "Mostly white object described by thin even near-black contours and clean inner construction lines, slight three-quarter view",
-    "finish": "Little to no shaded fill, extremely restrained pale-blue side plane, tiny crisp highlight",
-    "palette": "White dominates; neon lime focal marks and smaller yellow marks; pale blue for depth; near-black for hairline outlines",
+    "description": "Precise technical contour illustration",
+    "form": "One cleanly constructed utility object, mostly white, in a mild three-quarter view; define its function with a small number of accurate interior divisions",
+    "finish": "Crisp, even, fine near-black strokes with deliberate joins and no sketch wobble; leave most faces unfilled, adding at most one pale-blue side plane and a tiny sharp highlight",
+    "palette": "White remains dominant; use neon lime on one focal control, a smaller lemon-yellow mark, and near-black only for fine contours",
     "reference": "assets/generated/linepop.webp",
     "references": [
       {
@@ -1442,10 +1442,10 @@
   {
     "name": "Glide",
     "slug": "glide",
-    "description": "Ultra-clean flat vector with gentle dimensional cutouts",
-    "form": "Simplified lifestyle object built from a few broad rounded planes, mild three-quarter view",
-    "finish": "No drawn outlines or texture; at most a slightly darker green side plane and one minimal highlight",
-    "palette": "Deep emerald green dominates; saturated golden yellow on key parts; tiny violet and cream accents",
+    "description": "Ultra-clean flat lifestyle vector",
+    "form": "One familiar home or daily-use object built from two to five broad, softly rounded geometric shapes; use a mild three-quarter view only when needed to clarify its construction",
+    "finish": "Solid matte color planes with crisp overlap boundaries and simple cutout shapes; no outline, surface texture, airbrush, or modeled light; one darker-green plane may indicate depth",
+    "palette": "Deep emerald is the main shape; golden yellow marks one large functional component, while violet and cream appear only as tiny secondary accents",
     "reference": "assets/generated/glide.webp",
     "references": [
       {
@@ -1586,10 +1586,10 @@
   {
     "name": "Nimble",
     "slug": "nimble",
-    "description": "Clean outlined product vector",
-    "form": "Simple commerce or utility object with accurate functional parts, shallow three-quarter view",
-    "finish": "Thin consistent black outlines, white broad faces, restrained light-blue side shade, flat fills",
-    "palette": "White dominates; strong royal blue areas; small vivid yellow functional accents; black contours",
+    "description": "Clear outlined commerce and utility icon",
+    "form": "One functional household, retail, or electronic object with accurate recognizable parts, a compact silhouette, and a shallow three-quarter view",
+    "finish": "Steady medium-fine black contours around flat faces; use broad royal-blue panels, open white face areas, and only a pale-blue side plane for depth, with no modeled gradient",
+    "palette": "Royal blue and white share the main body; yellow marks one important control or fitting, and black is reserved for the consistent outline and small openings",
     "reference": "assets/generated/nimble.webp",
     "references": [
       {
@@ -1730,10 +1730,10 @@
   {
     "name": "Jot",
     "slug": "jot",
-    "description": "Spare hand-inked editorial drawing",
-    "form": "Single everyday object with thin slightly imperfect black contours, mostly front or mild three-quarter view",
-    "finish": "Open white interiors, few faint cool-gray shadow strokes, no dense hatch",
-    "palette": "White and black dominate; buttery pale yellow fills only one or two simple sections",
+    "description": "Spare hand-inked editorial object drawing",
+    "form": "One simple everyday object in a mostly frontal or mild three-quarter view; use fine, slightly imperfect contours and preserve generous white interior space",
+    "finish": "Light black pen lines with subtle hand variation, only a few short construction marks, and sparse pale-gray grounding strokes; fill just one or two small planes with pale buttery yellow",
+    "palette": "White paper and black linework dominate; pale butter yellow is the only fill and stays limited to a small functional or identifying area",
     "reference": "assets/generated/jot.webp",
     "references": [
       {
@@ -2306,10 +2306,10 @@
   {
     "name": "Watercolor",
     "slug": "watercolor",
-    "description": "Small handmade watercolor illustration",
-    "form": "Object with realistic simplified structure, mostly three-quarter view",
-    "finish": "Visible uneven pigment wash, granulation and dry-paper flecks, soft edges within a clear silhouette",
-    "palette": "Dusty medium blue dominates, warm ochre-yellow on key parts, cream-paper highlights",
+    "description": "Small hand-painted watercolor spot illustration",
+    "form": "One familiar object with believable but simplified construction, arranged as a compact three-quarter view with a clear outer silhouette and no surrounding scene",
+    "finish": "Build the form from a few translucent, overlapping pigment washes; keep soft blooms, granulation, and occasional dry-brush paper flecks inside the painted shape, with slightly pooled edges and only a faint grounding wash",
+    "palette": "Dusty denim or slate blue carries the main form; warm ochre marks one or two key parts, with cream paper left visible as highlights",
     "reference": "assets/generated/watercolor.webp",
     "references": [
       {
