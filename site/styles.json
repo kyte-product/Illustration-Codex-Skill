@@ -3890,10 +3890,10 @@
   {
     "name": "Storyworld",
     "slug": "storyworld",
-    "description": "Fantastical isometric storybook diorama illustration",
-    "form": "One surreal narrative hero or tiny architectural world arranged as a self-contained vignette; use a precise 30-degree isometric view for platforms and structures, with sculptural characters or objects integrated into the scene",
-    "finish": "Crisp vector-like facets, hard-edged geometric planes, bold colored side faces, selective luminous gradients on portals or magical forms, deep midnight-navy starfield openings, tiny white stars, and a clean compact cast shadow",
-    "palette": "Electric cobalt and royal blue, violet and magenta, warm lemon yellow, coral red, mint and lime; set glowing color against deep navy voids and generous white space",
+    "description": "Color-rich fantastical isometric storybook diorama illustration",
+    "form": "One surreal narrative hero or tiny architectural world arranged as a self-contained vignette; use precise 30-degree isometric geometry for platforms and structures, and build the hero from several distinct, legible forms and accents",
+    "finish": "Crisp vector-like facets, hard-edged planes, clearly separated colored side faces, stepped edges and small inset details; selective luminous gradients on portals or magical forms, deep midnight-navy starfield openings, tiny white stars, and a clean compact cast shadow",
+    "palette": "A vivid multi-hue palette in each scene: electric cobalt, royal blue, violet, magenta, lemon yellow, coral red, mint, lime and occasional orange; use several colors in balanced patches, with dark navy cavities for contrast and generous white around the scene",
     "reference": "assets/generated/storyworld.webp",
     "references": [
       {
