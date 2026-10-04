@@ -20,7 +20,7 @@ from scipy import ndimage
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "site" / "assets" / "icons"
 SIZE = 512
-SAFE_FRACTION = 0.36
+SAFE_FRACTION = 0.52
 
 
 def export_sheet(name, source):

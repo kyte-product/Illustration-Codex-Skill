@@ -12,7 +12,7 @@ For a guided session, say:
 
 > Use the `illustration-icon-wizard` skill. Ask me one question at a time and wait for each selection.
 
-The wizard asks for style, quantity, subject, intended use, palette, and final confirmation. A custom palette is chosen one color slot at a time. Every icon is generated as a high-resolution square transparent PNG, with its visible artwork centered inside the middle 36% of the canvas and at least 32% clear space on every side; the wizard does not ask about these fixed output settings. A direct style skill also asks its remaining questions one at a time.
+The wizard asks for style, quantity, subject, intended use, palette, and final confirmation. A custom palette is chosen one color slot at a time. Every icon is generated as a high-resolution square transparent PNG, with its visible artwork centered inside the middle 52% of the canvas and at least 24% clear space on every side; the wizard does not ask about these fixed output settings. A direct style skill also asks its remaining questions one at a time.
 
 To start with a particular style, say for example:
 
