@@ -32,11 +32,7 @@ function openStyle(slug, trigger) {
   dialog.dataset.returnFocus = trigger ? 'yes' : 'no';
   modalTitle.textContent = `${activeStyle.name} Skill`;
   modalGrid.innerHTML = activeStyle.references.slice(0, 12).map((src, index) => `<div class="modal-item">${imageMarkup(src, `${activeStyle.name} visual reference ${index + 1}`)}</div>`).join('');
-  if (activeStyle.slug === 'colorcut' || activeStyle.slug === 'hologram' || activeStyle.slug === 'nightfall' || activeStyle.slug === 'storyworld') {
-    modalRecipe.innerHTML = `<div class="recipe-part"><strong>Shape</strong>${activeStyle.form}</div><div class="recipe-part"><strong>Surface</strong>${activeStyle.finish}</div><div class="recipe-part"><strong>Palette</strong>${activeStyle.palette}</div>`;
-  } else {
-    modalRecipe.innerHTML = `<div class="recipe-part"><strong>Shape</strong>${activeStyle.form}</div><div class="recipe-part"><strong>Surface</strong>${activeStyle.finish}</div><div class="recipe-part"><strong>Palette</strong>${activeStyle.palette}</div>`;
-  }
+  modalRecipe.innerHTML = `<div class="recipe-part"><strong>Shape</strong>${activeStyle.form}</div><div class="recipe-part"><strong>Surface</strong>${activeStyle.finish}</div><div class="recipe-part"><strong>Palette</strong>${activeStyle.palette}</div>`;
   modalStatus.textContent = '';
   dialog.showModal();
   document.querySelector('#modal-close').focus();
