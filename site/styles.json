@@ -4030,5 +4030,581 @@
       }
     ],
     "skill": "skills/storyworld-icon/SKILL.md"
+  },
+  {
+    "name": "Pop",
+    "slug": "pop",
+    "description": "Bold flat geometric editorial pictogram",
+    "form": "One familiar object or character reduced to a compact, instantly recognizable silhouette assembled from a few large geometric shapes; mostly front-facing with no perspective",
+    "finish": "Crisp hard-edged solid fills, clean cutout overlaps, minimal internal divisions, no outline except where a deliberate black shape defines a feature; completely flat with no shading",
+    "palette": "Bright red, yellow, cobalt, sky blue, orange, pink, mint and black; choose only a few clear blocks per symbol, with white negative space",
+    "reference": "assets/generated/pop.webp",
+    "references": [
+      {
+        "image": "assets/generated/pop.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          0
+        ]
+      },
+      {
+        "image": "assets/generated/pop.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          1
+        ]
+      },
+      {
+        "image": "assets/generated/pop.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          2
+        ]
+      },
+      {
+        "image": "assets/generated/pop.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          3
+        ]
+      },
+      {
+        "image": "assets/generated/pop.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          0
+        ]
+      },
+      {
+        "image": "assets/generated/pop.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          1
+        ]
+      },
+      {
+        "image": "assets/generated/pop.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          2
+        ]
+      },
+      {
+        "image": "assets/generated/pop.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          3
+        ]
+      },
+      {
+        "image": "assets/generated/pop.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          0
+        ]
+      },
+      {
+        "image": "assets/generated/pop.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          1
+        ]
+      },
+      {
+        "image": "assets/generated/pop.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          2
+        ]
+      },
+      {
+        "image": "assets/generated/pop.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          3
+        ]
+      }
+    ],
+    "skill": "skills/pop-icon/SKILL.md"
+  },
+  {
+    "name": "Clover",
+    "slug": "clover",
+    "description": "Minimal rounded green gradient glyph",
+    "form": "One simple familiar app symbol built from a few large rounded geometric forms, centered and front-facing",
+    "finish": "Smooth solid vector shapes with a restrained green-to-lime gradient across the main form, clean edges, no outline and no cast shadow",
+    "palette": "Spring green and emerald dominate over warm ivory; tiny coral or orange accents appear only when they explain the symbol",
+    "reference": "assets/generated/clover.webp",
+    "references": [
+      {
+        "image": "assets/generated/clover.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          0
+        ]
+      },
+      {
+        "image": "assets/generated/clover.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          1
+        ]
+      },
+      {
+        "image": "assets/generated/clover.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          2
+        ]
+      },
+      {
+        "image": "assets/generated/clover.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          3
+        ]
+      },
+      {
+        "image": "assets/generated/clover.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          0
+        ]
+      },
+      {
+        "image": "assets/generated/clover.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          1
+        ]
+      },
+      {
+        "image": "assets/generated/clover.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          2
+        ]
+      },
+      {
+        "image": "assets/generated/clover.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          3
+        ]
+      },
+      {
+        "image": "assets/generated/clover.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          0
+        ]
+      },
+      {
+        "image": "assets/generated/clover.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          1
+        ]
+      },
+      {
+        "image": "assets/generated/clover.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          2
+        ]
+      },
+      {
+        "image": "assets/generated/clover.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          3
+        ]
+      }
+    ],
+    "skill": "skills/clover-icon/SKILL.md"
+  },
+  {
+    "name": "Studio",
+    "slug": "studio",
+    "description": "Softly rendered miniature product illustration",
+    "form": "One ordinary household object, food item, or small furnishing, carefully constructed and isolated in a calm three-quarter view",
+    "finish": "Soft diffuse studio light, realistic but simplified material cues, gentle ambient contact shadow, subtle surface texture, softly rounded edges and restrained highlights; no cartoon outline",
+    "palette": "Natural object colors with warm wood, cream, stone, muted greens and small authentic color accents against clean white",
+    "reference": "assets/generated/studio.webp",
+    "references": [
+      {
+        "image": "assets/generated/studio.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          0
+        ]
+      },
+      {
+        "image": "assets/generated/studio.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          1
+        ]
+      },
+      {
+        "image": "assets/generated/studio.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          2
+        ]
+      },
+      {
+        "image": "assets/generated/studio.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          3
+        ]
+      },
+      {
+        "image": "assets/generated/studio.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          0
+        ]
+      },
+      {
+        "image": "assets/generated/studio.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          1
+        ]
+      },
+      {
+        "image": "assets/generated/studio.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          2
+        ]
+      },
+      {
+        "image": "assets/generated/studio.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          3
+        ]
+      },
+      {
+        "image": "assets/generated/studio.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          0
+        ]
+      },
+      {
+        "image": "assets/generated/studio.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          1
+        ]
+      },
+      {
+        "image": "assets/generated/studio.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          2
+        ]
+      },
+      {
+        "image": "assets/generated/studio.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          3
+        ]
+      }
+    ],
+    "skill": "skills/studio-icon/SKILL.md"
+  },
+  {
+    "name": "Concept",
+    "slug": "concept",
+    "description": "Minimal conceptual line-art illustration",
+    "form": "One clear metaphor for an abstract idea, assembled from a few elegant objects, gestures or symbols in a spacious editorial composition",
+    "finish": "Fine consistent near-black linework, open white interiors, clean rounded joins, one or two simple lavender-purple filled shapes; no gradients, texture or shadow",
+    "palette": "Black line on a pale neutral field, with lilac or lavender as the sole fill color",
+    "reference": "assets/generated/concept.webp",
+    "references": [
+      {
+        "image": "assets/generated/concept.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          0
+        ]
+      },
+      {
+        "image": "assets/generated/concept.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          1
+        ]
+      },
+      {
+        "image": "assets/generated/concept.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          2
+        ]
+      },
+      {
+        "image": "assets/generated/concept.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          3
+        ]
+      },
+      {
+        "image": "assets/generated/concept.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          0
+        ]
+      },
+      {
+        "image": "assets/generated/concept.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          1
+        ]
+      },
+      {
+        "image": "assets/generated/concept.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          2
+        ]
+      },
+      {
+        "image": "assets/generated/concept.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          3
+        ]
+      },
+      {
+        "image": "assets/generated/concept.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          0
+        ]
+      },
+      {
+        "image": "assets/generated/concept.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          1
+        ]
+      },
+      {
+        "image": "assets/generated/concept.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          2
+        ]
+      },
+      {
+        "image": "assets/generated/concept.webp",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          3
+        ]
+      }
+    ],
+    "skill": "skills/concept-icon/SKILL.md"
   }
 ]
