@@ -3890,10 +3890,10 @@
   {
     "name": "Storyworld",
     "slug": "storyworld",
-    "description": "Graphic low-poly isometric narrative scene",
-    "form": "One purposeful architectural hero on a small square or diamond plinth with visible top and thick angular sides; precise consistent 30-degree isometric view",
-    "finish": "Clean crisp vector facets and angular steps, sharply defined compact platform shadow, rare gradients on selected planes, deep navy openings with a few tiny stars",
-    "palette": "Cobalt and violet structures, warm yellow planes, coral and mint accents, navy cavities against generous warm-white space",
+    "description": "Fantastical isometric storybook diorama illustration",
+    "form": "One surreal narrative hero or tiny architectural world arranged as a self-contained vignette; use a precise 30-degree isometric view for platforms and structures, with sculptural characters or objects integrated into the scene",
+    "finish": "Crisp vector-like facets, hard-edged geometric planes, bold colored side faces, selective luminous gradients on portals or magical forms, deep midnight-navy starfield openings, tiny white stars, and a clean compact cast shadow",
+    "palette": "Electric cobalt and royal blue, violet and magenta, warm lemon yellow, coral red, mint and lime; set glowing color against deep navy voids and generous white space",
     "reference": "assets/generated/storyworld.webp",
     "references": [
       {
