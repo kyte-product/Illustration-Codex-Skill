@@ -1,42 +1,101 @@
 const grid = document.querySelector('#style-grid');
-const search = document.querySelector('#style-search');
-const count = document.querySelector('#result-count');
 const dialog = document.querySelector('#style-modal');
-const modalContent = document.querySelector('#modal-content');
+const modalTitle = document.querySelector('#modal-title');
+const modalGrid = document.querySelector('#modal-grid');
+const modalRecipe = document.querySelector('#modal-recipe');
+const modalStatus = document.querySelector('#modal-status');
 let styles = [];
+let activeStyle = null;
+let activeStep = 0;
+let workflowTimer;
 
-function renderStyles(query = '') {
-  const term = query.trim().toLowerCase();
-  const visible = styles.filter(style => `${style.name} ${style.description} ${style.palette} ${style.form}`.toLowerCase().includes(term));
-  count.textContent = `${visible.length} ${visible.length === 1 ? 'style' : 'styles'}`;
-  grid.innerHTML = visible.length ? visible.map(style => `
-    <button class="style-card" type="button" data-style="${style.slug}" aria-label="View ${style.name} style details">
-      <span class="style-image"><img loading="lazy" src="${style.reference}" alt="${style.name} style reference illustration" onerror="this.onerror=null;this.src='https://sohna.dev/waterlemon/src/image/min/skill/${style.slug}/${style.slug}_4.png'"></span>
-      <span class="style-meta"><span class="style-title-row"><strong>${style.name}</strong><span class="style-arrow" aria-hidden="true">↗</span></span><span class="style-subtitle">${style.description}</span></span>
-    </button>`).join('') : '<p class="empty-state">No styles match that search. Try another name or visual material.</p>';
-  grid.querySelectorAll('[data-style]').forEach(card => card.addEventListener('click', () => openStyle(card.dataset.style)));
+function imageMarkup(path, alt = '') {
+  return `<img loading="lazy" src="${path}" alt="${alt}">`;
 }
-function openStyle(slug) {
-  const style = styles.find(item => item.slug === slug);
-  if (!style) return;
-  modalContent.innerHTML = `
-    <div class="modal-title-row"><div><span class="section-kicker">Style recipe · ${style.slug}-icon</span><h2 id="modal-title">${style.name}</h2><p>${style.description}. The skill includes a repeatable visual direction to help keep icons in this family consistent.</p></div></div>
-    <div class="modal-images">${style.references.map((src, i) => `<img loading="lazy" src="${src}" alt="${style.name} style reference ${i + 1}" onerror="this.style.display='none'">`).join('')}</div>
-    <div class="modal-facts"><div class="modal-fact"><span>Shape language</span><p>${style.form}</p></div><div class="modal-fact"><span>Surface & light</span><p>${style.finish}</p></div><div class="modal-fact"><span>Palette direction</span><p>${style.palette}</p></div><div class="modal-fact"><span>Use in Codex</span><p>Call <code>${style.slug}-icon</code> directly, or select ${style.name} in the wizard.</p></div></div>
-    <div class="modal-bottom"><small>Reference examples from the public Waterlemon gallery.</small><button type="button" data-copy-style="${style.slug}">Copy “Use ${style.slug}-icon”</button></div>`;
-  modalContent.querySelector('[data-copy-style]').addEventListener('click', async event => {
-    const phrase = `Use the ${style.slug}-icon skill.`;
-    try { await navigator.clipboard.writeText(phrase); event.currentTarget.textContent = 'Copied'; }
-    catch { event.currentTarget.textContent = phrase; }
-  });
+
+function renderStyles() {
+  grid.innerHTML = styles.map(style => {
+    const previews = style.references.slice(0, 4);
+    const single = previews.length === 1 ? ' single' : '';
+    return `<li class="style-card"><button class="style-button" type="button" data-style="${style.slug}" aria-label="Open ${style.name} style preview"><figure class="style-figure"><span class="style-thumbs${single}" aria-hidden="true">${previews.map((src, index) => `<span class="style-thumb">${imageMarkup(src, `${style.name} reference ${index + 1}`)}</span>`).join('')}</span><figcaption class="style-label">${style.name}</figcaption></figure></button></li>`;
+  }).join('');
+  grid.querySelectorAll('[data-style]').forEach(button => button.addEventListener('click', () => openStyle(button.dataset.style, button)));
+}
+
+function openStyle(slug, trigger) {
+  activeStyle = styles.find(style => style.slug === slug);
+  if (!activeStyle) return;
+  dialog.dataset.returnFocus = trigger ? 'yes' : 'no';
+  modalTitle.textContent = `${activeStyle.name} Skill`;
+  modalGrid.innerHTML = activeStyle.references.slice(0, 12).map((src, index) => `<div class="modal-item">${imageMarkup(src, `${activeStyle.name} visual reference ${index + 1}`)}</div>`).join('');
+  if (activeStyle.slug === 'colorcut' || activeStyle.slug === 'hologram' || activeStyle.slug === 'nightfall' || activeStyle.slug === 'storyworld') {
+    modalRecipe.innerHTML = `<div class="recipe-part"><strong>Shape</strong>${activeStyle.form}</div><div class="recipe-part"><strong>Surface</strong>${activeStyle.finish}</div><div class="recipe-part"><strong>Palette</strong>${activeStyle.palette}</div>`;
+  } else {
+    modalRecipe.innerHTML = `<div class="recipe-part"><strong>Shape</strong>${activeStyle.form}</div><div class="recipe-part"><strong>Surface</strong>${activeStyle.finish}</div><div class="recipe-part"><strong>Palette</strong>${activeStyle.palette}</div>`;
+  }
+  modalStatus.textContent = '';
   dialog.showModal();
+  document.querySelector('#modal-close').focus();
 }
-search.addEventListener('input', () => renderStyles(search.value));
-dialog.querySelector('.modal-close').addEventListener('click', () => dialog.close());
-dialog.addEventListener('click', event => { if (event.target === dialog) dialog.close(); });
-const prompt = document.querySelector('#starter-prompt').textContent.trim();
-document.querySelector('#copy-prompt').addEventListener('click', async event => {
-  try { await navigator.clipboard.writeText(prompt); event.currentTarget.innerHTML = 'Copied <span>✓</span>'; }
-  catch { event.currentTarget.textContent = prompt; }
+
+function closeModal() {
+  if (dialog.open) dialog.close();
+}
+document.querySelector('#modal-close').addEventListener('click', closeModal);
+dialog.addEventListener('click', event => { if (event.target === dialog) closeModal(); });
+dialog.addEventListener('close', () => {
+  if (activeStyle && dialog.dataset.returnFocus === 'yes') grid.querySelector(`[data-style="${activeStyle.slug}"]`)?.focus();
 });
-fetch('styles.json').then(response => { if (!response.ok) throw new Error('Could not load style catalog'); return response.json(); }).then(data => { styles = data; renderStyles(); }).catch(() => { grid.innerHTML = '<p class="empty-state">The gallery could not load its style catalog. Serve this folder over HTTP, for example with <code>python3 -m http.server 8000</code>.</p>'; });
+
+document.querySelector('#copy-style').addEventListener('click', async event => {
+  if (!activeStyle) return;
+  const command = `Use the ${activeStyle.slug}-icon skill.`;
+  try {
+    await navigator.clipboard.writeText(command);
+    modalStatus.textContent = `Copied: ${command}`;
+  } catch {
+    modalStatus.textContent = command;
+  }
+  const button = event.currentTarget;
+  button.innerHTML = 'Copied <span aria-hidden="true">✓</span>';
+  window.setTimeout(() => { if (activeStyle) button.innerHTML = 'Use in Codex <span aria-hidden="true">↗</span>'; }, 1700);
+});
+
+const promptText = document.querySelector('#starter-prompt').textContent.trim();
+document.querySelector('#copy-prompt').addEventListener('click', async event => {
+  const button = event.currentTarget;
+  try { await navigator.clipboard.writeText(promptText); button.innerHTML = 'Copied <span aria-hidden="true">✓</span>'; }
+  catch { button.textContent = promptText; }
+  window.setTimeout(() => { button.innerHTML = 'Copy prompt <span aria-hidden="true">↗</span>'; }, 1700);
+});
+
+const steps = [...document.querySelectorAll('[data-step]')];
+const workflowImage = document.querySelector('#workflow-image');
+function showStep(index) {
+  activeStep = (index + steps.length) % steps.length;
+  steps.forEach((step, i) => {
+    const active = i === activeStep;
+    step.classList.toggle('is-active', active);
+    if (active) step.setAttribute('aria-current', 'step'); else step.removeAttribute('aria-current');
+  });
+  const source = styles[activeStep]?.references[0];
+  if (source) {
+    workflowImage.classList.add('is-changing');
+    window.setTimeout(() => { workflowImage.src = source; workflowImage.classList.remove('is-changing'); }, 160);
+  }
+  window.clearTimeout(workflowTimer);
+  if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) workflowTimer = window.setTimeout(() => showStep(activeStep + 1), 4500);
+}
+steps.forEach((step, index) => step.addEventListener('click', () => showStep(index)));
+showStep(0);
+
+document.querySelectorAll('.faq-item').forEach(item => item.addEventListener('toggle', () => {
+  if (item.open) document.querySelectorAll('.faq-item').forEach(other => { if (other !== item) other.open = false; });
+}));
+
+fetch('styles.json').then(response => {
+  if (!response.ok) throw new Error('Style catalog unavailable');
+  return response.json();
+}).then(data => { styles = data; renderStyles(); showStep(activeStep); }).catch(() => {
+  grid.innerHTML = '<li class="style-empty">The style collection could not be loaded.</li>';
+});

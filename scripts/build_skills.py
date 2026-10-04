@@ -3,12 +3,14 @@
 
 from pathlib import Path
 import json
+import shutil
 import sys
 from zipfile import ZipFile, ZIP_DEFLATED
 
 
 ROOT = Path(__file__).resolve().parents[1]
-SITE_SAMPLES = {name: f"assets/{name}.png" for name in ("flare", "clay", "linepop", "riso", "yarn", "candypop", "colorcut", "hologram", "nightfall", "storyworld")}
+SITE_SAMPLES = {name: f"assets/{name}.png" for name in ("colorcut", "hologram", "nightfall", "storyworld")}
+ADDED_STYLES = {"colorcut", "hologram", "nightfall", "storyworld"}
 
 # name, visual medium, form and viewpoint, surface/light, color behavior, exclusion
 STYLES = [
@@ -170,8 +172,14 @@ def main():
     site_dir.mkdir(exist_ok=True)
     catalog = []
     for name, medium, form, finish, colors, avoid in STYLES:
-        local_refs = sorted((site_dir / "assets" / "references" / name).glob("*.png"))
-        references = [str(path.relative_to(site_dir)) for path in local_refs]
+        local_refs = sorted(
+            (site_dir / "assets" / "references" / name).glob("*.png"),
+            key=lambda path: int(path.stem.rsplit("_", 1)[1]),
+        )
+        if name in ADDED_STYLES:
+            references = [SITE_SAMPLES[name]]
+        else:
+            references = [str(path.relative_to(site_dir)) for path in local_refs]
         if not references:
             references = [f"https://sohna.dev/waterlemon/src/image/min/skill/{name}/{name}_{i}.png" for i in (1, 4, 7, 10)]
         catalog.append({
@@ -180,8 +188,8 @@ def main():
             "form": form[0].upper() + form[1:],
             "finish": finish[0].upper() + finish[1:],
             "palette": colors[0].upper() + colors[1:],
-            "reference": SITE_SAMPLES.get(name, references[0]),
-            "references": [SITE_SAMPLES[name]] if name in SITE_SAMPLES else references,
+            "reference": references[0],
+            "references": references,
             "skill": f"skills/{name}-icon/SKILL.md",
         })
     catalog_json = json.dumps(catalog, ensure_ascii=False, indent=2) + "\n"
@@ -209,6 +217,13 @@ def main():
         with ZipFile(archive, "w", ZIP_DEFLATED) as bundle:
             for path in skill_files:
                 bundle.write(path, path.relative_to(ROOT))
+    web_archive = site_dir / "illustration-icon-skills.zip"
+    if check:
+        if not web_archive.exists() or web_archive.read_bytes() != archive.read_bytes():
+            print("The website skill download is missing or out of date", file=sys.stderr)
+            return 1
+    else:
+        shutil.copyfile(archive, web_archive)
     print(f"{'Verified' if check else 'Generated'} {len(STYLES)} styles and one wizard skill")
     return 0
 

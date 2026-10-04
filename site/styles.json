@@ -6,9 +6,20 @@
     "form": "Soft thick rounded forms, slightly uneven molded edges, shallow three-quarter view",
     "finish": "Fine mottled sponge texture, matte surface, diffuse shadows, almost no specular shine",
     "palette": "Pale pistachio and lime main forms, seafoam or turquoise secondary parts, tiny orange-gold details",
-    "reference": "assets/clay.png",
+    "reference": "assets/references/clay/clay_1.png",
     "references": [
-      "assets/clay.png"
+      "assets/references/clay/clay_1.png",
+      "assets/references/clay/clay_2.png",
+      "assets/references/clay/clay_3.png",
+      "assets/references/clay/clay_4.png",
+      "assets/references/clay/clay_5.png",
+      "assets/references/clay/clay_6.png",
+      "assets/references/clay/clay_7.png",
+      "assets/references/clay/clay_8.png",
+      "assets/references/clay/clay_9.png",
+      "assets/references/clay/clay_10.png",
+      "assets/references/clay/clay_11.png",
+      "assets/references/clay/clay_12.png"
     ],
     "skill": "skills/clay-icon/SKILL.md"
   },
@@ -19,9 +30,20 @@
     "form": "Compact app-icon silhouette built from a few crisp geometric planes, mild three-quarter view",
     "finish": "Hard-edged light and dark color blocks, one narrow pale highlight, solid navy side faces; no reflective material",
     "palette": "Bright spring green dominates; deep navy defines depth; cyan and pale blue mark secondary details; yellow-orange only as a small accent",
-    "reference": "assets/flare.png",
+    "reference": "assets/references/flare/flare_1.png",
     "references": [
-      "assets/flare.png"
+      "assets/references/flare/flare_1.png",
+      "assets/references/flare/flare_2.png",
+      "assets/references/flare/flare_3.png",
+      "assets/references/flare/flare_4.png",
+      "assets/references/flare/flare_5.png",
+      "assets/references/flare/flare_6.png",
+      "assets/references/flare/flare_7.png",
+      "assets/references/flare/flare_8.png",
+      "assets/references/flare/flare_9.png",
+      "assets/references/flare/flare_10.png",
+      "assets/references/flare/flare_11.png",
+      "assets/references/flare/flare_12.png"
     ],
     "skill": "skills/flare-icon/SKILL.md"
   },
@@ -35,9 +57,17 @@
     "reference": "assets/references/zing/zing_1.png",
     "references": [
       "assets/references/zing/zing_1.png",
-      "assets/references/zing/zing_10.png",
+      "assets/references/zing/zing_2.png",
+      "assets/references/zing/zing_3.png",
       "assets/references/zing/zing_4.png",
-      "assets/references/zing/zing_7.png"
+      "assets/references/zing/zing_5.png",
+      "assets/references/zing/zing_6.png",
+      "assets/references/zing/zing_7.png",
+      "assets/references/zing/zing_8.png",
+      "assets/references/zing/zing_9.png",
+      "assets/references/zing/zing_10.png",
+      "assets/references/zing/zing_11.png",
+      "assets/references/zing/zing_12.png"
     ],
     "skill": "skills/zing-icon/SKILL.md"
   },
@@ -51,9 +81,17 @@
     "reference": "assets/references/gloss/gloss_1.png",
     "references": [
       "assets/references/gloss/gloss_1.png",
-      "assets/references/gloss/gloss_10.png",
+      "assets/references/gloss/gloss_2.png",
+      "assets/references/gloss/gloss_3.png",
       "assets/references/gloss/gloss_4.png",
-      "assets/references/gloss/gloss_7.png"
+      "assets/references/gloss/gloss_5.png",
+      "assets/references/gloss/gloss_6.png",
+      "assets/references/gloss/gloss_7.png",
+      "assets/references/gloss/gloss_8.png",
+      "assets/references/gloss/gloss_9.png",
+      "assets/references/gloss/gloss_10.png",
+      "assets/references/gloss/gloss_11.png",
+      "assets/references/gloss/gloss_12.png"
     ],
     "skill": "skills/gloss-icon/SKILL.md"
   },
@@ -67,9 +105,17 @@
     "reference": "assets/references/mist/mist_1.png",
     "references": [
       "assets/references/mist/mist_1.png",
-      "assets/references/mist/mist_10.png",
+      "assets/references/mist/mist_2.png",
+      "assets/references/mist/mist_3.png",
       "assets/references/mist/mist_4.png",
-      "assets/references/mist/mist_7.png"
+      "assets/references/mist/mist_5.png",
+      "assets/references/mist/mist_6.png",
+      "assets/references/mist/mist_7.png",
+      "assets/references/mist/mist_8.png",
+      "assets/references/mist/mist_9.png",
+      "assets/references/mist/mist_10.png",
+      "assets/references/mist/mist_11.png",
+      "assets/references/mist/mist_12.png"
     ],
     "skill": "skills/mist-icon/SKILL.md"
   },
@@ -83,9 +129,17 @@
     "reference": "assets/references/pebble/pebble_1.png",
     "references": [
       "assets/references/pebble/pebble_1.png",
-      "assets/references/pebble/pebble_10.png",
+      "assets/references/pebble/pebble_2.png",
+      "assets/references/pebble/pebble_3.png",
       "assets/references/pebble/pebble_4.png",
-      "assets/references/pebble/pebble_7.png"
+      "assets/references/pebble/pebble_5.png",
+      "assets/references/pebble/pebble_6.png",
+      "assets/references/pebble/pebble_7.png",
+      "assets/references/pebble/pebble_8.png",
+      "assets/references/pebble/pebble_9.png",
+      "assets/references/pebble/pebble_10.png",
+      "assets/references/pebble/pebble_11.png",
+      "assets/references/pebble/pebble_12.png"
     ],
     "skill": "skills/pebble-icon/SKILL.md"
   },
@@ -99,9 +153,17 @@
     "reference": "assets/references/drift/drift_1.png",
     "references": [
       "assets/references/drift/drift_1.png",
-      "assets/references/drift/drift_10.png",
+      "assets/references/drift/drift_2.png",
+      "assets/references/drift/drift_3.png",
       "assets/references/drift/drift_4.png",
-      "assets/references/drift/drift_7.png"
+      "assets/references/drift/drift_5.png",
+      "assets/references/drift/drift_6.png",
+      "assets/references/drift/drift_7.png",
+      "assets/references/drift/drift_8.png",
+      "assets/references/drift/drift_9.png",
+      "assets/references/drift/drift_10.png",
+      "assets/references/drift/drift_11.png",
+      "assets/references/drift/drift_12.png"
     ],
     "skill": "skills/drift-icon/SKILL.md"
   },
@@ -115,9 +177,16 @@
     "reference": "assets/references/ink/ink_1.png",
     "references": [
       "assets/references/ink/ink_1.png",
-      "assets/references/ink/ink_10.png",
+      "assets/references/ink/ink_2.png",
+      "assets/references/ink/ink_3.png",
       "assets/references/ink/ink_4.png",
-      "assets/references/ink/ink_7.png"
+      "assets/references/ink/ink_5.png",
+      "assets/references/ink/ink_6.png",
+      "assets/references/ink/ink_7.png",
+      "assets/references/ink/ink_8.png",
+      "assets/references/ink/ink_9.png",
+      "assets/references/ink/ink_10.png",
+      "assets/references/ink/ink_11.png"
     ],
     "skill": "skills/ink-icon/SKILL.md"
   },
@@ -131,9 +200,17 @@
     "reference": "assets/references/cardboard/cardboard_1.png",
     "references": [
       "assets/references/cardboard/cardboard_1.png",
-      "assets/references/cardboard/cardboard_10.png",
+      "assets/references/cardboard/cardboard_2.png",
+      "assets/references/cardboard/cardboard_3.png",
       "assets/references/cardboard/cardboard_4.png",
-      "assets/references/cardboard/cardboard_7.png"
+      "assets/references/cardboard/cardboard_5.png",
+      "assets/references/cardboard/cardboard_6.png",
+      "assets/references/cardboard/cardboard_7.png",
+      "assets/references/cardboard/cardboard_8.png",
+      "assets/references/cardboard/cardboard_9.png",
+      "assets/references/cardboard/cardboard_10.png",
+      "assets/references/cardboard/cardboard_11.png",
+      "assets/references/cardboard/cardboard_12.png"
     ],
     "skill": "skills/cardboard-icon/SKILL.md"
   },
@@ -144,9 +221,20 @@
     "form": "Mostly white object described by thin even near-black contours and clean inner construction lines, slight three-quarter view",
     "finish": "Little to no shaded fill, extremely restrained pale-blue side plane, tiny crisp highlight",
     "palette": "White dominates; neon lime focal marks and smaller yellow marks; pale blue for depth; near-black for hairline outlines",
-    "reference": "assets/linepop.png",
+    "reference": "assets/references/linepop/linepop_1.png",
     "references": [
-      "assets/linepop.png"
+      "assets/references/linepop/linepop_1.png",
+      "assets/references/linepop/linepop_2.png",
+      "assets/references/linepop/linepop_3.png",
+      "assets/references/linepop/linepop_4.png",
+      "assets/references/linepop/linepop_5.png",
+      "assets/references/linepop/linepop_6.png",
+      "assets/references/linepop/linepop_7.png",
+      "assets/references/linepop/linepop_8.png",
+      "assets/references/linepop/linepop_9.png",
+      "assets/references/linepop/linepop_10.png",
+      "assets/references/linepop/linepop_11.png",
+      "assets/references/linepop/linepop_12.png"
     ],
     "skill": "skills/linepop-icon/SKILL.md"
   },
@@ -160,9 +248,17 @@
     "reference": "assets/references/glide/glide_1.png",
     "references": [
       "assets/references/glide/glide_1.png",
-      "assets/references/glide/glide_10.png",
+      "assets/references/glide/glide_2.png",
+      "assets/references/glide/glide_3.png",
       "assets/references/glide/glide_4.png",
-      "assets/references/glide/glide_7.png"
+      "assets/references/glide/glide_5.png",
+      "assets/references/glide/glide_6.png",
+      "assets/references/glide/glide_7.png",
+      "assets/references/glide/glide_8.png",
+      "assets/references/glide/glide_9.png",
+      "assets/references/glide/glide_10.png",
+      "assets/references/glide/glide_11.png",
+      "assets/references/glide/glide_12.png"
     ],
     "skill": "skills/glide-icon/SKILL.md"
   },
@@ -176,9 +272,17 @@
     "reference": "assets/references/nimble/nimble_1.png",
     "references": [
       "assets/references/nimble/nimble_1.png",
-      "assets/references/nimble/nimble_10.png",
+      "assets/references/nimble/nimble_2.png",
+      "assets/references/nimble/nimble_3.png",
       "assets/references/nimble/nimble_4.png",
-      "assets/references/nimble/nimble_7.png"
+      "assets/references/nimble/nimble_5.png",
+      "assets/references/nimble/nimble_6.png",
+      "assets/references/nimble/nimble_7.png",
+      "assets/references/nimble/nimble_8.png",
+      "assets/references/nimble/nimble_9.png",
+      "assets/references/nimble/nimble_10.png",
+      "assets/references/nimble/nimble_11.png",
+      "assets/references/nimble/nimble_12.png"
     ],
     "skill": "skills/nimble-icon/SKILL.md"
   },
@@ -192,9 +296,17 @@
     "reference": "assets/references/jot/jot_1.png",
     "references": [
       "assets/references/jot/jot_1.png",
-      "assets/references/jot/jot_10.png",
+      "assets/references/jot/jot_2.png",
+      "assets/references/jot/jot_3.png",
       "assets/references/jot/jot_4.png",
-      "assets/references/jot/jot_7.png"
+      "assets/references/jot/jot_5.png",
+      "assets/references/jot/jot_6.png",
+      "assets/references/jot/jot_7.png",
+      "assets/references/jot/jot_8.png",
+      "assets/references/jot/jot_9.png",
+      "assets/references/jot/jot_10.png",
+      "assets/references/jot/jot_11.png",
+      "assets/references/jot/jot_12.png"
     ],
     "skill": "skills/jot-icon/SKILL.md"
   },
@@ -205,9 +317,20 @@
     "form": "Chunky editorial object made from overlapping graphic print plates, shallow three-quarter view",
     "finish": "Visible halftone dots and slight ink offset, paper grain, hard print edges, no volumetric shine",
     "palette": "Electric cobalt blue, acid yellow, aqua mint, lavender, small coral-red offset; cream-paper gaps",
-    "reference": "assets/riso.png",
+    "reference": "assets/references/riso/riso_1.png",
     "references": [
-      "assets/riso.png"
+      "assets/references/riso/riso_1.png",
+      "assets/references/riso/riso_2.png",
+      "assets/references/riso/riso_3.png",
+      "assets/references/riso/riso_4.png",
+      "assets/references/riso/riso_5.png",
+      "assets/references/riso/riso_6.png",
+      "assets/references/riso/riso_7.png",
+      "assets/references/riso/riso_8.png",
+      "assets/references/riso/riso_9.png",
+      "assets/references/riso/riso_10.png",
+      "assets/references/riso/riso_11.png",
+      "assets/references/riso/riso_12.png"
     ],
     "skill": "skills/riso-icon/SKILL.md"
   },
@@ -221,9 +344,17 @@
     "reference": "assets/references/marker/marker_1.png",
     "references": [
       "assets/references/marker/marker_1.png",
-      "assets/references/marker/marker_10.png",
+      "assets/references/marker/marker_2.png",
+      "assets/references/marker/marker_3.png",
       "assets/references/marker/marker_4.png",
-      "assets/references/marker/marker_7.png"
+      "assets/references/marker/marker_5.png",
+      "assets/references/marker/marker_6.png",
+      "assets/references/marker/marker_7.png",
+      "assets/references/marker/marker_8.png",
+      "assets/references/marker/marker_9.png",
+      "assets/references/marker/marker_10.png",
+      "assets/references/marker/marker_11.png",
+      "assets/references/marker/marker_12.png"
     ],
     "skill": "skills/marker-icon/SKILL.md"
   },
@@ -237,9 +368,17 @@
     "reference": "assets/references/glass/glass_1.png",
     "references": [
       "assets/references/glass/glass_1.png",
-      "assets/references/glass/glass_10.png",
+      "assets/references/glass/glass_2.png",
+      "assets/references/glass/glass_3.png",
       "assets/references/glass/glass_4.png",
-      "assets/references/glass/glass_7.png"
+      "assets/references/glass/glass_5.png",
+      "assets/references/glass/glass_6.png",
+      "assets/references/glass/glass_7.png",
+      "assets/references/glass/glass_8.png",
+      "assets/references/glass/glass_9.png",
+      "assets/references/glass/glass_10.png",
+      "assets/references/glass/glass_11.png",
+      "assets/references/glass/glass_12.png"
     ],
     "skill": "skills/glass-icon/SKILL.md"
   },
@@ -253,9 +392,17 @@
     "reference": "assets/references/watercolor/watercolor_1.png",
     "references": [
       "assets/references/watercolor/watercolor_1.png",
-      "assets/references/watercolor/watercolor_10.png",
+      "assets/references/watercolor/watercolor_2.png",
+      "assets/references/watercolor/watercolor_3.png",
       "assets/references/watercolor/watercolor_4.png",
-      "assets/references/watercolor/watercolor_7.png"
+      "assets/references/watercolor/watercolor_5.png",
+      "assets/references/watercolor/watercolor_6.png",
+      "assets/references/watercolor/watercolor_7.png",
+      "assets/references/watercolor/watercolor_8.png",
+      "assets/references/watercolor/watercolor_9.png",
+      "assets/references/watercolor/watercolor_10.png",
+      "assets/references/watercolor/watercolor_11.png",
+      "assets/references/watercolor/watercolor_12.png"
     ],
     "skill": "skills/watercolor-icon/SKILL.md"
   },
@@ -266,9 +413,20 @@
     "form": "Recognizable cozy object built from thick stitched pieces and sewn-on small details, three-quarter view",
     "finish": "Individual yarn loops and cable-knit ridges visible throughout, soft wool fibers, gentle warm lighting",
     "palette": "Muted sage green, oatmeal cream, chestnut brown, and tiny burnt-orange stitches",
-    "reference": "assets/yarn.png",
+    "reference": "assets/references/yarn/yarn_1.png",
     "references": [
-      "assets/yarn.png"
+      "assets/references/yarn/yarn_1.png",
+      "assets/references/yarn/yarn_2.png",
+      "assets/references/yarn/yarn_3.png",
+      "assets/references/yarn/yarn_4.png",
+      "assets/references/yarn/yarn_5.png",
+      "assets/references/yarn/yarn_6.png",
+      "assets/references/yarn/yarn_7.png",
+      "assets/references/yarn/yarn_8.png",
+      "assets/references/yarn/yarn_9.png",
+      "assets/references/yarn/yarn_10.png",
+      "assets/references/yarn/yarn_11.png",
+      "assets/references/yarn/yarn_12.png"
     ],
     "skill": "skills/yarn-icon/SKILL.md"
   },
@@ -282,9 +440,17 @@
     "reference": "assets/references/sketchy/sketchy_1.png",
     "references": [
       "assets/references/sketchy/sketchy_1.png",
-      "assets/references/sketchy/sketchy_10.png",
+      "assets/references/sketchy/sketchy_2.png",
+      "assets/references/sketchy/sketchy_3.png",
       "assets/references/sketchy/sketchy_4.png",
-      "assets/references/sketchy/sketchy_7.png"
+      "assets/references/sketchy/sketchy_5.png",
+      "assets/references/sketchy/sketchy_6.png",
+      "assets/references/sketchy/sketchy_7.png",
+      "assets/references/sketchy/sketchy_8.png",
+      "assets/references/sketchy/sketchy_9.png",
+      "assets/references/sketchy/sketchy_10.png",
+      "assets/references/sketchy/sketchy_11.png",
+      "assets/references/sketchy/sketchy_12.png"
     ],
     "skill": "skills/sketchy-icon/SKILL.md"
   },
@@ -298,9 +464,17 @@
     "reference": "assets/references/pulse/pulse_1.png",
     "references": [
       "assets/references/pulse/pulse_1.png",
-      "assets/references/pulse/pulse_10.png",
+      "assets/references/pulse/pulse_2.png",
+      "assets/references/pulse/pulse_3.png",
       "assets/references/pulse/pulse_4.png",
-      "assets/references/pulse/pulse_7.png"
+      "assets/references/pulse/pulse_5.png",
+      "assets/references/pulse/pulse_6.png",
+      "assets/references/pulse/pulse_7.png",
+      "assets/references/pulse/pulse_8.png",
+      "assets/references/pulse/pulse_9.png",
+      "assets/references/pulse/pulse_10.png",
+      "assets/references/pulse/pulse_11.png",
+      "assets/references/pulse/pulse_12.png"
     ],
     "skill": "skills/pulse-icon/SKILL.md"
   },
@@ -311,9 +485,20 @@
     "form": "Inflated sweets or playful fantasy object made of fat rounded pieces, centered three-quarter view",
     "finish": "Hard white reflections, glassy candy coating, thick luminous rims, occasional tiny sparkle",
     "palette": "Hot magenta and candy pink, electric cyan and royal blue, vivid violet, bright yellow highlights",
-    "reference": "assets/candypop.png",
+    "reference": "assets/references/candypop/candypop_1.png",
     "references": [
-      "assets/candypop.png"
+      "assets/references/candypop/candypop_1.png",
+      "assets/references/candypop/candypop_2.png",
+      "assets/references/candypop/candypop_3.png",
+      "assets/references/candypop/candypop_4.png",
+      "assets/references/candypop/candypop_5.png",
+      "assets/references/candypop/candypop_6.png",
+      "assets/references/candypop/candypop_7.png",
+      "assets/references/candypop/candypop_8.png",
+      "assets/references/candypop/candypop_9.png",
+      "assets/references/candypop/candypop_10.png",
+      "assets/references/candypop/candypop_11.png",
+      "assets/references/candypop/candypop_12.png"
     ],
     "skill": "skills/candypop-icon/SKILL.md"
   },
@@ -327,9 +512,17 @@
     "reference": "assets/references/charcoal/charcoal_1.png",
     "references": [
       "assets/references/charcoal/charcoal_1.png",
-      "assets/references/charcoal/charcoal_10.png",
+      "assets/references/charcoal/charcoal_2.png",
+      "assets/references/charcoal/charcoal_3.png",
       "assets/references/charcoal/charcoal_4.png",
-      "assets/references/charcoal/charcoal_7.png"
+      "assets/references/charcoal/charcoal_5.png",
+      "assets/references/charcoal/charcoal_6.png",
+      "assets/references/charcoal/charcoal_7.png",
+      "assets/references/charcoal/charcoal_8.png",
+      "assets/references/charcoal/charcoal_9.png",
+      "assets/references/charcoal/charcoal_10.png",
+      "assets/references/charcoal/charcoal_11.png",
+      "assets/references/charcoal/charcoal_12.png"
     ],
     "skill": "skills/charcoal-icon/SKILL.md"
   },
@@ -343,9 +536,17 @@
     "reference": "assets/references/ceramic/ceramic_1.png",
     "references": [
       "assets/references/ceramic/ceramic_1.png",
-      "assets/references/ceramic/ceramic_10.png",
+      "assets/references/ceramic/ceramic_2.png",
+      "assets/references/ceramic/ceramic_3.png",
       "assets/references/ceramic/ceramic_4.png",
-      "assets/references/ceramic/ceramic_7.png"
+      "assets/references/ceramic/ceramic_5.png",
+      "assets/references/ceramic/ceramic_6.png",
+      "assets/references/ceramic/ceramic_7.png",
+      "assets/references/ceramic/ceramic_8.png",
+      "assets/references/ceramic/ceramic_9.png",
+      "assets/references/ceramic/ceramic_10.png",
+      "assets/references/ceramic/ceramic_11.png",
+      "assets/references/ceramic/ceramic_12.png"
     ],
     "skill": "skills/ceramic-icon/SKILL.md"
   },
@@ -359,9 +560,17 @@
     "reference": "assets/references/fuzzy/fuzzy_1.png",
     "references": [
       "assets/references/fuzzy/fuzzy_1.png",
-      "assets/references/fuzzy/fuzzy_10.png",
+      "assets/references/fuzzy/fuzzy_2.png",
+      "assets/references/fuzzy/fuzzy_3.png",
       "assets/references/fuzzy/fuzzy_4.png",
-      "assets/references/fuzzy/fuzzy_7.png"
+      "assets/references/fuzzy/fuzzy_5.png",
+      "assets/references/fuzzy/fuzzy_6.png",
+      "assets/references/fuzzy/fuzzy_7.png",
+      "assets/references/fuzzy/fuzzy_8.png",
+      "assets/references/fuzzy/fuzzy_9.png",
+      "assets/references/fuzzy/fuzzy_10.png",
+      "assets/references/fuzzy/fuzzy_11.png",
+      "assets/references/fuzzy/fuzzy_12.png"
     ],
     "skill": "skills/fuzzy-icon/SKILL.md"
   },
