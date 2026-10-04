@@ -61,6 +61,20 @@ document.querySelector('#copy-style').addEventListener('click', async event => {
   window.setTimeout(() => { if (activeStyle) button.innerHTML = 'Use in Codex <span aria-hidden="true">↗</span>'; }, 1700);
 });
 
+document.querySelector('#copy-prompt').addEventListener('click', async event => {
+  const prompt = 'Use the illustration-icon-wizard skill. Ask me one question at a time and wait for my answer before asking the next.';
+  const button = event.currentTarget;
+  try {
+    await navigator.clipboard.writeText(prompt);
+    button.textContent = 'Prompt copied';
+    document.querySelector('#prompt-copy-status').textContent = 'Wizard prompt copied to clipboard.';
+  } catch {
+    button.textContent = prompt;
+    document.querySelector('#prompt-copy-status').textContent = prompt;
+  }
+  window.setTimeout(() => { button.textContent = 'Copy wizard prompt'; }, 1800);
+});
+
 const steps = [...document.querySelectorAll('[data-step]')];
 const workflowImage = document.querySelector('#workflow-image');
 const workflowSample = document.querySelector('#workflow-sample');

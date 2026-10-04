@@ -93,6 +93,11 @@ button { -webkit-tap-highlight-color: transparent; }
 .workflow-step.is-active .workflow-copy > span { color: var(--muted); }
 @keyframes step-progress { to { transform: scaleY(1); } }
 
+.start-banner { display: flex; align-items: center; justify-content: space-between; gap: 28px; margin-top: var(--section-space); padding: 28px 30px; border: 1px solid var(--line); border-radius: 24px; background: var(--surface); }
+.start-banner-copy h2 { margin: 0; font-size: 21px; font-weight: 600; letter-spacing: -.045em; }
+.start-banner-copy p { margin: 7px 0 0; color: var(--muted); font-size: var(--type-ui); line-height: 1.5; }
+.start-banner-actions { display: flex; flex: 0 0 auto; align-items: center; gap: 10px; }
+.start-banner .action-secondary { min-height: 48px; border-color: #e2e2e2; }
 .modal-action:hover { background: #292929; }
 
 .faq-section { margin: var(--section-space) -32px -32px; padding: 100px 0 72px; background: var(--surface); }
@@ -161,6 +166,8 @@ code { padding: 1px 4px; border-radius: 4px; background: var(--surface); font: v
   .workflow-content { grid-template-columns: 1fr; gap: 25px; margin-top: 24px; }
   .workflow-visual { width: min(100%, 380px); justify-self: center; border-radius: 24px; }
   .workflow-steps { gap: 18px; }
+  .start-banner { align-items: flex-start; flex-direction: column; gap: 18px; padding: 22px; border-radius: 20px; }
+  .start-banner-actions { flex-wrap: wrap; }
   .faq-section { margin: var(--section-space) -20px -20px; padding: 62px 0 35px; }
   .faq-content { grid-template-columns: 1fr; gap: 24px; }
   .faq-list { gap: 8px; }
