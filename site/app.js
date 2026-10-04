@@ -61,14 +61,6 @@ document.querySelector('#copy-style').addEventListener('click', async event => {
   window.setTimeout(() => { if (activeStyle) button.innerHTML = 'Use in Codex <span aria-hidden="true">↗</span>'; }, 1700);
 });
 
-const promptText = document.querySelector('#starter-prompt').textContent.trim();
-document.querySelector('#copy-prompt').addEventListener('click', async event => {
-  const button = event.currentTarget;
-  try { await navigator.clipboard.writeText(promptText); button.innerHTML = 'Copied <span aria-hidden="true">✓</span>'; }
-  catch { button.textContent = promptText; }
-  window.setTimeout(() => { button.innerHTML = 'Copy prompt <span aria-hidden="true">↗</span>'; }, 1700);
-});
-
 const steps = [...document.querySelectorAll('[data-step]')];
 const workflowImage = document.querySelector('#workflow-image');
 const workflowSample = document.querySelector('#workflow-sample');
