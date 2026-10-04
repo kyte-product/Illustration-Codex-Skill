@@ -24,19 +24,19 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 
 ## Style lock
 
-- Medium: whimsical editorial 2.5D spot illustration.
-- Form: one expressive subject with at most one or two small related props, dynamic tilt or float, rounded silhouette on a deep slate field.
-- Surface and light: soft painted gradients on simplified matte beveled planes, mild grain, small bright highlights and occasional motion/cloud/star accents.
-- Default color direction: coral peach, sky blue, lime green, sunflower yellow and warm orange against dark blue-charcoal #2B424A.
-- Avoid: white card backgrounds, realistic microdetail, rigid centered product renders, neon plastic gloss, hard black outlines, or crowded full scenes, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
+- Medium: matte painted editorial spot illustration.
+- Form: small tilted or floating vignette on a solid deep-slate field; one expressive subject with no more than one related prop or motion flourish.
+- Surface and light: rounded softly beveled shapes, restrained hand-painted gradients and very light pigment grain, gentle upper-left light; sparse cloud fragments or tiny sparkles.
+- Default color direction: coral-peach, pale sky blue, grass green, warm orange and sunflower yellow against dark blue-charcoal #2B424A.
+- Avoid: white card backgrounds, realistic surface detail, dead-center product renders, glossy plastic, neon effects, hard black outlines, full environments, or crowded props, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
 
 ## Visual calibration
 
-Reference sheet 3: twenty-four hand-shaped spot illustrations arranged in even rows on uniform dark slate. Each is a small editorial vignette, usually a main object plus one related secondary object or motion flourish. Shapes tilt, hover, spring, pour, or grow. Rounded beveled pieces use restrained soft gradients and a lightly painted surface; not flat monochrome and not glossy plastic. Pale blue, peach, coral, grass green, orange, and yellow pop against the dark field. Short white cloud fragments or tiny sparkles add movement. Preserve wide negative space and do not turn each item into a framed card. If this conversation still contains the user's reference sheet, use it as a style reference in an image tool that accepts conversation images. Otherwise follow these notes and the Style lock. Do not copy any subject from the sheet.
+Reference sheet 3: twenty-four isolated editorial vignettes in a regular 4-by-6 arrangement on uniform deep slate. Every small vignette has one expressive object and at most one related prop or motion flourish. Use lively tilt, hover, spring, pour or growth. Rounded matte forms have gentle bevels, restrained hand-painted gradients and a lightly painted finish; they are neither flat monochrome nor glossy plastic. Peach, coral, pale blue, green, orange and yellow stand out clearly against the slate. A few vignettes use short pale cloud fragments or tiny sparkles. Keep generous dark negative space and never place items in framed cards or detailed scenes. If this conversation still contains the user's reference sheet, use it as a style reference in an image tool that accepts conversation images. Otherwise follow these notes and the Style lock. Do not copy any subject from the sheet.
 
 ## Generate
 
-Make the silhouette unmistakable at 64 px. Keep the whole object or mini-scene within the central 65% of the canvas width and height, leaving generous balanced empty space. Reduce the subject to its identifying parts; omit tiny details that disappear at the intended size. Preserve the same viewpoint, scale, stroke weight or material treatment, light direction, shadow softness, and palette across a set. A solid background is a uniform field, not an app tile or surrounding scene.
+Keep the vignette compact and expressive at 96 px; preserve a clear dark margin around every shape. Keep the whole object or mini-scene within the central 65% of the canvas width and height, leaving generous balanced empty space. Reduce the subject to its identifying parts; omit tiny details that disappear at the intended size. Preserve the same viewpoint, scale, stroke weight or material treatment, light direction, shadow softness, and palette across a set. A solid background is a uniform field, not an app tile or surrounding scene.
 
 Build a prompt with the subject, every style lock above, the chosen color mapping, selected canvas, and requested background. Explicitly describe which parts of the subject get primary, secondary, and accent colors. Use the image generation tool directly. Set its transparent background option when the user wants a transparent icon. For a series, reuse the same style block word for word and change only subject anatomy and user-requested colors. Prefer individual deliverables over a contact sheet unless the user asks for a sheet.
 

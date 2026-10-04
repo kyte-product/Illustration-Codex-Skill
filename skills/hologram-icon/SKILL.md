@@ -24,19 +24,19 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 
 ## Style lock
 
-- Medium: luminous pastel holographic vector-3D illustration.
-- Form: small floating pictogram built from five to seven broad beveled geometric facets, subtle three-quarter tilt and faint horizontal ground shadow.
-- Surface and light: opalescent cyan-violet-pink-gold color transitions on select facets, clean narrow edge lights, sparse sparkles; icon-like rather than physically metallic.
-- Default color direction: powder cyan and lavender dominate, with peach pink, golden yellow and mint reflections against a very pale aqua field.
-- Avoid: realistic metal, microtexture, physical controls, dark heavy shadows, thick gold frames, or large detailed product renders, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
+- Medium: opalescent faceted vector-3D illustration.
+- Form: compact floating icon built from a handful of broad beveled planes, subtly tilted in three-quarter view, small clear silhouette and faint ground shadow.
+- Surface and light: crisp facet boundaries with restrained cyan-lavender-peach-gold refraction on selected faces, narrow pale edge glints, only occasional pin-size star glint; light from above-left.
+- Default color direction: powder cyan and lavender dominate, with blush-peach and small golden reflections over very pale mint.
+- Avoid: gold wireframe outlines, densely tessellated jewel surfaces, realistic metal, microtexture, huge glow, all-over rainbow, physical controls, dark shadows, or large product renders, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
 
 ## Visual calibration
 
-Reference sheet 2: fifteen finance and technology motifs on very pale mint. Compact beveled silhouettes float just above a faint horizontal ground shadow. Surfaces are iridescent cyan, lavender, peach, and gold with clear faceted edges, narrow highlights, and a few tiny star glints. Light comes from above-left; dark purple appears only in inset cavities and fine shadow edges. This differs from opaque Gloss and very pale Glass: keep the opalescent spectrum and moderate contrast, without thick gold frames. Match the grammar, never the reference subjects. If this conversation still contains the user's reference sheet, use it as a style reference in an image tool that accepts conversation images. Otherwise follow these notes and the Style lock. Do not copy any subject from the sheet.
+Reference sheet 2: fifteen technology and finance icons in a tidy 5-by-3 layout on very pale mint. Each is a small clean silhouette made from a handful of broad, beveled faceted surfaces, with clear transitions between planes. Opalescent cyan and lavender dominate; peach and gold are selective face reflections, not outlines. Add slender pale edge glints, upper-left lighting, a faint short shadow underneath and only a rare pin-size star. Keep moderate contrast and visible object color. This differs from gold-framed Gloss and pale frosted Glass: avoid wireframes, dense jewel tessellation, oversized glow and broad rainbow wash. Match the grammar, never the reference subjects. If this conversation still contains the user's reference sheet, use it as a style reference in an image tool that accepts conversation images. Otherwise follow these notes and the Style lock. Do not copy any subject from the sheet.
 
 ## Generate
 
-Make the silhouette unmistakable at 64 px. Keep the whole object or mini-scene within the central 65% of the canvas width and height, leaving generous balanced empty space. Reduce the subject to its identifying parts; omit tiny details that disappear at the intended size. Preserve the same viewpoint, scale, stroke weight or material treatment, light direction, shadow softness, and palette across a set. A solid background is a uniform field, not an app tile or surrounding scene.
+Keep the icon compact and its broad facets readable at 64 px; avoid tiny facet lines and oversize glow. Keep the whole object or mini-scene within the central 65% of the canvas width and height, leaving generous balanced empty space. Reduce the subject to its identifying parts; omit tiny details that disappear at the intended size. Preserve the same viewpoint, scale, stroke weight or material treatment, light direction, shadow softness, and palette across a set. A solid background is a uniform field, not an app tile or surrounding scene.
 
 Build a prompt with the subject, every style lock above, the chosen color mapping, selected canvas, and requested background. Explicitly describe which parts of the subject get primary, secondary, and accent colors. Use the image generation tool directly. Set its transparent background option when the user wants a transparent icon. For a series, reuse the same style block word for word and change only subject anatomy and user-requested colors. Prefer individual deliverables over a contact sheet unless the user asks for a sheet.
 

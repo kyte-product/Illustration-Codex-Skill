@@ -24,19 +24,19 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 
 ## Style lock
 
-- Medium: tiny colorful cut-paper vector glyph.
-- Form: one compact object reduced to a few irregular overlapping silhouettes, near-front view, no perspective grid.
-- Surface and light: mostly flat opaque fills with small soft gradient transitions at overlaps, rounded corners, no stroke outline or cast shadow.
-- Default color direction: vivid cobalt blue, leaf green, vermilion red, bubblegum pink, sunny orange, and pale lime chosen as two or three dominant hues per icon.
-- Avoid: black outlines, glossy 3D, detailed realism, uniform rainbow fill, lettering, or a pictogram inside a card, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
+- Medium: soft-edged colorful vector glyph.
+- Form: one small compact pictogram built from two to five rounded, irregular interlocking color shapes, front-facing without perspective.
+- Surface and light: mostly flat digital fills, softly blended overlap edges, occasional clipped edge, hole or inset; no physical paper texture, stroke or grounding shadow.
+- Default color direction: bright cobalt, leaf green, vermilion, pink, orange and pale lime; limit each glyph to two or three hues.
+- Avoid: large logo-like scale, hard flat SVG edges, physical paper grain, black outlines, glossy 3D, realism, uniform rainbow fill, lettering, or a pictogram inside a card, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
 
 ## Visual calibration
 
-Reference sheet 1: twenty tiny glyphs in a loose four-column grid on warm ivory. Each is a stand-alone pictogram with abundant whitespace. Forms look cut from two to five curved colored paper pieces, often with one clipped edge, hole, or small inset mark. There is no contour stroke. Colors vary by subject, but neighboring colors gently blend at some boundaries; the result is brighter and softer than a strict flat SVG. Details are nearly absent and shadows do not ground the icon. Match the visual grammar, never the reference subjects. If this conversation still contains the user's reference sheet, use it as a style reference in an image tool that accepts conversation images. Otherwise follow these notes and the Style lock. Do not copy any subject from the sheet.
+Reference sheet 1: twenty very small glyphs in an open four-column grid on warm ivory. Keep each glyph modest inside its cell, surrounded by conspicuous space. Stand-alone pictograms use two to five soft, organic vector pieces that interlock like simple cutouts; this is digital illustration, not textured craft paper. Some edges gently blend or overlap; a clipped edge, hole or inset can identify the object. No contour stroke, grounding shadow or extra decoration. The colors are vivid but friendly and usually limited to two or three hues per symbol. Match the visual grammar, never the reference subjects. If this conversation still contains the user's reference sheet, use it as a style reference in an image tool that accepts conversation images. Otherwise follow these notes and the Style lock. Do not copy any subject from the sheet.
 
 ## Generate
 
-Make the silhouette unmistakable at 64 px. Keep the whole object or mini-scene within the central 65% of the canvas width and height, leaving generous balanced empty space. Reduce the subject to its identifying parts; omit tiny details that disappear at the intended size. Preserve the same viewpoint, scale, stroke weight or material treatment, light direction, shadow softness, and palette across a set. A solid background is a uniform field, not an app tile or surrounding scene.
+Keep an individual glyph compact, centered, and simple enough to read at 64 px; preserve clear empty space around it. Keep the whole object or mini-scene within the central 65% of the canvas width and height, leaving generous balanced empty space. Reduce the subject to its identifying parts; omit tiny details that disappear at the intended size. Preserve the same viewpoint, scale, stroke weight or material treatment, light direction, shadow softness, and palette across a set. A solid background is a uniform field, not an app tile or surrounding scene.
 
 Build a prompt with the subject, every style lock above, the chosen color mapping, selected canvas, and requested background. Explicitly describe which parts of the subject get primary, secondary, and accent colors. Use the image generation tool directly. Set its transparent background option when the user wants a transparent icon. For a series, reuse the same style block word for word and change only subject anatomy and user-requested colors. Prefer individual deliverables over a contact sheet unless the user asks for a sheet.
 

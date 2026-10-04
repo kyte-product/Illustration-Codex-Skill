@@ -577,10 +577,10 @@
   {
     "name": "Colorcut",
     "slug": "colorcut",
-    "description": "Tiny colorful cut-paper vector glyph",
-    "form": "One compact object reduced to a few irregular overlapping silhouettes, near-front view, no perspective grid",
-    "finish": "Mostly flat opaque fills with small soft gradient transitions at overlaps, rounded corners, no stroke outline or cast shadow",
-    "palette": "Vivid cobalt blue, leaf green, vermilion red, bubblegum pink, sunny orange, and pale lime chosen as two or three dominant hues per icon",
+    "description": "Soft-edged colorful vector glyph",
+    "form": "One small compact pictogram built from two to five rounded, irregular interlocking color shapes, front-facing without perspective",
+    "finish": "Mostly flat digital fills, softly blended overlap edges, occasional clipped edge, hole or inset; no physical paper texture, stroke or grounding shadow",
+    "palette": "Bright cobalt, leaf green, vermilion, pink, orange and pale lime; limit each glyph to two or three hues",
     "reference": "assets/colorcut.png",
     "references": [
       "assets/colorcut.png"
@@ -590,10 +590,10 @@
   {
     "name": "Hologram",
     "slug": "hologram",
-    "description": "Luminous pastel holographic vector-3D illustration",
-    "form": "Small floating pictogram built from five to seven broad beveled geometric facets, subtle three-quarter tilt and faint horizontal ground shadow",
-    "finish": "Opalescent cyan-violet-pink-gold color transitions on select facets, clean narrow edge lights, sparse sparkles; icon-like rather than physically metallic",
-    "palette": "Powder cyan and lavender dominate, with peach pink, golden yellow and mint reflections against a very pale aqua field",
+    "description": "Opalescent faceted vector-3D illustration",
+    "form": "Compact floating icon built from a handful of broad beveled planes, subtly tilted in three-quarter view, small clear silhouette and faint ground shadow",
+    "finish": "Crisp facet boundaries with restrained cyan-lavender-peach-gold refraction on selected faces, narrow pale edge glints, only occasional pin-size star glint; light from above-left",
+    "palette": "Powder cyan and lavender dominate, with blush-peach and small golden reflections over very pale mint",
     "reference": "assets/hologram.png",
     "references": [
       "assets/hologram.png"
@@ -603,10 +603,10 @@
   {
     "name": "Nightfall",
     "slug": "nightfall",
-    "description": "Whimsical editorial 2.5D spot illustration",
-    "form": "One expressive subject with at most one or two small related props, dynamic tilt or float, rounded silhouette on a deep slate field",
-    "finish": "Soft painted gradients on simplified matte beveled planes, mild grain, small bright highlights and occasional motion/cloud/star accents",
-    "palette": "Coral peach, sky blue, lime green, sunflower yellow and warm orange against dark blue-charcoal #2B424A",
+    "description": "Matte painted editorial spot illustration",
+    "form": "Small tilted or floating vignette on a solid deep-slate field; one expressive subject with no more than one related prop or motion flourish",
+    "finish": "Rounded softly beveled shapes, restrained hand-painted gradients and very light pigment grain, gentle upper-left light; sparse cloud fragments or tiny sparkles",
+    "palette": "Coral-peach, pale sky blue, grass green, warm orange and sunflower yellow against dark blue-charcoal #2B424A",
     "reference": "assets/nightfall.png",
     "references": [
       "assets/nightfall.png"
@@ -616,10 +616,10 @@
   {
     "name": "Storyworld",
     "slug": "storyworld",
-    "description": "Small isometric narrative diorama",
-    "form": "Architectural mini-scene on a square or diamond plinth, one strong hero object, at most two supporting pieces and a clear isometric grid",
-    "finish": "Hard vector facets plus limited blue-violet-coral-yellow gradients on selected faces, deep midnight portal interiors with tiny stars, sharply defined platform shadows",
-    "palette": "Cobalt blue and violet structures, warm lemon-yellow planes, coral-pink and mint accents, near-black navy portals on a warm white field",
+    "description": "Graphic low-poly isometric narrative scene",
+    "form": "One purposeful architectural hero on a small square or diamond plinth with visible top and thick angular sides; precise consistent 30-degree isometric view",
+    "finish": "Clean crisp vector facets and angular steps, sharply defined compact platform shadow, rare gradients on selected planes, deep navy openings with a few tiny stars",
+    "palette": "Cobalt and violet structures, warm yellow planes, coral and mint accents, navy cavities against generous warm-white space",
     "reference": "assets/storyworld.png",
     "references": [
       "assets/storyworld.png"

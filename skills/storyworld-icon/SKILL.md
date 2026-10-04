@@ -24,19 +24,19 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 
 ## Style lock
 
-- Medium: small isometric narrative diorama.
-- Form: architectural mini-scene on a square or diamond plinth, one strong hero object, at most two supporting pieces and a clear isometric grid.
-- Surface and light: hard vector facets plus limited blue-violet-coral-yellow gradients on selected faces, deep midnight portal interiors with tiny stars, sharply defined platform shadows.
-- Default color direction: cobalt blue and violet structures, warm lemon-yellow planes, coral-pink and mint accents, near-black navy portals on a warm white field.
-- Avoid: generic floating emoji, random objects, too many props, soft toy shading, realistic surfaces, broad airbrush, or a busy landscape, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
+- Medium: graphic low-poly isometric narrative scene.
+- Form: one purposeful architectural hero on a small square or diamond plinth with visible top and thick angular sides; precise consistent 30-degree isometric view.
+- Surface and light: clean crisp vector facets and angular steps, sharply defined compact platform shadow, rare gradients on selected planes, deep navy openings with a few tiny stars.
+- Default color direction: cobalt and violet structures, warm yellow planes, coral and mint accents, navy cavities against generous warm-white space.
+- Avoid: realistic miniature models, dense masonry, broad airbrush, soft toy shading, busy landscape, excess plants or props, generic floating emoji, numbers, labels, or circular tokens, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
 
 ## Visual calibration
 
-Reference sheet 4: sparse mini-scenes separated by generous warm-white space. Each scene sits on a small square or diamond isometric platform with visible side thickness and one commanding element such as an arch, portal, hourglass, animal, or sculpture. Precise angular facets and steps create a miniature architectural story. Several dark navy openings hold tiny white stars; blue, violet, coral, yellow, lime and mint gradients appear on specific faces, not as a full-scene blur. Small circular number-like tokens in the references are incidental and should not be copied. Keep scenes purposeful and legible, with very few related props. If this conversation still contains the user's reference sheet, use it as a style reference in an image tool that accepts conversation images. Otherwise follow these notes and the Style lock. Do not copy any subject from the sheet.
+Reference sheet 4: a sparse open arrangement of self-contained mini-scenes on warm white, with generous space between them. Each scene rests on a small square or diamond isometric plinth with clearly visible thickness and crisp angular sides. Use consistent 30-degree projection, clean geometric facets, and architectural steps, arches, portals or sculptural hero forms. One commanding subject and at most two small supports; the plinth and hero should dominate. Some deep-navy openings contain a few tiny white stars. Blue, violet, coral, yellow, lime and mint gradients belong to selected planes only. Reference number tokens are incidental: do not reproduce them. Keep the scene graphic, angular, purposeful and very sparse, not like a realistic miniature model or full landscape. If this conversation still contains the user's reference sheet, use it as a style reference in an image tool that accepts conversation images. Otherwise follow these notes and the Style lock. Do not copy any subject from the sheet.
 
 ## Generate
 
-For a miniature Storyworld scene, check legibility at 128 px and give the platform and hero element room to breathe. Keep the whole object or mini-scene within the central 65% of the canvas width and height, leaving generous balanced empty space. Reduce the subject to its identifying parts; omit tiny details that disappear at the intended size. Preserve the same viewpoint, scale, stroke weight or material treatment, light direction, shadow softness, and palette across a set. A solid background is a uniform field, not an app tile or surrounding scene.
+Check the complete isometric scene at 128 px; keep the platform small, the hero unmistakable, and the scene sparse. Keep the whole object or mini-scene within the central 65% of the canvas width and height, leaving generous balanced empty space. Reduce the subject to its identifying parts; omit tiny details that disappear at the intended size. Preserve the same viewpoint, scale, stroke weight or material treatment, light direction, shadow softness, and palette across a set. A solid background is a uniform field, not an app tile or surrounding scene.
 
 Build a prompt with the subject, every style lock above, the chosen color mapping, selected canvas, and requested background. Explicitly describe which parts of the subject get primary, secondary, and accent colors. Use the image generation tool directly. Set its transparent background option when the user wants a transparent icon. For a series, reuse the same style block word for word and change only subject anatomy and user-requested colors. Prefer individual deliverables over a contact sheet unless the user asks for a sheet.
 
