@@ -9,8 +9,6 @@ from zipfile import ZipFile, ZIP_DEFLATED
 
 
 ROOT = Path(__file__).resolve().parents[1]
-SITE_SAMPLES = {name: f"assets/{name}.png" for name in ("colorcut", "hologram", "nightfall", "storyworld")}
-SITE_SAMPLE_GRIDS = {name: (4, 3) for name in ("colorcut", "hologram", "nightfall", "storyworld")}
 ADDED_STYLES = {"colorcut", "hologram", "nightfall", "storyworld"}
 
 # name, visual medium, form and viewpoint, surface/light, color behavior, exclusion
@@ -44,6 +42,9 @@ STYLES = [
     ("nightfall", "matte painted editorial spot illustration", "small tilted or floating vignette on a solid deep-slate field; one expressive subject with no more than one related prop or motion flourish", "rounded softly beveled shapes, restrained hand-painted gradients and very light pigment grain, gentle upper-left light; sparse cloud fragments or tiny sparkles", "coral-peach, pale sky blue, grass green, warm orange and sunflower yellow against dark blue-charcoal #2B424A", "white card backgrounds, realistic surface detail, dead-center product renders, glossy plastic, neon effects, hard black outlines, full environments, or crowded props"),
     ("storyworld", "graphic low-poly isometric narrative scene", "one purposeful architectural hero on a small square or diamond plinth with visible top and thick angular sides; precise consistent 30-degree isometric view", "clean crisp vector facets and angular steps, sharply defined compact platform shadow, rare gradients on selected planes, deep navy openings with a few tiny stars", "cobalt and violet structures, warm yellow planes, coral and mint accents, navy cavities against generous warm-white space", "realistic miniature models, dense masonry, broad airbrush, soft toy shading, busy landscape, excess plants or props, generic floating emoji, numbers, labels, or circular tokens"),
 ]
+
+SITE_SAMPLES = {style[0]: f"assets/generated/{style[0]}.webp" for style in STYLES}
+SITE_SAMPLE_GRIDS = {name: (4, 3) for name in SITE_SAMPLES}
 
 # Observations from the four screenshots supplied by the user. The source screenshots
 # are not included in the distributable ZIP; future sessions use these detailed notes.
@@ -178,20 +179,14 @@ def main():
     site_dir.mkdir(exist_ok=True)
     catalog = []
     for name, medium, form, finish, colors, avoid in STYLES:
-        local_refs = sorted(
-            (site_dir / "assets" / "references" / name).glob("*.png"),
-            key=lambda path: int(path.stem.rsplit("_", 1)[1]),
-        )
-        if name in ADDED_STYLES:
-            columns, rows = SITE_SAMPLE_GRIDS[name]
-            references = [
-                {"image": SITE_SAMPLES[name], "grid": [columns, rows], "cell": [row, column]}
-                for row in range(rows) for column in range(columns)
-            ]
-        else:
-            references = [str(path.relative_to(site_dir)) for path in local_refs]
-        if not references:
-            references = [f"https://sohna.dev/waterlemon/src/image/min/skill/{name}/{name}_{i}.png" for i in (1, 4, 7, 10)]
+        sample_asset = site_dir / SITE_SAMPLES[name]
+        if not sample_asset.exists():
+            raise FileNotFoundError(f"Missing generated gallery sample: {sample_asset.relative_to(ROOT)}")
+        columns, rows = SITE_SAMPLE_GRIDS[name]
+        references = [
+            {"image": SITE_SAMPLES[name], "grid": [columns, rows], "cell": [row, column]}
+            for row in range(rows) for column in range(columns)
+        ]
         catalog.append({
             "name": name.capitalize(), "slug": name,
             "description": medium[0].upper() + medium[1:],

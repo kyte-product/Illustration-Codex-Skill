@@ -75,6 +75,7 @@ document.querySelector('#copy-prompt').addEventListener('click', async event => 
 
 const steps = [...document.querySelectorAll('[data-step]')];
 const workflowImage = document.querySelector('#workflow-image');
+const workflowSample = document.querySelector('#workflow-sample');
 function showStep(index) {
   activeStep = (index + steps.length) % steps.length;
   steps.forEach((step, i) => {
@@ -85,8 +86,20 @@ function showStep(index) {
   const firstReference = styles[activeStep]?.references[0];
   const source = typeof firstReference === 'string' ? firstReference : firstReference?.image;
   if (source) {
+    const updateImage = () => {
+      if (typeof firstReference === 'string') {
+        workflowSample.replaceChildren();
+        workflowSample.hidden = true;
+        workflowImage.hidden = false;
+        workflowImage.src = source;
+      } else {
+        workflowImage.hidden = true;
+        workflowSample.hidden = false;
+        workflowSample.innerHTML = imageMarkup(firstReference, `${styles[activeStep].name} generated example`);
+      }
+    };
     workflowImage.classList.add('is-changing');
-    window.setTimeout(() => { workflowImage.src = source; workflowImage.classList.remove('is-changing'); }, 160);
+    window.setTimeout(() => { updateImage(); workflowImage.classList.remove('is-changing'); }, 160);
   }
   window.clearTimeout(workflowTimer);
   if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) workflowTimer = window.setTimeout(() => showStep(activeStep + 1), 4500);

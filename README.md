@@ -1,6 +1,6 @@
 # Illustration icon skills for Codex
 
-An original set of 28 image generation styles plus a guided wizard skill. The first 24 styles follow the public [Waterlemon gallery](https://sohna.dev/waterlemon/) and were calibrated against 287 public previews. Four additional styles—Colorcut, Hologram, Nightfall, and Storyworld—were studied from reference sheets supplied by the user. These are independently written skills, not Waterlemon's paid prompts or Mac app.
+An original set of 28 image generation styles plus a guided wizard skill. The first 24 style recipes were calibrated against 287 public previews from the [Waterlemon gallery](https://sohna.dev/waterlemon/). Four additional styles—Colorcut, Hologram, Nightfall, and Storyworld—were studied from reference sheets supplied by the user. All 28 gallery example sheets were generated with these recipes to test their results. These are independently written skills, not Waterlemon's paid prompts or Mac app.
 
 ## Install
 
@@ -36,6 +36,6 @@ The responsive gallery and usage guide are in [`site/`](site/index.html). Run it
 python3 -m http.server 8000 --directory site
 ```
 
-Then open `http://localhost:8000`. The style catalog is generated from the same definitions as the skill pack. Public Waterlemon reference thumbnails and generated examples already created for this project are stored locally in `site/assets/`, so gallery images do not depend on the reference site loading in the browser. The independent site uses original branding and usage copy.
+Then open `http://localhost:8000`. The style catalog is generated from the same definitions as the skill pack. Each style's 12 generated examples are shown as separate square tiles and stored locally in `site/assets/`, so gallery images do not depend on the reference site loading in the browser. The independent site uses original branding and usage copy.
 
 For Vercel, keep the project root set to the repository root (`.`). [`vercel.json`](vercel.json) configures a static deployment whose output is `site/`. The files must be committed and pushed to the connected Git branch before Vercel can deploy them.

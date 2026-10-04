@@ -72,6 +72,9 @@ button { -webkit-tap-highlight-color: transparent; }
 .workflow-content { display: grid; grid-template-columns: 436px minmax(0, 1fr); align-items: center; gap: 48px; margin-top: 42px; }
 .workflow-visual { display: grid; width: 100%; aspect-ratio: 1; place-items: center; overflow: hidden; border-radius: 36px; background: var(--surface); }
 .workflow-visual img { width: 66%; height: 66%; object-fit: contain; transition: opacity .22s ease, transform .22s ease; }
+.workflow-sample { display: block; width: 66%; height: 66%; overflow: hidden; }
+.workflow-sample .sample-crop { width: 100%; height: 100%; }
+.workflow-sample .sample-crop img { position: absolute; top: 0; left: 0; max-width: none; object-fit: fill; }
 .workflow-visual img.is-changing { opacity: 0; transform: scale(.98); }
 .workflow-steps { display: flex; flex-direction: column; gap: 28px; }
 .workflow-step { display: grid; width: 100%; grid-template-columns: 7px minmax(0, 1fr); gap: 15px; align-items: stretch; padding: 0; border: 0; background: transparent; text-align: left; cursor: pointer; }
