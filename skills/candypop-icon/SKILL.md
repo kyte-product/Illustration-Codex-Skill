@@ -24,11 +24,11 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 
 ## Style lock
 
-- Medium: maximal glossy candy-store toy.
-- Form: inflated sweets or playful fantasy object made of fat rounded pieces, centered three-quarter view.
-- Surface and light: hard white reflections, glassy candy coating, thick luminous rims, occasional tiny sparkle.
-- Default color direction: hot magenta and candy pink, electric cyan and royal blue, vivid violet, bright yellow highlights.
-- Avoid: matte minimalism, muted colors, sketch strokes, or realistic natural materials, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
+- Medium: glossy candy-store toy icon.
+- Form: single plump candy or playful confection with an inflated rounded silhouette, simple front or shallow three-quarter view.
+- Surface and light: smooth hard-candy lacquer, a few broad crisp white highlights and a soft luminous rim; clean molded surfaces.
+- Default color direction: hot pink and magenta dominate, with bold cyan, royal blue, violet or yellow in two or three large color patches.
+- Avoid: matte surfaces, muted colors, faceted gems, transparent glass, tiny sprinkles, many small candies, intricate patterns, excessive ornament, or realistic materials, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
 
 ## Visual calibration
 

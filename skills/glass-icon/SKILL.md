@@ -24,11 +24,11 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 
 ## Style lock
 
-- Medium: pastel translucent glass-like collectible.
-- Form: simple object with rounded clear walls and readable silhouette, three-quarter view.
-- Surface and light: very pale frosted cyan body, layered transparency, narrow iridescent cyan edge, faint glow rather than dark contrast.
-- Default color direction: icy cyan and powder blue dominate; tiny warm coral, peach, or lemon accents; large white luminous gaps.
-- Avoid: dark outlines, smoky glass, high-contrast chrome, opaque colored body, or harsh caustics, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
+- Medium: pastel translucent glass icon.
+- Form: single simple object with a rounded, softly tinted solid-glass silhouette, front or shallow three-quarter view.
+- Surface and light: smooth milky transparency, broad soft internal panes, one clear cyan rim highlight and a few pastel reflections; bright, airy light with a readable softly colored body.
+- Default color direction: icy cyan and powder blue provide visible body color; tiny coral, peach or lemon reflections; generous white space.
+- Avoid: near-invisible colorless edges, wireframe construction, many fine seams, dark outlines, smoky glass, chrome, heavy rainbow refraction, photorealism, or harsh caustics, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
 
 ## Visual calibration
 

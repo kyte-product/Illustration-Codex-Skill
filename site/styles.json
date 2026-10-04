@@ -434,10 +434,10 @@
   {
     "name": "Gloss",
     "slug": "gloss",
-    "description": "Ornate fantasy-game enamel icon",
-    "form": "Chunky rounded collectible object with thick gold framing and inset blue panels, centered three-quarter view",
-    "finish": "Bright hard-edged gleams, bevels, glassy gem inserts, rich local contrast",
-    "palette": "Warm amber and gold dominate edges; electric cyan and royal blue fill insets; tiny emerald accents",
+    "description": "Polished casual-game enamel icon",
+    "form": "Single compact, instantly readable object with a chunky rounded silhouette, simple frontal or shallow three-quarter view",
+    "finish": "Smooth molded enamel, bold gold rims and bevels, a few broad white shine marks, clean bright highlights and soft short grounding shade",
+    "palette": "Vivid golden yellow and amber dominate; royal blue and cyan form one or two large inset panels; tiny emerald accents only",
     "reference": "assets/generated/gloss.webp",
     "references": [
       {
@@ -2162,10 +2162,10 @@
   {
     "name": "Glass",
     "slug": "glass",
-    "description": "Pastel translucent glass-like collectible",
-    "form": "Simple object with rounded clear walls and readable silhouette, three-quarter view",
-    "finish": "Very pale frosted cyan body, layered transparency, narrow iridescent cyan edge, faint glow rather than dark contrast",
-    "palette": "Icy cyan and powder blue dominate; tiny warm coral, peach, or lemon accents; large white luminous gaps",
+    "description": "Pastel translucent glass icon",
+    "form": "Single simple object with a rounded, softly tinted solid-glass silhouette, front or shallow three-quarter view",
+    "finish": "Smooth milky transparency, broad soft internal panes, one clear cyan rim highlight and a few pastel reflections; bright, airy light with a readable softly colored body",
+    "palette": "Icy cyan and powder blue provide visible body color; tiny coral, peach or lemon reflections; generous white space",
     "reference": "assets/generated/glass.webp",
     "references": [
       {
@@ -2594,10 +2594,10 @@
   {
     "name": "Sketchy",
     "slug": "sketchy",
-    "description": "Bold hand-drawn flat cartoon",
-    "form": "Object with chunky slightly irregular black contour, shallow three-quarter view",
-    "finish": "Solid flat fills, tiny white shine marks, an occasional second interior line; no texture",
-    "palette": "Bright turquoise-cyan main fill, coral pink secondary, vivid blue tertiary, black outline",
+    "description": "Bold hand-drawn flat cartoon icon",
+    "form": "One isolated, immediately recognizable everyday object with a chunky rounded silhouette, mostly side-on or gently tilted",
+    "finish": "Thick smooth slightly wobbly black marker contour, large flat solid color regions, only a few simple interior lines and tiny white shine marks; no shading or texture",
+    "palette": "Turquoise-cyan is the dominant fill; coral pink is the secondary fill; vivid blue is a small third color; black contours stay consistent",
     "reference": "assets/generated/sketchy.webp",
     "references": [
       {
@@ -2882,10 +2882,10 @@
   {
     "name": "Candypop",
     "slug": "candypop",
-    "description": "Maximal glossy candy-store toy",
-    "form": "Inflated sweets or playful fantasy object made of fat rounded pieces, centered three-quarter view",
-    "finish": "Hard white reflections, glassy candy coating, thick luminous rims, occasional tiny sparkle",
-    "palette": "Hot magenta and candy pink, electric cyan and royal blue, vivid violet, bright yellow highlights",
+    "description": "Glossy candy-store toy icon",
+    "form": "Single plump candy or playful confection with an inflated rounded silhouette, simple front or shallow three-quarter view",
+    "finish": "Smooth hard-candy lacquer, a few broad crisp white highlights and a soft luminous rim; clean molded surfaces",
+    "palette": "Hot pink and magenta dominate, with bold cyan, royal blue, violet or yellow in two or three large color patches",
     "reference": "assets/generated/candypop.webp",
     "references": [
       {
@@ -3170,10 +3170,10 @@
   {
     "name": "Ceramic",
     "slug": "ceramic",
-    "description": "Decorative glazed ceramic collectible",
-    "form": "Rounded molded home-decor form with raised relief, scalloped or fluted edges, centered three-quarter view",
-    "finish": "Soft porcelain glaze with small smooth specular highlights, hand-shaped irregularity, delicate inset ornament",
-    "palette": "Blush pink dominates, pale aqua or mint inset parts, lavender, cream, and tiny gold details",
+    "description": "Friendly decorative glazed pottery icon",
+    "form": "Single rounded home-decor object with a simple, softly molded silhouette, front or shallow three-quarter view",
+    "finish": "Smooth glossy porcelain glaze, broad gentle highlights, softly modeled volume, hand-shaped edges and one or two restrained raised relief details",
+    "palette": "Blush pink is dominant; pale aqua or mint marks one inset or secondary part; lavender, cream and tiny warm yellow accents",
     "reference": "assets/generated/ceramic.webp",
     "references": [
       {

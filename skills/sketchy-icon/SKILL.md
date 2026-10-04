@@ -24,11 +24,11 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 
 ## Style lock
 
-- Medium: bold hand-drawn flat cartoon.
-- Form: object with chunky slightly irregular black contour, shallow three-quarter view.
-- Surface and light: solid flat fills, tiny white shine marks, an occasional second interior line; no texture.
-- Default color direction: bright turquoise-cyan main fill, coral pink secondary, vivid blue tertiary, black outline.
-- Avoid: thin technical drawing, green-yellow palette, realistic shading, or airbrushed volume, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
+- Medium: bold hand-drawn flat cartoon icon.
+- Form: one isolated, immediately recognizable everyday object with a chunky rounded silhouette, mostly side-on or gently tilted.
+- Surface and light: thick smooth slightly wobbly black marker contour, large flat solid color regions, only a few simple interior lines and tiny white shine marks; no shading or texture.
+- Default color direction: turquoise-cyan is the dominant fill; coral pink is the secondary fill; vivid blue is a small third color; black contours stay consistent.
+- Avoid: landscape scenery, illustrative vignettes, detailed perspective, gradients, realistic shading, scratchy linework, fine hatching, or thin technical outlines, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
 
 ## Visual calibration
 

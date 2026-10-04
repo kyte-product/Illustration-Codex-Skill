@@ -24,11 +24,11 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 
 ## Style lock
 
-- Medium: decorative glazed ceramic collectible.
-- Form: rounded molded home-decor form with raised relief, scalloped or fluted edges, centered three-quarter view.
-- Surface and light: soft porcelain glaze with small smooth specular highlights, hand-shaped irregularity, delicate inset ornament.
-- Default color direction: blush pink dominates, pale aqua or mint inset parts, lavender, cream, and tiny gold details.
-- Avoid: hard plastic, dark outlines, rough stone, or high-contrast chrome, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
+- Medium: friendly decorative glazed pottery icon.
+- Form: single rounded home-decor object with a simple, softly molded silhouette, front or shallow three-quarter view.
+- Surface and light: smooth glossy porcelain glaze, broad gentle highlights, softly modeled volume, hand-shaped edges and one or two restrained raised relief details.
+- Default color direction: blush pink is dominant; pale aqua or mint marks one inset or secondary part; lavender, cream and tiny warm yellow accents.
+- Avoid: photorealistic product staging, dense floral patterns, repeated tiny petals, extensive gold trim, sharp plastic edges, matte clay, dark outlines, dramatic reflections, or background props, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
 
 ## Visual calibration
 

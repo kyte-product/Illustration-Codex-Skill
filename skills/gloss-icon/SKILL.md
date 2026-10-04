@@ -24,11 +24,11 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 
 ## Style lock
 
-- Medium: ornate fantasy-game enamel icon.
-- Form: chunky rounded collectible object with thick gold framing and inset blue panels, centered three-quarter view.
-- Surface and light: bright hard-edged gleams, bevels, glassy gem inserts, rich local contrast.
-- Default color direction: warm amber and gold dominate edges; electric cyan and royal blue fill insets; tiny emerald accents.
-- Avoid: soft minimalist UI shapes, matte surfaces, dull gold, or desaturated colors, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
+- Medium: polished casual-game enamel icon.
+- Form: single compact, instantly readable object with a chunky rounded silhouette, simple frontal or shallow three-quarter view.
+- Surface and light: smooth molded enamel, bold gold rims and bevels, a few broad white shine marks, clean bright highlights and soft short grounding shade.
+- Default color direction: vivid golden yellow and amber dominate; royal blue and cyan form one or two large inset panels; tiny emerald accents only.
+- Avoid: photorealistic metal, microtexture, intricate engraving, filigree, many tiny gems, spiky ornament, dark dramatic lighting, or busy detail, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
 
 ## Visual calibration
 
