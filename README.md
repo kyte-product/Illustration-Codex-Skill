@@ -1,0 +1,41 @@
+# Illustration icon skills for Codex
+
+An original set of 28 image generation styles plus a guided wizard skill. The first 24 styles follow the public [Waterlemon gallery](https://sohna.dev/waterlemon/) and were calibrated against 287 public previews. Four additional styles—Colorcut, Hologram, Nightfall, and Storyworld—were studied from reference sheets supplied by the user. These are independently written skills, not Waterlemon's paid prompts or Mac app.
+
+## Install
+
+Attach [`illustration-icon-skills.zip`](illustration-icon-skills.zip) to Codex Chat and ask it to install the skills, or copy the `skills/` folders into your Codex skills directory. Each folder contains a standalone `SKILL.md`.
+
+## Use
+
+For a guided session, say:
+
+> Use the `illustration-icon-wizard` skill. Ask me one question at a time and wait for each selection.
+
+The wizard asks for style, quantity, subject, intended use, palette, background, canvas, output, and final confirmation. A custom palette is chosen one color slot at a time. A direct style skill also asks its remaining questions one at a time.
+
+To start with a particular style, say for example:
+
+> Use the `linepop-icon` skill to make a camera icon. Primary `#39FF14`, secondary `#FFF700`, tertiary `#DCE6F7`, accent white, detail `#111111`. Transparent background.
+
+For a set, provide the subjects when prompted. The skill keeps scale, angle, lighting, and palette consistent. If your Codex session has an image generation tool, it produces the icons directly. Otherwise, it returns ready to use image prompts.
+
+Each of the first 24 style skills links four public gallery images for visual calibration. When `sohna.dev` is reachable and the image tool accepts references, the skill can use them as style examples without copying the shown subjects. The four user-supplied styles include detailed visual notes; when the original screenshots remain available in a conversation, the image tool can use them as references. Image generation remains variable, so preview and revise results that drift from the selected style.
+
+Styles: Clay, Flare, Zing, Gloss, Mist, Pebble, Drift, Ink, Cardboard, Linepop, Glide, Nimble, Jot, Riso, Marker, Glass, Watercolor, Yarn, Sketchy, Pulse, Candypop, Charcoal, Ceramic, Fuzzy, Colorcut, Hologram, Nightfall, and Storyworld.
+
+## Maintain
+
+The skill files are generated from [`scripts/build_skills.py`](scripts/build_skills.py). Run `python3 scripts/build_skills.py` to rebuild them, or `python3 scripts/build_skills.py --check` to verify the checked in files.
+
+## Style gallery website
+
+The responsive gallery and usage guide are in [`site/`](site/index.html). Run it locally from the repository root:
+
+```sh
+python3 -m http.server 8000 --directory site
+```
+
+Then open `http://localhost:8000`. The style catalog is generated from the same definitions as the skill pack. Public Waterlemon reference thumbnails and generated examples already created for this project are stored locally in `site/assets/`, so gallery images do not depend on the reference site loading in the browser. The independent site uses original branding and usage copy.
+
+For Vercel, keep the project root set to the repository root (`.`). [`vercel.json`](vercel.json) configures a static deployment whose output is `site/`. The files must be committed and pushed to the connected Git branch before Vercel can deploy them.

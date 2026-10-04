@@ -1,0 +1,420 @@
+[
+  {
+    "name": "Clay",
+    "slug": "clay",
+    "description": "Chalky handmade clay and painted plaster miniature",
+    "form": "Soft thick rounded forms, slightly uneven molded edges, shallow three-quarter view",
+    "finish": "Fine mottled sponge texture, matte surface, diffuse shadows, almost no specular shine",
+    "palette": "Pale pistachio and lime main forms, seafoam or turquoise secondary parts, tiny orange-gold details",
+    "reference": "assets/clay.png",
+    "references": [
+      "assets/clay.png"
+    ],
+    "skill": "skills/clay-icon/SKILL.md"
+  },
+  {
+    "name": "Flare",
+    "slug": "flare",
+    "description": "Flat vector illustration with restrained faux depth",
+    "form": "Compact app-icon silhouette built from a few crisp geometric planes, mild three-quarter view",
+    "finish": "Hard-edged light and dark color blocks, one narrow pale highlight, solid navy side faces; no reflective material",
+    "palette": "Bright spring green dominates; deep navy defines depth; cyan and pale blue mark secondary details; yellow-orange only as a small accent",
+    "reference": "assets/flare.png",
+    "references": [
+      "assets/flare.png"
+    ],
+    "skill": "skills/flare-icon/SKILL.md"
+  },
+  {
+    "name": "Zing",
+    "slug": "zing",
+    "description": "Minimal editorial line-and-fill drawing",
+    "form": "Recognizable school or study object, thin black outer and inner contours, white open planes, gentle three-quarter tilt",
+    "finish": "Flat untextured fills, small simple side faces, almost no shadow",
+    "palette": "Mostly white with periwinkle blue side planes; small lemon-yellow and bubblegum-pink details",
+    "reference": "assets/references/zing/zing_1.png",
+    "references": [
+      "assets/references/zing/zing_1.png",
+      "assets/references/zing/zing_10.png",
+      "assets/references/zing/zing_4.png",
+      "assets/references/zing/zing_7.png"
+    ],
+    "skill": "skills/zing-icon/SKILL.md"
+  },
+  {
+    "name": "Gloss",
+    "slug": "gloss",
+    "description": "Ornate fantasy-game enamel icon",
+    "form": "Chunky rounded collectible object with thick gold framing and inset blue panels, centered three-quarter view",
+    "finish": "Bright hard-edged gleams, bevels, glassy gem inserts, rich local contrast",
+    "palette": "Warm amber and gold dominate edges; electric cyan and royal blue fill insets; tiny emerald accents",
+    "reference": "assets/references/gloss/gloss_1.png",
+    "references": [
+      "assets/references/gloss/gloss_1.png",
+      "assets/references/gloss/gloss_10.png",
+      "assets/references/gloss/gloss_4.png",
+      "assets/references/gloss/gloss_7.png"
+    ],
+    "skill": "skills/gloss-icon/SKILL.md"
+  },
+  {
+    "name": "Mist",
+    "slug": "mist",
+    "description": "Airy modern digital icon with soft volume",
+    "form": "Very simple rounded UI object with few parts, mostly frontal with subtle three-quarter depth",
+    "finish": "Smooth pale-blue-to-cobalt shading, milky white top-left glow, soft edge highlights and no dark stroke",
+    "palette": "Powder blue and white dominate; coral red is a tiny functional accent",
+    "reference": "assets/references/mist/mist_1.png",
+    "references": [
+      "assets/references/mist/mist_1.png",
+      "assets/references/mist/mist_10.png",
+      "assets/references/mist/mist_4.png",
+      "assets/references/mist/mist_7.png"
+    ],
+    "skill": "skills/mist-icon/SKILL.md"
+  },
+  {
+    "name": "Pebble",
+    "slug": "pebble",
+    "description": "Friendly compact product illustration",
+    "form": "Sturdy rounded everyday object with simple proportions, shallow three-quarter view",
+    "finish": "Mostly flat blue fills, restrained smooth shading, short dark-blue side face, tiny glints",
+    "palette": "Medium cornflower or cobalt blue dominates, bright yellow for large functional parts, orange for tiny details, navy for holes and shadows",
+    "reference": "assets/references/pebble/pebble_1.png",
+    "references": [
+      "assets/references/pebble/pebble_1.png",
+      "assets/references/pebble/pebble_10.png",
+      "assets/references/pebble/pebble_4.png",
+      "assets/references/pebble/pebble_7.png"
+    ],
+    "skill": "skills/pebble-icon/SKILL.md"
+  },
+  {
+    "name": "Drift",
+    "slug": "drift",
+    "description": "Soft toy-like retail product illustration",
+    "form": "Rounded simplified consumer object, visible functional feature, three-quarter view",
+    "finish": "Smooth molded satin surface, broad gentle value shifts, sparse narrow highlights, no black stroke",
+    "palette": "Vivid emerald or teal-green main body, sunny yellow hardware, cyan secondary panel, navy only inside recesses",
+    "reference": "assets/references/drift/drift_1.png",
+    "references": [
+      "assets/references/drift/drift_1.png",
+      "assets/references/drift/drift_10.png",
+      "assets/references/drift/drift_4.png",
+      "assets/references/drift/drift_7.png"
+    ],
+    "skill": "skills/drift-icon/SKILL.md"
+  },
+  {
+    "name": "Ink",
+    "slug": "ink",
+    "description": "Loose black marker-ink icon",
+    "form": "Single instantly readable object drawn with confidently irregular medium black lines, nearly frontal",
+    "finish": "White interiors, selective solid-black side or cavity, a few short motion ticks; little to no hatching",
+    "palette": "Black ink only on white",
+    "reference": "assets/references/ink/ink_1.png",
+    "references": [
+      "assets/references/ink/ink_1.png",
+      "assets/references/ink/ink_10.png",
+      "assets/references/ink/ink_4.png",
+      "assets/references/ink/ink_7.png"
+    ],
+    "skill": "skills/ink-icon/SKILL.md"
+  },
+  {
+    "name": "Cardboard",
+    "slug": "cardboard",
+    "description": "Hand-built cardboard craft miniature",
+    "form": "Folded kraft-paper construction with real-looking seams, edge thickness, straps, tabs, and cutouts, three-quarter view",
+    "finish": "Fine corrugated fiber and paper grain, matte edges, soft tabletop lighting",
+    "palette": "Warm tan kraft dominates; muted indigo-blue and teal paper panels; tiny coral or golden fasteners",
+    "reference": "assets/references/cardboard/cardboard_1.png",
+    "references": [
+      "assets/references/cardboard/cardboard_1.png",
+      "assets/references/cardboard/cardboard_10.png",
+      "assets/references/cardboard/cardboard_4.png",
+      "assets/references/cardboard/cardboard_7.png"
+    ],
+    "skill": "skills/cardboard-icon/SKILL.md"
+  },
+  {
+    "name": "Linepop",
+    "slug": "linepop",
+    "description": "Precise technical line illustration",
+    "form": "Mostly white object described by thin even near-black contours and clean inner construction lines, slight three-quarter view",
+    "finish": "Little to no shaded fill, extremely restrained pale-blue side plane, tiny crisp highlight",
+    "palette": "White dominates; neon lime focal marks and smaller yellow marks; pale blue for depth; near-black for hairline outlines",
+    "reference": "assets/linepop.png",
+    "references": [
+      "assets/linepop.png"
+    ],
+    "skill": "skills/linepop-icon/SKILL.md"
+  },
+  {
+    "name": "Glide",
+    "slug": "glide",
+    "description": "Ultra-clean flat vector with gentle dimensional cutouts",
+    "form": "Simplified lifestyle object built from a few broad rounded planes, mild three-quarter view",
+    "finish": "No drawn outlines or texture; at most a slightly darker green side plane and one minimal highlight",
+    "palette": "Deep emerald green dominates; saturated golden yellow on key parts; tiny violet and cream accents",
+    "reference": "assets/references/glide/glide_1.png",
+    "references": [
+      "assets/references/glide/glide_1.png",
+      "assets/references/glide/glide_10.png",
+      "assets/references/glide/glide_4.png",
+      "assets/references/glide/glide_7.png"
+    ],
+    "skill": "skills/glide-icon/SKILL.md"
+  },
+  {
+    "name": "Nimble",
+    "slug": "nimble",
+    "description": "Clean outlined product vector",
+    "form": "Simple commerce or utility object with accurate functional parts, shallow three-quarter view",
+    "finish": "Thin consistent black outlines, white broad faces, restrained light-blue side shade, flat fills",
+    "palette": "White dominates; strong royal blue areas; small vivid yellow functional accents; black contours",
+    "reference": "assets/references/nimble/nimble_1.png",
+    "references": [
+      "assets/references/nimble/nimble_1.png",
+      "assets/references/nimble/nimble_10.png",
+      "assets/references/nimble/nimble_4.png",
+      "assets/references/nimble/nimble_7.png"
+    ],
+    "skill": "skills/nimble-icon/SKILL.md"
+  },
+  {
+    "name": "Jot",
+    "slug": "jot",
+    "description": "Spare hand-inked editorial drawing",
+    "form": "Single everyday object with thin slightly imperfect black contours, mostly front or mild three-quarter view",
+    "finish": "Open white interiors, few faint cool-gray shadow strokes, no dense hatch",
+    "palette": "White and black dominate; buttery pale yellow fills only one or two simple sections",
+    "reference": "assets/references/jot/jot_1.png",
+    "references": [
+      "assets/references/jot/jot_1.png",
+      "assets/references/jot/jot_10.png",
+      "assets/references/jot/jot_4.png",
+      "assets/references/jot/jot_7.png"
+    ],
+    "skill": "skills/jot-icon/SKILL.md"
+  },
+  {
+    "name": "Riso",
+    "slug": "riso",
+    "description": "Bright misregistered risograph print",
+    "form": "Chunky editorial object made from overlapping graphic print plates, shallow three-quarter view",
+    "finish": "Visible halftone dots and slight ink offset, paper grain, hard print edges, no volumetric shine",
+    "palette": "Electric cobalt blue, acid yellow, aqua mint, lavender, small coral-red offset; cream-paper gaps",
+    "reference": "assets/riso.png",
+    "references": [
+      "assets/riso.png"
+    ],
+    "skill": "skills/riso-icon/SKILL.md"
+  },
+  {
+    "name": "Marker",
+    "slug": "marker",
+    "description": "Playful hand-colored marker drawing",
+    "form": "Object simplified to a strong contour and few interior marks, near-front view",
+    "finish": "Thick slightly wobbly deep forest-green outline, flat marker-filled shapes with tiny uneven edges, almost no shadow",
+    "palette": "Bubblegum pink and green dominate, with lemon yellow and pale aqua fills",
+    "reference": "assets/references/marker/marker_1.png",
+    "references": [
+      "assets/references/marker/marker_1.png",
+      "assets/references/marker/marker_10.png",
+      "assets/references/marker/marker_4.png",
+      "assets/references/marker/marker_7.png"
+    ],
+    "skill": "skills/marker-icon/SKILL.md"
+  },
+  {
+    "name": "Glass",
+    "slug": "glass",
+    "description": "Pastel translucent glass-like collectible",
+    "form": "Simple object with rounded clear walls and readable silhouette, three-quarter view",
+    "finish": "Very pale frosted cyan body, layered transparency, narrow iridescent cyan edge, faint glow rather than dark contrast",
+    "palette": "Icy cyan and powder blue dominate; tiny warm coral, peach, or lemon accents; large white luminous gaps",
+    "reference": "assets/references/glass/glass_1.png",
+    "references": [
+      "assets/references/glass/glass_1.png",
+      "assets/references/glass/glass_10.png",
+      "assets/references/glass/glass_4.png",
+      "assets/references/glass/glass_7.png"
+    ],
+    "skill": "skills/glass-icon/SKILL.md"
+  },
+  {
+    "name": "Watercolor",
+    "slug": "watercolor",
+    "description": "Small handmade watercolor illustration",
+    "form": "Object with realistic simplified structure, mostly three-quarter view",
+    "finish": "Visible uneven pigment wash, granulation and dry-paper flecks, soft edges within a clear silhouette",
+    "palette": "Dusty medium blue dominates, warm ochre-yellow on key parts, cream-paper highlights",
+    "reference": "assets/references/watercolor/watercolor_1.png",
+    "references": [
+      "assets/references/watercolor/watercolor_1.png",
+      "assets/references/watercolor/watercolor_10.png",
+      "assets/references/watercolor/watercolor_4.png",
+      "assets/references/watercolor/watercolor_7.png"
+    ],
+    "skill": "skills/watercolor-icon/SKILL.md"
+  },
+  {
+    "name": "Yarn",
+    "slug": "yarn",
+    "description": "Hand-crocheted miniature",
+    "form": "Recognizable cozy object built from thick stitched pieces and sewn-on small details, three-quarter view",
+    "finish": "Individual yarn loops and cable-knit ridges visible throughout, soft wool fibers, gentle warm lighting",
+    "palette": "Muted sage green, oatmeal cream, chestnut brown, and tiny burnt-orange stitches",
+    "reference": "assets/yarn.png",
+    "references": [
+      "assets/yarn.png"
+    ],
+    "skill": "skills/yarn-icon/SKILL.md"
+  },
+  {
+    "name": "Sketchy",
+    "slug": "sketchy",
+    "description": "Bold hand-drawn flat cartoon",
+    "form": "Object with chunky slightly irregular black contour, shallow three-quarter view",
+    "finish": "Solid flat fills, tiny white shine marks, an occasional second interior line; no texture",
+    "palette": "Bright turquoise-cyan main fill, coral pink secondary, vivid blue tertiary, black outline",
+    "reference": "assets/references/sketchy/sketchy_1.png",
+    "references": [
+      "assets/references/sketchy/sketchy_1.png",
+      "assets/references/sketchy/sketchy_10.png",
+      "assets/references/sketchy/sketchy_4.png",
+      "assets/references/sketchy/sketchy_7.png"
+    ],
+    "skill": "skills/sketchy-icon/SKILL.md"
+  },
+  {
+    "name": "Pulse",
+    "slug": "pulse",
+    "description": "Geometric flat vector with offset depth",
+    "form": "Office or utility object assembled from broad straight-edged color panels, mostly frontal",
+    "finish": "Matte solid fill, no contour stroke, one dark navy offset side face, zero texture",
+    "palette": "Indigo-periwinkle dominates, dusty sage green secondary, coral-orange and mustard-yellow small panels, deep navy depth",
+    "reference": "assets/references/pulse/pulse_1.png",
+    "references": [
+      "assets/references/pulse/pulse_1.png",
+      "assets/references/pulse/pulse_10.png",
+      "assets/references/pulse/pulse_4.png",
+      "assets/references/pulse/pulse_7.png"
+    ],
+    "skill": "skills/pulse-icon/SKILL.md"
+  },
+  {
+    "name": "Candypop",
+    "slug": "candypop",
+    "description": "Maximal glossy candy-store toy",
+    "form": "Inflated sweets or playful fantasy object made of fat rounded pieces, centered three-quarter view",
+    "finish": "Hard white reflections, glassy candy coating, thick luminous rims, occasional tiny sparkle",
+    "palette": "Hot magenta and candy pink, electric cyan and royal blue, vivid violet, bright yellow highlights",
+    "reference": "assets/candypop.png",
+    "references": [
+      "assets/candypop.png"
+    ],
+    "skill": "skills/candypop-icon/SKILL.md"
+  },
+  {
+    "name": "Charcoal",
+    "slug": "charcoal",
+    "description": "Colored-pencil and charcoal sketch",
+    "form": "Familiar household object with believable form and slightly uneven dark contours, three-quarter view",
+    "finish": "Dense visible pencil strokes following form, gray-blue hatching, soft paper-grain shadows",
+    "palette": "Slate and denim blue-gray dominate, cream highlights, small dusty salmon or pale gold accents",
+    "reference": "assets/references/charcoal/charcoal_1.png",
+    "references": [
+      "assets/references/charcoal/charcoal_1.png",
+      "assets/references/charcoal/charcoal_10.png",
+      "assets/references/charcoal/charcoal_4.png",
+      "assets/references/charcoal/charcoal_7.png"
+    ],
+    "skill": "skills/charcoal-icon/SKILL.md"
+  },
+  {
+    "name": "Ceramic",
+    "slug": "ceramic",
+    "description": "Decorative glazed ceramic collectible",
+    "form": "Rounded molded home-decor form with raised relief, scalloped or fluted edges, centered three-quarter view",
+    "finish": "Soft porcelain glaze with small smooth specular highlights, hand-shaped irregularity, delicate inset ornament",
+    "palette": "Blush pink dominates, pale aqua or mint inset parts, lavender, cream, and tiny gold details",
+    "reference": "assets/references/ceramic/ceramic_1.png",
+    "references": [
+      "assets/references/ceramic/ceramic_1.png",
+      "assets/references/ceramic/ceramic_10.png",
+      "assets/references/ceramic/ceramic_4.png",
+      "assets/references/ceramic/ceramic_7.png"
+    ],
+    "skill": "skills/ceramic-icon/SKILL.md"
+  },
+  {
+    "name": "Fuzzy",
+    "slug": "fuzzy",
+    "description": "Short-pile flocked plush",
+    "form": "Compact soft object with a puffy but precise silhouette, near-front view",
+    "finish": "Dense velvety microfibers over every surface, rounded seams and appliqued details, soft diffuse light",
+    "palette": "Hot pink main body, lavender secondary, baby-blue panels, tiny peach details",
+    "reference": "assets/references/fuzzy/fuzzy_1.png",
+    "references": [
+      "assets/references/fuzzy/fuzzy_1.png",
+      "assets/references/fuzzy/fuzzy_10.png",
+      "assets/references/fuzzy/fuzzy_4.png",
+      "assets/references/fuzzy/fuzzy_7.png"
+    ],
+    "skill": "skills/fuzzy-icon/SKILL.md"
+  },
+  {
+    "name": "Colorcut",
+    "slug": "colorcut",
+    "description": "Tiny colorful cut-paper vector glyph",
+    "form": "One compact object reduced to a few irregular overlapping silhouettes, near-front view, no perspective grid",
+    "finish": "Mostly flat opaque fills with small soft gradient transitions at overlaps, rounded corners, no stroke outline or cast shadow",
+    "palette": "Vivid cobalt blue, leaf green, vermilion red, bubblegum pink, sunny orange, and pale lime chosen as two or three dominant hues per icon",
+    "reference": "assets/colorcut.png",
+    "references": [
+      "assets/colorcut.png"
+    ],
+    "skill": "skills/colorcut-icon/SKILL.md"
+  },
+  {
+    "name": "Hologram",
+    "slug": "hologram",
+    "description": "Luminous pastel holographic vector-3D illustration",
+    "form": "Small floating pictogram built from five to seven broad beveled geometric facets, subtle three-quarter tilt and faint horizontal ground shadow",
+    "finish": "Opalescent cyan-violet-pink-gold color transitions on select facets, clean narrow edge lights, sparse sparkles; icon-like rather than physically metallic",
+    "palette": "Powder cyan and lavender dominate, with peach pink, golden yellow and mint reflections against a very pale aqua field",
+    "reference": "assets/hologram.png",
+    "references": [
+      "assets/hologram.png"
+    ],
+    "skill": "skills/hologram-icon/SKILL.md"
+  },
+  {
+    "name": "Nightfall",
+    "slug": "nightfall",
+    "description": "Whimsical editorial 2.5D spot illustration",
+    "form": "One expressive subject with at most one or two small related props, dynamic tilt or float, rounded silhouette on a deep slate field",
+    "finish": "Soft painted gradients on simplified matte beveled planes, mild grain, small bright highlights and occasional motion/cloud/star accents",
+    "palette": "Coral peach, sky blue, lime green, sunflower yellow and warm orange against dark blue-charcoal #2B424A",
+    "reference": "assets/nightfall.png",
+    "references": [
+      "assets/nightfall.png"
+    ],
+    "skill": "skills/nightfall-icon/SKILL.md"
+  },
+  {
+    "name": "Storyworld",
+    "slug": "storyworld",
+    "description": "Small isometric narrative diorama",
+    "form": "Architectural mini-scene on a square or diamond plinth, one strong hero object, at most two supporting pieces and a clear isometric grid",
+    "finish": "Hard vector facets plus limited blue-violet-coral-yellow gradients on selected faces, deep midnight portal interiors with tiny stars, sharply defined platform shadows",
+    "palette": "Cobalt blue and violet structures, warm lemon-yellow planes, coral-pink and mint accents, near-black navy portals on a warm white field",
+    "reference": "assets/storyworld.png",
+    "references": [
+      "assets/storyworld.png"
+    ],
+    "skill": "skills/storyworld-icon/SKILL.md"
+  }
+]
