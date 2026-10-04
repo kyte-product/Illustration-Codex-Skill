@@ -9,8 +9,12 @@ let activeStyle = null;
 let activeStep = 0;
 let workflowTimer;
 
-function imageMarkup(path, alt = '') {
-  return `<img loading="lazy" src="${path}" alt="${alt}">`;
+function imageMarkup(reference, alt = '') {
+  if (typeof reference === 'string') return `<img loading="lazy" src="${reference}" alt="${alt}">`;
+  const { image, grid: [columns, rows], cell: [row, column] } = reference;
+  const offsetX = -(column / columns) * 100;
+  const offsetY = -(row / rows) * 100;
+  return `<span class="sample-crop" role="img" aria-label="${alt}"><img loading="lazy" src="${image}" alt="" style="width:${columns * 100}%;height:${rows * 100}%;transform:translate(${offsetX}%,${offsetY}%)"></span>`;
 }
 
 function renderStyles() {
@@ -78,7 +82,8 @@ function showStep(index) {
     step.classList.toggle('is-active', active);
     if (active) step.setAttribute('aria-current', 'step'); else step.removeAttribute('aria-current');
   });
-  const source = styles[activeStep]?.references[0];
+  const firstReference = styles[activeStep]?.references[0];
+  const source = typeof firstReference === 'string' ? firstReference : firstReference?.image;
   if (source) {
     workflowImage.classList.add('is-changing');
     window.setTimeout(() => { workflowImage.src = source; workflowImage.classList.remove('is-changing'); }, 160);

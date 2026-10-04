@@ -10,6 +10,7 @@ from zipfile import ZipFile, ZIP_DEFLATED
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE_SAMPLES = {name: f"assets/{name}.png" for name in ("colorcut", "hologram", "nightfall", "storyworld")}
+SITE_SAMPLE_GRIDS = {name: (4, 3) for name in ("colorcut", "hologram", "nightfall", "storyworld")}
 ADDED_STYLES = {"colorcut", "hologram", "nightfall", "storyworld"}
 
 # name, visual medium, form and viewpoint, surface/light, color behavior, exclusion
@@ -182,7 +183,11 @@ def main():
             key=lambda path: int(path.stem.rsplit("_", 1)[1]),
         )
         if name in ADDED_STYLES:
-            references = [SITE_SAMPLES[name]]
+            columns, rows = SITE_SAMPLE_GRIDS[name]
+            references = [
+                {"image": SITE_SAMPLES[name], "grid": [columns, rows], "cell": [row, column]}
+                for row in range(rows) for column in range(columns)
+            ]
         else:
             references = [str(path.relative_to(site_dir)) for path in local_refs]
         if not references:
@@ -193,7 +198,7 @@ def main():
             "form": form[0].upper() + form[1:],
             "finish": finish[0].upper() + finish[1:],
             "palette": colors[0].upper() + colors[1:],
-            "reference": references[0],
+            "reference": references[0]["image"] if isinstance(references[0], dict) else references[0],
             "references": references,
             "skill": f"skills/{name}-icon/SKILL.md",
         })

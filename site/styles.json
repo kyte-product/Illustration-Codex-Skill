@@ -583,7 +583,138 @@
     "palette": "Bright cobalt, leaf green, vermilion, pink, orange and pale lime; limit each glyph to two or three hues",
     "reference": "assets/colorcut.png",
     "references": [
-      "assets/colorcut.png"
+      {
+        "image": "assets/colorcut.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          0
+        ]
+      },
+      {
+        "image": "assets/colorcut.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          1
+        ]
+      },
+      {
+        "image": "assets/colorcut.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          2
+        ]
+      },
+      {
+        "image": "assets/colorcut.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          3
+        ]
+      },
+      {
+        "image": "assets/colorcut.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          0
+        ]
+      },
+      {
+        "image": "assets/colorcut.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          1
+        ]
+      },
+      {
+        "image": "assets/colorcut.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          2
+        ]
+      },
+      {
+        "image": "assets/colorcut.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          3
+        ]
+      },
+      {
+        "image": "assets/colorcut.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          0
+        ]
+      },
+      {
+        "image": "assets/colorcut.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          1
+        ]
+      },
+      {
+        "image": "assets/colorcut.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          2
+        ]
+      },
+      {
+        "image": "assets/colorcut.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          3
+        ]
+      }
     ],
     "skill": "skills/colorcut-icon/SKILL.md"
   },
@@ -596,7 +727,138 @@
     "palette": "Powder cyan and lavender dominate, with blush-peach and small golden reflections over very pale mint",
     "reference": "assets/hologram.png",
     "references": [
-      "assets/hologram.png"
+      {
+        "image": "assets/hologram.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          0
+        ]
+      },
+      {
+        "image": "assets/hologram.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          1
+        ]
+      },
+      {
+        "image": "assets/hologram.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          2
+        ]
+      },
+      {
+        "image": "assets/hologram.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          3
+        ]
+      },
+      {
+        "image": "assets/hologram.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          0
+        ]
+      },
+      {
+        "image": "assets/hologram.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          1
+        ]
+      },
+      {
+        "image": "assets/hologram.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          2
+        ]
+      },
+      {
+        "image": "assets/hologram.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          3
+        ]
+      },
+      {
+        "image": "assets/hologram.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          0
+        ]
+      },
+      {
+        "image": "assets/hologram.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          1
+        ]
+      },
+      {
+        "image": "assets/hologram.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          2
+        ]
+      },
+      {
+        "image": "assets/hologram.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          3
+        ]
+      }
     ],
     "skill": "skills/hologram-icon/SKILL.md"
   },
@@ -609,7 +871,138 @@
     "palette": "Coral-peach, pale sky blue, grass green, warm orange and sunflower yellow against dark blue-charcoal #2B424A",
     "reference": "assets/nightfall.png",
     "references": [
-      "assets/nightfall.png"
+      {
+        "image": "assets/nightfall.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          0
+        ]
+      },
+      {
+        "image": "assets/nightfall.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          1
+        ]
+      },
+      {
+        "image": "assets/nightfall.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          2
+        ]
+      },
+      {
+        "image": "assets/nightfall.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          3
+        ]
+      },
+      {
+        "image": "assets/nightfall.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          0
+        ]
+      },
+      {
+        "image": "assets/nightfall.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          1
+        ]
+      },
+      {
+        "image": "assets/nightfall.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          2
+        ]
+      },
+      {
+        "image": "assets/nightfall.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          3
+        ]
+      },
+      {
+        "image": "assets/nightfall.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          0
+        ]
+      },
+      {
+        "image": "assets/nightfall.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          1
+        ]
+      },
+      {
+        "image": "assets/nightfall.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          2
+        ]
+      },
+      {
+        "image": "assets/nightfall.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          3
+        ]
+      }
     ],
     "skill": "skills/nightfall-icon/SKILL.md"
   },
@@ -622,7 +1015,138 @@
     "palette": "Cobalt and violet structures, warm yellow planes, coral and mint accents, navy cavities against generous warm-white space",
     "reference": "assets/storyworld.png",
     "references": [
-      "assets/storyworld.png"
+      {
+        "image": "assets/storyworld.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          0
+        ]
+      },
+      {
+        "image": "assets/storyworld.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          1
+        ]
+      },
+      {
+        "image": "assets/storyworld.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          2
+        ]
+      },
+      {
+        "image": "assets/storyworld.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          0,
+          3
+        ]
+      },
+      {
+        "image": "assets/storyworld.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          0
+        ]
+      },
+      {
+        "image": "assets/storyworld.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          1
+        ]
+      },
+      {
+        "image": "assets/storyworld.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          2
+        ]
+      },
+      {
+        "image": "assets/storyworld.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          1,
+          3
+        ]
+      },
+      {
+        "image": "assets/storyworld.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          0
+        ]
+      },
+      {
+        "image": "assets/storyworld.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          1
+        ]
+      },
+      {
+        "image": "assets/storyworld.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          2
+        ]
+      },
+      {
+        "image": "assets/storyworld.png",
+        "grid": [
+          4,
+          3
+        ],
+        "cell": [
+          2,
+          3
+        ]
+      }
     ],
     "skill": "skills/storyworld-icon/SKILL.md"
   }
