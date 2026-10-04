@@ -44,12 +44,11 @@ STYLES = [
     ("pop", "bold flat geometric editorial pictogram", "one familiar object or character reduced to a compact, instantly recognizable silhouette assembled from a few large geometric shapes; mostly front-facing with no perspective", "crisp hard-edged solid fills, clean cutout overlaps, minimal internal divisions, no outline except where a deliberate black shape defines a feature; completely flat with no shading", "bright red, yellow, cobalt, sky blue, orange, pink, mint and black; choose only a few clear blocks per symbol, with white negative space", "gradients, shadows, texture, realistic detail, thin strokes, rounded 3D volume, excessive internal parts, or using every palette color in every symbol"),
     ("clover", "soft green-gradient editorial glyph", "one immediately readable app symbol built from a few bold rounded shapes, centered and nearly front-facing", "clean flat vector construction with gentle green tonal blends and only a narrow soft darker edge on selected overlaps; simple cutout details and almost no cast shadow", "fresh emerald and spring green tie the set together, with pale mint or cream openings and occasional small coral, orange or yellow accents; a fruit may use coral-red", "thick extruded side walls, shiny plastic highlights, strong hard shadows, busy outlines, dense details, texture, or using only one monotonous shade of green"),
     ("studio", "softly rendered miniature product illustration", "one ordinary household object, food item, or small furnishing, carefully constructed and isolated in a calm three-quarter view", "soft diffuse studio light, realistic but simplified material cues, gentle ambient contact shadow, subtle surface texture, softly rounded edges and restrained highlights; no cartoon outline", "natural object colors with warm wood, cream, stone, muted greens and small authentic color accents against clean white", "hard vector fills, toy-like plastic gloss, dramatic lighting, hard black outlines, oversaturated colors, excessive props, or full room scenes"),
-    ("concept", "delicate editorial concept line drawing", "one simple visual metaphor for an abstract idea, drawn with spare hand-guided contours in a spacious composition", "very fine near-black strokes with slight natural variation, open interiors, small flat pale-lavender fills used on just one or two parts; no broad black fills, no gradients, texture or shadow", "near-black linework on a very light neutral field; pale lilac is the only fill and occupies little area", "heavy uniform outlines, mechanical vector geometry, large filled regions, many purple areas, extra colors, dense detail, decorative backgrounds, cards, labels, text or explanatory captions"),
+    ("concept", "spare editorial line-and-lavender conceptual illustration", "one clever metaphor assembled from two or three recognizable elements in a loose, asymmetrical composition; mostly front-facing with only slight perspective where the idea needs it", "hairline near-black hand-guided contours, mostly open white interiors, one small flat soft-lavender shape that overlaps or sits behind the line drawing; a small near-black solid is allowed only as an essential focal part; no gradients, texture, modeled volume or shadows", "near-black lines and transparent negative space dominate; muted lavender #A98CE7 is the only fill and occupies less than one quarter of the visible artwork", "thick outlines, uniformly geometric icon geometry, filled purple bodies, full black silhouettes, decorative detail, extra colors, caption text, card backgrounds or border boxes"),
 ]
 
-SITE_SAMPLES = {style[0]: f"assets/generated/{style[0]}.webp" for style in STYLES}
-SITE_SAMPLE_GRIDS = {name: (4, 3) for name in SITE_SAMPLES}
-SITE_SAMPLE_GRIDS.update({"clover": (3, 2)})
+SITE_SAMPLE_COUNTS = {style[0]: 12 for style in STYLES}
+SITE_SAMPLE_COUNTS["clover"] = 6
 
 # Observations from the eight reference sheets supplied by the user. The source screenshots
 # are not included in the distributable ZIP; future sessions use these detailed notes.
@@ -61,20 +60,8 @@ USER_STYLE_NOTES = {
     "pop": "Reference image 1: a dense but airy gallery grid of small colorful pictograms on pure white. Shapes are sharp, flat and constructed from a handful of bold geometric pieces. Silhouettes have playful character but are simplified, mostly frontal and immediately readable at small size. Use hard-edged solids—red, yellow, blue, orange, pink, mint and black—usually just two or three colors per symbol. Black appears as a shape or a few defining marks, not a universal stroke. No outline around every shape, no gradients, shadows, surface texture, perspective or 3D. Match the crisp flat graphic language, not the reference objects.",
     "clover": "Reference image 2: six sparse glyphs in a 3-by-2 arrangement on pale warm ivory. Use simple rounded silhouettes with smooth emerald-to-spring-green blending and only the faintest darker edge on selected overlaps. Green is the family color, but each object keeps a small natural accent: pale mint on openings/buttons, tiny orange or yellow hardware, and coral-red for a fruit. The shapes remain flat and clean, with no black contour, heavy extrusion, hard shadow or texture. Broad negative space is essential. Match the reference's muted gradient depth and restrained accent use, not its subjects.",
     "studio": "Reference image 3: isolated small everyday objects rendered as carefully made soft 3D miniatures on pure white. Objects use believable proportions and shallow three-quarter views, with gentle soft-edged studio lighting and a faint grounding shadow. Materials feel distinct and tactile—woven cloth, matte wood, ceramic, glass, paper, food and painted metal—yet surfaces remain clean and simplified. Use natural, slightly muted real-world colors. Keep each object alone with ample whitespace; no icon outlines, platform, surrounding room, extra decorative props, label or text. Match the style and scale, not the reference objects.",
-    "concept": "Reference image 4: a spare business-concept drawing in thin near-black linework with only small pale-lavender filled accents. Lines should feel delicate and lightly hand-guided, not thick, rigid or mechanically uniform. Use a simple conceptual gesture or 2–3 open shapes, with large pale-gray/white interior areas and plenty of breathing room. The original sits on a light-gray square card with explanatory text underneath; draw only the icon and omit card borders and all text. Avoid solid black masses, oversized purple fills, extra colors and any shading, gradient or texture. Match the line weight and empty space, not the reference's exact concepts.",
+    "concept": "Reference image 4: eight editorial metaphors arranged above captions in a four-by-two pale-gray card grid. Copy the visual grammar, not the words or exact subjects: roughly 1 px near-black hand-guided strokes at a 300 px cell size, a few unclosed or doubled contours, deliberately imperfect alignment, and one soft-lavender oval, circle, or angular patch per vignette. Most of each drawing remains unfilled open space. Examples of construction in the reference include a line-drawn optical instrument with lavender corner brackets, an outlined open box with a lavender disk and bulb, jagged mountain lines in front of a lavender circle, two outlined hands around one lavender disc, and a folded paper figure above a lavender ellipse. The line work does the explaining; lavender adds one visual anchor. Keep symbols modest, varied, and asymmetrical with generous air around them. Draw only the artwork: no card, pale-gray backing, caption, grid border, or text. Avoid thick strokes, complete filled silhouettes, multiple accent colors, shading, gradients, texture, and polished corporate-vector symmetry.",
 }
-
-NATIVE_BACKGROUNDS = {
-    "colorcut": "warm ivory #FFFEF8",
-    "hologram": "very pale mint #ECFAF5",
-    "nightfall": "deep blue-charcoal #2B424A",
-    "storyworld": "warm white #FFFEF8",
-    "pop": "pure white #FFFFFF",
-    "clover": "warm ivory #FFFDF3",
-    "studio": "pure white #FFFFFF",
-    "concept": "pale neutral #F5F5F5",
-}
-
 
 def render(style):
     name, medium, form, finish, colors, avoid = style
@@ -91,13 +78,12 @@ def render(style):
         "pop": "Check the silhouette at 64 px; use crisp solid blocks and no unnecessary outline or shading.",
         "clover": "Check the glyph at 64 px; keep its green blending soft, any subject accent small, and dark-green depth minimal.",
         "studio": "Check the object at 128 px; keep realistic materials softly lit, recognizable and isolated on white.",
-        "concept": "Check the metaphor at 128 px; keep lines delicate, lilac areas small, and open space dominant.",
+        "concept": "Check the metaphor at 128 px; keep the hand-guided linework delicate, the single lavender accent subordinate, the composition slightly asymmetric, and open space dominant.",
     }.get(name, "Make the silhouette unmistakable at 64 px.")
     review = "Review against the user's reference notes" if name in USER_STYLE_NOTES else "Review against the four style references"
-    native_background = NATIVE_BACKGROUNDS.get(name, "pure white #FFFFFF")
     return f'''---
 name: {name}-icon
-description: Generate consistent {title} style product icons with configurable palettes and transparent backgrounds. Use when the user requests a {title} icon, an icon set, or this visual style for a product illustration.
+description: Generate consistent {title} style product icons as high-resolution square transparent PNGs. Use when the user requests a {title} icon, an icon set, or this visual style for a product illustration.
 ---
 
 # {title} icon
@@ -112,10 +98,7 @@ This style is already selected. Before generating, ask the user **one question a
 2. "What should the icon or icons show?" Request one subject or a comma-separated subject list, matching the choice above.
 3. "Where will you use them?" Offer app or product UI / marketing or social / other, and accept a custom answer.
 4. "How should colors be chosen?" Offer this style's default palette / realistic object colors / custom palette. If custom, ask separately for primary, secondary, tertiary, accent, and detail colors, in that order. Accept hex codes or plain color names; offer "use style default" for each slot. Keep object colors recognizable unless strict brand colors are requested.
-5. "What background do you want?" Offer native {title} background ({native_background}) / transparent / custom solid color. If custom solid, ask for its color in a separate question. Preserve the user's choice; the native background is the closest visual match to this style's reference sheet.
-6. "What canvas shape do you want?" Offer square / portrait / landscape. Square is recommended for icons.
-7. "What size or intended export do you want?" Offer high resolution PNG / another size or format. Do not promise a format the available tool cannot produce; explain its actual output if needed.
-8. Summarize all selections and ask **one** final question: "Generate with these choices, or change one?" If they choose change, revisit that choice and then confirm again.
+5. Summarize the selections and the fixed output (high-resolution square transparent PNG); ask **one** final question: "Generate with these choices, or change one?" If they choose change, revisit that choice and then confirm again.
 
 Only an explicit answer, including "default", advances a step. A skipped or unanswered question leaves the wizard paused. Preserve selections across turns.
 
@@ -133,11 +116,11 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 
 ## Generate
 
-{scale} Keep the whole object or mini-scene within the central 65% of the canvas width and height, leaving generous balanced empty space. Reduce the subject to its identifying parts; omit tiny details that disappear at the intended size. Preserve the same viewpoint, scale, stroke weight or material treatment, light direction, shadow softness, and palette across a set. A solid background is a uniform field, not an app tile or surrounding scene.
+{scale} The output is always a high-resolution **square PNG with genuine alpha transparency**. Never ask the user about background, canvas shape, resolution, or format. A style-reference background is only for calibration, never part of the output. Center the visible subject, including its glow or cast shadow, inside the middle 65% of both axes. Leave at least 17.5% transparent margin on every side. Make the visible bounds balanced around the canvas center; no object part, flourish, or shadow may touch the safe-zone boundary. Reduce the subject to its identifying parts; omit tiny details that disappear at the intended size. Preserve the same viewpoint, scale, stroke weight or material treatment, light direction, shadow softness, and palette across a set.
 
-Build a prompt with the subject, every style lock above, the chosen color mapping, selected canvas, and requested background. Explicitly describe which parts of the subject get primary, secondary, and accent colors. Use the image generation tool directly. Set its transparent background option when the user wants a transparent icon. For a series, reuse the same style block word for word and change only subject anatomy and user-requested colors. Prefer individual deliverables over a contact sheet unless the user asks for a sheet.
+Build a prompt with the subject, every style lock above, and the chosen color mapping. Explicitly describe which parts of the subject get primary, secondary, and accent colors. Use the image generation tool directly with its transparent-background option enabled (`transparent_background: true` for `image_gen.imagegen`). Request its highest available native square resolution. Deliver a PNG with alpha, not an opaque image with a painted white or checkerboard background. For a series, reuse the same style block word for word and change only subject anatomy and user-requested colors. Prefer individual square deliverables over a contact sheet unless the user asks for a sheet.
 
-{review}, especially material, outline thickness, highlight type, number of details, color proportions, and object scale. Also check subject recognition, clipping, text artifacts, and unintended background. If it drifts toward a generic style, revise the prompt with specific forbidden traits and regenerate. Return the finished image or files and a short note identifying the style and palette used.
+{review}, especially material, outline thickness, highlight type, number of details, color proportions, and object scale. Inspect the actual output: width must equal height; it must contain transparent alpha outside the artwork; the visible alpha bounds, including shadows and glows, must fit inside the central 65% and be centered. Also check subject recognition, clipping, and text artifacts. If any check fails, revise and regenerate before delivering; do not stretch, crop, or label an opaque file as transparent. If the tool cannot meet these fixed requirements, state the limitation clearly instead of claiming a finished icon. Return the finished image or files and a short note identifying the style and palette used.
 '''
 
 
@@ -159,16 +142,13 @@ Lead a fully interactive icon creation flow. Ask exactly **one question per mess
 3. **Subject.** Ask what the icon should show, or request a comma-separated subject list for a set.
 4. **Use.** Ask where the icons will be used. Offer app or product UI / marketing or social / other.
 5. **Color method.** Ask style default palette / realistic object colors / custom palette. If custom, ask primary, secondary, tertiary, accent, and detail colors **in five separate turns**, in that order. Accept hex codes or names; "default" uses the chosen style's direction for that slot.
-6. **Background.** Read the selected style's native background in its guided selection section. Ask native background / transparent / custom solid color. If custom solid, ask its color in a separate turn.
-7. **Canvas.** Ask square / portrait / landscape.
-8. **Output.** Ask high resolution PNG / custom size or format. If custom, ask for the details in a separate turn and use only formats the available image tool supports.
-9. **Confirm.** Summarize every selected value. Ask exactly one question: "Generate with these choices, or change one?" If a change is requested, revisit that choice and confirm again.
+6. **Confirm.** Summarize every selected value and the fixed output (high-resolution square transparent PNG with generous safe margins). Ask exactly one question: "Generate with these choices, or change one?" If a change is requested, revisit that choice and confirm again. Never ask about background, canvas shape, resolution, or format.
 
 Only an explicit answer advances the sequence. If the user leaves a question unanswered, stop and await the reply.
 
 ## Produce
 
-After confirmation, use the selected style skill's Style lock, Visual calibration, and Generate sections. Use an image generation tool if available, setting transparent background when chosen. Otherwise provide complete prompts and clearly state that no image was generated. For a set, keep perspective, scale, palette, material, and light consistent. Check each output for recognition, clipping, text artifacts, and background errors. Return the result and a short summary of the choices.
+After confirmation, use the selected style skill's Style lock, Visual calibration, and Generate sections. Use an image generation tool with transparent background enabled (`transparent_background: true` for `image_gen.imagegen`) and request its highest available native square resolution. Otherwise provide complete prompts and clearly state that no image was generated. For a set, keep perspective, scale, palette, material, and light consistent. Verify genuine alpha transparency, square dimensions, central-65% safe bounds, balanced centering, recognition, and absence of text or clipping. Regenerate failures before delivery. Return the result and a short summary of the choices.
 '''
 
 
@@ -196,21 +176,18 @@ def main():
     site_dir.mkdir(exist_ok=True)
     catalog = []
     for name, medium, form, finish, colors, avoid in STYLES:
-        sample_asset = site_dir / SITE_SAMPLES[name]
-        if not sample_asset.exists():
-            raise FileNotFoundError(f"Missing generated gallery sample: {sample_asset.relative_to(ROOT)}")
-        columns, rows = SITE_SAMPLE_GRIDS[name]
-        references = [
-            {"image": SITE_SAMPLES[name], "grid": [columns, rows], "cell": [row, column]}
-            for row in range(rows) for column in range(columns)
-        ]
+        references = [f"assets/icons/{name}/{index:02}.png" for index in range(1, SITE_SAMPLE_COUNTS[name] + 1)]
+        for reference in references:
+            sample_asset = site_dir / reference
+            if not sample_asset.exists():
+                raise FileNotFoundError(f"Missing generated gallery sample: {sample_asset.relative_to(ROOT)}")
         catalog.append({
             "name": name.capitalize(), "slug": name,
             "description": medium[0].upper() + medium[1:],
             "form": form[0].upper() + form[1:],
             "finish": finish[0].upper() + finish[1:],
             "palette": colors[0].upper() + colors[1:],
-            "reference": references[0]["image"] if isinstance(references[0], dict) else references[0],
+            "reference": references[0],
             "references": references,
             "skill": f"skills/{name}-icon/SKILL.md",
         })

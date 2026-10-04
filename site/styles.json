@@ -6,140 +6,20 @@
     "form": "Soft thick rounded forms, slightly uneven molded edges, shallow three-quarter view",
     "finish": "Fine mottled sponge texture, matte surface, diffuse shadows, almost no specular shine",
     "palette": "Pale pistachio and lime main forms, seafoam or turquoise secondary parts, tiny orange-gold details",
-    "reference": "assets/generated/clay.webp",
+    "reference": "assets/icons/clay/01.png",
     "references": [
-      {
-        "image": "assets/generated/clay.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/clay.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/clay.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/clay.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/clay.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/clay.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/clay.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/clay.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/clay.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/clay.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/clay.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/clay.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/clay/01.png",
+      "assets/icons/clay/02.png",
+      "assets/icons/clay/03.png",
+      "assets/icons/clay/04.png",
+      "assets/icons/clay/05.png",
+      "assets/icons/clay/06.png",
+      "assets/icons/clay/07.png",
+      "assets/icons/clay/08.png",
+      "assets/icons/clay/09.png",
+      "assets/icons/clay/10.png",
+      "assets/icons/clay/11.png",
+      "assets/icons/clay/12.png"
     ],
     "skill": "skills/clay-icon/SKILL.md"
   },
@@ -150,140 +30,20 @@
     "form": "Compact app-icon silhouette built from a few crisp geometric planes, mild three-quarter view",
     "finish": "Hard-edged light and dark color blocks, one narrow pale highlight, solid navy side faces; no reflective material",
     "palette": "Bright spring green dominates; deep navy defines depth; cyan and pale blue mark secondary details; yellow-orange only as a small accent",
-    "reference": "assets/generated/flare.webp",
+    "reference": "assets/icons/flare/01.png",
     "references": [
-      {
-        "image": "assets/generated/flare.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/flare.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/flare.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/flare.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/flare.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/flare.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/flare.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/flare.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/flare.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/flare.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/flare.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/flare.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/flare/01.png",
+      "assets/icons/flare/02.png",
+      "assets/icons/flare/03.png",
+      "assets/icons/flare/04.png",
+      "assets/icons/flare/05.png",
+      "assets/icons/flare/06.png",
+      "assets/icons/flare/07.png",
+      "assets/icons/flare/08.png",
+      "assets/icons/flare/09.png",
+      "assets/icons/flare/10.png",
+      "assets/icons/flare/11.png",
+      "assets/icons/flare/12.png"
     ],
     "skill": "skills/flare-icon/SKILL.md"
   },
@@ -294,140 +54,20 @@
     "form": "One familiar study object, simplified to its essential parts, with open white planes, a gentle tilt, and a steady fine black contour",
     "finish": "Crisp, even monoline outlines and flat untextured fills; add a pale periwinkle-blue side plane, with little or no shading and almost no cast shadow",
     "palette": "White is the main field; periwinkle is the principal spot color, while lemon yellow and bubblegum pink appear as small details rather than large filled regions",
-    "reference": "assets/generated/zing.webp",
+    "reference": "assets/icons/zing/01.png",
     "references": [
-      {
-        "image": "assets/generated/zing.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/zing.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/zing.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/zing.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/zing.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/zing.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/zing.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/zing.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/zing.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/zing.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/zing.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/zing.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/zing/01.png",
+      "assets/icons/zing/02.png",
+      "assets/icons/zing/03.png",
+      "assets/icons/zing/04.png",
+      "assets/icons/zing/05.png",
+      "assets/icons/zing/06.png",
+      "assets/icons/zing/07.png",
+      "assets/icons/zing/08.png",
+      "assets/icons/zing/09.png",
+      "assets/icons/zing/10.png",
+      "assets/icons/zing/11.png",
+      "assets/icons/zing/12.png"
     ],
     "skill": "skills/zing-icon/SKILL.md"
   },
@@ -438,140 +78,20 @@
     "form": "Single compact, instantly readable object with a chunky rounded silhouette, simple frontal or shallow three-quarter view",
     "finish": "Smooth molded enamel, bold gold rims and bevels, a few broad white shine marks, clean bright highlights and soft short grounding shade",
     "palette": "Vivid golden yellow and amber dominate; royal blue and cyan form one or two large inset panels; tiny emerald accents only",
-    "reference": "assets/generated/gloss.webp",
+    "reference": "assets/icons/gloss/01.png",
     "references": [
-      {
-        "image": "assets/generated/gloss.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/gloss.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/gloss.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/gloss.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/gloss.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/gloss.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/gloss.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/gloss.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/gloss.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/gloss.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/gloss.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/gloss.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/gloss/01.png",
+      "assets/icons/gloss/02.png",
+      "assets/icons/gloss/03.png",
+      "assets/icons/gloss/04.png",
+      "assets/icons/gloss/05.png",
+      "assets/icons/gloss/06.png",
+      "assets/icons/gloss/07.png",
+      "assets/icons/gloss/08.png",
+      "assets/icons/gloss/09.png",
+      "assets/icons/gloss/10.png",
+      "assets/icons/gloss/11.png",
+      "assets/icons/gloss/12.png"
     ],
     "skill": "skills/gloss-icon/SKILL.md"
   },
@@ -582,140 +102,20 @@
     "form": "A single simple UI object with a compact rounded silhouette and only a few essential parts; mostly front-facing, with just enough three-quarter depth to read its edge",
     "finish": "Opaque, softly airbrushed pale-cyan-to-mid-blue shading, brightest at the upper left and deeper blue at the lower right; one broad milky highlight and a restrained cool edge glow, no drawn contour",
     "palette": "Powder blue and white occupy nearly all the icon; cobalt is limited to lower edges and recesses, with coral red on one tiny functional control",
-    "reference": "assets/generated/mist.webp",
+    "reference": "assets/icons/mist/01.png",
     "references": [
-      {
-        "image": "assets/generated/mist.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/mist.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/mist.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/mist.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/mist.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/mist.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/mist.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/mist.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/mist.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/mist.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/mist.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/mist.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/mist/01.png",
+      "assets/icons/mist/02.png",
+      "assets/icons/mist/03.png",
+      "assets/icons/mist/04.png",
+      "assets/icons/mist/05.png",
+      "assets/icons/mist/06.png",
+      "assets/icons/mist/07.png",
+      "assets/icons/mist/08.png",
+      "assets/icons/mist/09.png",
+      "assets/icons/mist/10.png",
+      "assets/icons/mist/11.png",
+      "assets/icons/mist/12.png"
     ],
     "skill": "skills/mist-icon/SKILL.md"
   },
@@ -726,140 +126,20 @@
     "form": "A compact practical object with sturdy rounded forms, simple functional parts, and a shallow three-quarter angle that reveals a short dark-blue side",
     "finish": "Mostly clean blue fills with only gentle edge shading, crisp rounded edges, a small soft highlight, and a faint short grounding shadow; keep the finish smooth but not shiny",
     "palette": "Medium cornflower or cobalt blue dominates; bright yellow marks a key functional component, orange is a pin-size detail, and navy is reserved for openings and the side face",
-    "reference": "assets/generated/pebble.webp",
+    "reference": "assets/icons/pebble/01.png",
     "references": [
-      {
-        "image": "assets/generated/pebble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/pebble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/pebble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/pebble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/pebble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/pebble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/pebble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/pebble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/pebble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/pebble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/pebble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/pebble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/pebble/01.png",
+      "assets/icons/pebble/02.png",
+      "assets/icons/pebble/03.png",
+      "assets/icons/pebble/04.png",
+      "assets/icons/pebble/05.png",
+      "assets/icons/pebble/06.png",
+      "assets/icons/pebble/07.png",
+      "assets/icons/pebble/08.png",
+      "assets/icons/pebble/09.png",
+      "assets/icons/pebble/10.png",
+      "assets/icons/pebble/11.png",
+      "assets/icons/pebble/12.png"
     ],
     "skill": "skills/pebble-icon/SKILL.md"
   },
@@ -870,140 +150,20 @@
     "form": "Rounded simplified consumer object, visible functional feature, three-quarter view",
     "finish": "Smooth molded satin surface, broad gentle value shifts, sparse narrow highlights, no black stroke",
     "palette": "Vivid emerald or teal-green main body, sunny yellow hardware, cyan secondary panel, navy only inside recesses",
-    "reference": "assets/generated/drift.webp",
+    "reference": "assets/icons/drift/01.png",
     "references": [
-      {
-        "image": "assets/generated/drift.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/drift.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/drift.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/drift.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/drift.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/drift.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/drift.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/drift.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/drift.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/drift.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/drift.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/drift.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/drift/01.png",
+      "assets/icons/drift/02.png",
+      "assets/icons/drift/03.png",
+      "assets/icons/drift/04.png",
+      "assets/icons/drift/05.png",
+      "assets/icons/drift/06.png",
+      "assets/icons/drift/07.png",
+      "assets/icons/drift/08.png",
+      "assets/icons/drift/09.png",
+      "assets/icons/drift/10.png",
+      "assets/icons/drift/11.png",
+      "assets/icons/drift/12.png"
     ],
     "skill": "skills/drift-icon/SKILL.md"
   },
@@ -1014,140 +174,20 @@
     "form": "One instantly recognizable everyday object, nearly frontal, with a clear silhouette and loose but controlled hand-drawn contours; keep the inside mostly open",
     "finish": "Fine-to-medium black lines with slight human variation, a few short interior strokes, and occasional short gesture marks; use a small solid-black patch only for a cavity or cast side, with no dense hatching",
     "palette": "Black ink alone on clean white",
-    "reference": "assets/generated/ink.webp",
+    "reference": "assets/icons/ink/01.png",
     "references": [
-      {
-        "image": "assets/generated/ink.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/ink.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/ink.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/ink.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/ink.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/ink.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/ink.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/ink.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/ink.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/ink.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/ink.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/ink.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/ink/01.png",
+      "assets/icons/ink/02.png",
+      "assets/icons/ink/03.png",
+      "assets/icons/ink/04.png",
+      "assets/icons/ink/05.png",
+      "assets/icons/ink/06.png",
+      "assets/icons/ink/07.png",
+      "assets/icons/ink/08.png",
+      "assets/icons/ink/09.png",
+      "assets/icons/ink/10.png",
+      "assets/icons/ink/11.png",
+      "assets/icons/ink/12.png"
     ],
     "skill": "skills/ink-icon/SKILL.md"
   },
@@ -1158,140 +198,20 @@
     "form": "One compact everyday object visibly assembled from folded kraft-paper pieces, with real layered thickness, seams, tabs, slots or a paper strap; use a consistent three-quarter view",
     "finish": "Softly lit studio-craft rendering with matte fibrous paper, visible corrugation along cut edges, crisp folds, and restrained surface grain; keep the object isolated with a soft short contact shadow",
     "palette": "Warm natural kraft tan is dominant; muted denim-indigo or sage-teal form one or two paper panels, with a tiny coral or ochre fastener",
-    "reference": "assets/generated/cardboard.webp",
+    "reference": "assets/icons/cardboard/01.png",
     "references": [
-      {
-        "image": "assets/generated/cardboard.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/cardboard.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/cardboard.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/cardboard.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/cardboard.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/cardboard.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/cardboard.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/cardboard.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/cardboard.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/cardboard.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/cardboard.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/cardboard.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/cardboard/01.png",
+      "assets/icons/cardboard/02.png",
+      "assets/icons/cardboard/03.png",
+      "assets/icons/cardboard/04.png",
+      "assets/icons/cardboard/05.png",
+      "assets/icons/cardboard/06.png",
+      "assets/icons/cardboard/07.png",
+      "assets/icons/cardboard/08.png",
+      "assets/icons/cardboard/09.png",
+      "assets/icons/cardboard/10.png",
+      "assets/icons/cardboard/11.png",
+      "assets/icons/cardboard/12.png"
     ],
     "skill": "skills/cardboard-icon/SKILL.md"
   },
@@ -1302,140 +222,20 @@
     "form": "One simple utility object with a clean, recognizable silhouette, mostly front-facing or slightly tilted; show its function with only a few interior divisions",
     "finish": "Thin, even near-black contour lines with clean joins; keep broad faces white, use at most one pale-blue side plane, no modeled gray shading, and only a faint contact mark",
     "palette": "White dominates; use a small neon-lime focal fill and one much smaller yellow accent, with near-black reserved for the outline",
-    "reference": "assets/generated/linepop.webp",
+    "reference": "assets/icons/linepop/01.png",
     "references": [
-      {
-        "image": "assets/generated/linepop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/linepop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/linepop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/linepop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/linepop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/linepop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/linepop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/linepop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/linepop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/linepop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/linepop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/linepop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/linepop/01.png",
+      "assets/icons/linepop/02.png",
+      "assets/icons/linepop/03.png",
+      "assets/icons/linepop/04.png",
+      "assets/icons/linepop/05.png",
+      "assets/icons/linepop/06.png",
+      "assets/icons/linepop/07.png",
+      "assets/icons/linepop/08.png",
+      "assets/icons/linepop/09.png",
+      "assets/icons/linepop/10.png",
+      "assets/icons/linepop/11.png",
+      "assets/icons/linepop/12.png"
     ],
     "skill": "skills/linepop-icon/SKILL.md"
   },
@@ -1446,140 +246,20 @@
     "form": "One familiar home or daily-use object built from two to five broad, softly rounded geometric shapes; use a mild three-quarter view only when needed to clarify its construction",
     "finish": "Solid matte color planes with crisp overlap boundaries and simple cutout shapes; no outline, surface texture, airbrush, or modeled light; one darker-green plane may indicate depth",
     "palette": "Deep emerald is the main shape; golden yellow marks one large functional component, while violet and cream appear only as tiny secondary accents",
-    "reference": "assets/generated/glide.webp",
+    "reference": "assets/icons/glide/01.png",
     "references": [
-      {
-        "image": "assets/generated/glide.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/glide.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/glide.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/glide.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/glide.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/glide.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/glide.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/glide.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/glide.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/glide.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/glide.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/glide.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/glide/01.png",
+      "assets/icons/glide/02.png",
+      "assets/icons/glide/03.png",
+      "assets/icons/glide/04.png",
+      "assets/icons/glide/05.png",
+      "assets/icons/glide/06.png",
+      "assets/icons/glide/07.png",
+      "assets/icons/glide/08.png",
+      "assets/icons/glide/09.png",
+      "assets/icons/glide/10.png",
+      "assets/icons/glide/11.png",
+      "assets/icons/glide/12.png"
     ],
     "skill": "skills/glide-icon/SKILL.md"
   },
@@ -1590,140 +270,20 @@
     "form": "One functional household, retail, or electronic object with accurate recognizable parts, a compact silhouette, and a shallow three-quarter view",
     "finish": "Steady medium-fine black contours around flat faces; use broad royal-blue panels, open white face areas, and only a pale-blue side plane for depth, with no modeled gradient",
     "palette": "Royal blue and white share the main body; yellow marks one important control or fitting, and black is reserved for the consistent outline and small openings",
-    "reference": "assets/generated/nimble.webp",
+    "reference": "assets/icons/nimble/01.png",
     "references": [
-      {
-        "image": "assets/generated/nimble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/nimble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/nimble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/nimble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/nimble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/nimble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/nimble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/nimble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/nimble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/nimble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/nimble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/nimble.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/nimble/01.png",
+      "assets/icons/nimble/02.png",
+      "assets/icons/nimble/03.png",
+      "assets/icons/nimble/04.png",
+      "assets/icons/nimble/05.png",
+      "assets/icons/nimble/06.png",
+      "assets/icons/nimble/07.png",
+      "assets/icons/nimble/08.png",
+      "assets/icons/nimble/09.png",
+      "assets/icons/nimble/10.png",
+      "assets/icons/nimble/11.png",
+      "assets/icons/nimble/12.png"
     ],
     "skill": "skills/nimble-icon/SKILL.md"
   },
@@ -1734,140 +294,20 @@
     "form": "One simple everyday object in a mostly frontal or mild three-quarter view; fine, slightly imperfect contours define it while leaving generous white interior space",
     "finish": "Light black pen lines with subtle hand variation, a few short construction marks and faint cool-gray grounding strokes; use a soft pale-butter-yellow tint on only one or two small identifying areas",
     "palette": "White paper and black linework dominate; pale butter yellow stays light and occupies a small part of the object",
-    "reference": "assets/generated/jot.webp",
+    "reference": "assets/icons/jot/01.png",
     "references": [
-      {
-        "image": "assets/generated/jot.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/jot.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/jot.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/jot.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/jot.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/jot.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/jot.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/jot.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/jot.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/jot.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/jot.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/jot.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/jot/01.png",
+      "assets/icons/jot/02.png",
+      "assets/icons/jot/03.png",
+      "assets/icons/jot/04.png",
+      "assets/icons/jot/05.png",
+      "assets/icons/jot/06.png",
+      "assets/icons/jot/07.png",
+      "assets/icons/jot/08.png",
+      "assets/icons/jot/09.png",
+      "assets/icons/jot/10.png",
+      "assets/icons/jot/11.png",
+      "assets/icons/jot/12.png"
     ],
     "skill": "skills/jot-icon/SKILL.md"
   },
@@ -1878,140 +318,20 @@
     "form": "Chunky editorial object made from overlapping graphic print plates, shallow three-quarter view",
     "finish": "Visible halftone dots and slight ink offset, paper grain, hard print edges, no volumetric shine",
     "palette": "Electric cobalt blue, acid yellow, aqua mint, lavender, small coral-red offset; cream-paper gaps",
-    "reference": "assets/generated/riso.webp",
+    "reference": "assets/icons/riso/01.png",
     "references": [
-      {
-        "image": "assets/generated/riso.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/riso.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/riso.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/riso.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/riso.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/riso.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/riso.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/riso.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/riso.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/riso.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/riso.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/riso.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/riso/01.png",
+      "assets/icons/riso/02.png",
+      "assets/icons/riso/03.png",
+      "assets/icons/riso/04.png",
+      "assets/icons/riso/05.png",
+      "assets/icons/riso/06.png",
+      "assets/icons/riso/07.png",
+      "assets/icons/riso/08.png",
+      "assets/icons/riso/09.png",
+      "assets/icons/riso/10.png",
+      "assets/icons/riso/11.png",
+      "assets/icons/riso/12.png"
     ],
     "skill": "skills/riso-icon/SKILL.md"
   },
@@ -2022,140 +342,20 @@
     "form": "Object simplified to a strong contour and few interior marks, near-front view",
     "finish": "Thick slightly wobbly deep forest-green outline, flat marker-filled shapes with tiny uneven edges, almost no shadow",
     "palette": "Bubblegum pink and green dominate, with lemon yellow and pale aqua fills",
-    "reference": "assets/generated/marker.webp",
+    "reference": "assets/icons/marker/01.png",
     "references": [
-      {
-        "image": "assets/generated/marker.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/marker.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/marker.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/marker.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/marker.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/marker.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/marker.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/marker.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/marker.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/marker.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/marker.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/marker.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/marker/01.png",
+      "assets/icons/marker/02.png",
+      "assets/icons/marker/03.png",
+      "assets/icons/marker/04.png",
+      "assets/icons/marker/05.png",
+      "assets/icons/marker/06.png",
+      "assets/icons/marker/07.png",
+      "assets/icons/marker/08.png",
+      "assets/icons/marker/09.png",
+      "assets/icons/marker/10.png",
+      "assets/icons/marker/11.png",
+      "assets/icons/marker/12.png"
     ],
     "skill": "skills/marker-icon/SKILL.md"
   },
@@ -2166,140 +366,20 @@
     "form": "Single simple object with a rounded, softly tinted solid-glass silhouette, front or shallow three-quarter view",
     "finish": "Smooth milky transparency, broad soft internal panes, one clear cyan rim highlight and a few pastel reflections; bright, airy light with a readable softly colored body",
     "palette": "Icy cyan and powder blue provide visible body color; tiny coral, peach or lemon reflections; generous white space",
-    "reference": "assets/generated/glass.webp",
+    "reference": "assets/icons/glass/01.png",
     "references": [
-      {
-        "image": "assets/generated/glass.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/glass.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/glass.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/glass.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/glass.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/glass.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/glass.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/glass.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/glass.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/glass.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/glass.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/glass.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/glass/01.png",
+      "assets/icons/glass/02.png",
+      "assets/icons/glass/03.png",
+      "assets/icons/glass/04.png",
+      "assets/icons/glass/05.png",
+      "assets/icons/glass/06.png",
+      "assets/icons/glass/07.png",
+      "assets/icons/glass/08.png",
+      "assets/icons/glass/09.png",
+      "assets/icons/glass/10.png",
+      "assets/icons/glass/11.png",
+      "assets/icons/glass/12.png"
     ],
     "skill": "skills/glass-icon/SKILL.md"
   },
@@ -2310,140 +390,20 @@
     "form": "One familiar object with believable but simplified construction, arranged as a compact three-quarter view with a clear outer silhouette and no surrounding scene",
     "finish": "Build the form from a few translucent, overlapping pigment washes; keep soft blooms, granulation, and occasional dry-brush paper flecks inside the painted shape, with slightly pooled edges and only a faint grounding wash",
     "palette": "Dusty denim or slate blue carries the main form; warm ochre marks one or two key parts, with cream paper left visible as highlights",
-    "reference": "assets/generated/watercolor.webp",
+    "reference": "assets/icons/watercolor/01.png",
     "references": [
-      {
-        "image": "assets/generated/watercolor.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/watercolor.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/watercolor.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/watercolor.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/watercolor.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/watercolor.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/watercolor.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/watercolor.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/watercolor.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/watercolor.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/watercolor.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/watercolor.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/watercolor/01.png",
+      "assets/icons/watercolor/02.png",
+      "assets/icons/watercolor/03.png",
+      "assets/icons/watercolor/04.png",
+      "assets/icons/watercolor/05.png",
+      "assets/icons/watercolor/06.png",
+      "assets/icons/watercolor/07.png",
+      "assets/icons/watercolor/08.png",
+      "assets/icons/watercolor/09.png",
+      "assets/icons/watercolor/10.png",
+      "assets/icons/watercolor/11.png",
+      "assets/icons/watercolor/12.png"
     ],
     "skill": "skills/watercolor-icon/SKILL.md"
   },
@@ -2454,140 +414,20 @@
     "form": "Recognizable cozy object built from thick stitched pieces and sewn-on small details, three-quarter view",
     "finish": "Individual yarn loops and cable-knit ridges visible throughout, soft wool fibers, gentle warm lighting",
     "palette": "Muted sage green, oatmeal cream, chestnut brown, and tiny burnt-orange stitches",
-    "reference": "assets/generated/yarn.webp",
+    "reference": "assets/icons/yarn/01.png",
     "references": [
-      {
-        "image": "assets/generated/yarn.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/yarn.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/yarn.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/yarn.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/yarn.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/yarn.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/yarn.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/yarn.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/yarn.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/yarn.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/yarn.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/yarn.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/yarn/01.png",
+      "assets/icons/yarn/02.png",
+      "assets/icons/yarn/03.png",
+      "assets/icons/yarn/04.png",
+      "assets/icons/yarn/05.png",
+      "assets/icons/yarn/06.png",
+      "assets/icons/yarn/07.png",
+      "assets/icons/yarn/08.png",
+      "assets/icons/yarn/09.png",
+      "assets/icons/yarn/10.png",
+      "assets/icons/yarn/11.png",
+      "assets/icons/yarn/12.png"
     ],
     "skill": "skills/yarn-icon/SKILL.md"
   },
@@ -2598,140 +438,20 @@
     "form": "One isolated, immediately recognizable everyday object with a chunky rounded silhouette, mostly side-on or gently tilted",
     "finish": "Thick smooth slightly wobbly black marker contour, large flat solid color regions, only a few simple interior lines and tiny white shine marks; no shading or texture",
     "palette": "Turquoise-cyan is the dominant fill; coral pink is the secondary fill; vivid blue is a small third color; black contours stay consistent",
-    "reference": "assets/generated/sketchy.webp",
+    "reference": "assets/icons/sketchy/01.png",
     "references": [
-      {
-        "image": "assets/generated/sketchy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/sketchy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/sketchy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/sketchy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/sketchy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/sketchy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/sketchy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/sketchy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/sketchy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/sketchy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/sketchy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/sketchy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/sketchy/01.png",
+      "assets/icons/sketchy/02.png",
+      "assets/icons/sketchy/03.png",
+      "assets/icons/sketchy/04.png",
+      "assets/icons/sketchy/05.png",
+      "assets/icons/sketchy/06.png",
+      "assets/icons/sketchy/07.png",
+      "assets/icons/sketchy/08.png",
+      "assets/icons/sketchy/09.png",
+      "assets/icons/sketchy/10.png",
+      "assets/icons/sketchy/11.png",
+      "assets/icons/sketchy/12.png"
     ],
     "skill": "skills/sketchy-icon/SKILL.md"
   },
@@ -2742,140 +462,20 @@
     "form": "Office or utility object assembled from broad straight-edged color panels, mostly frontal",
     "finish": "Matte solid fill, no contour stroke, one dark navy offset side face, zero texture",
     "palette": "Indigo-periwinkle dominates, dusty sage green secondary, coral-orange and mustard-yellow small panels, deep navy depth",
-    "reference": "assets/generated/pulse.webp",
+    "reference": "assets/icons/pulse/01.png",
     "references": [
-      {
-        "image": "assets/generated/pulse.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/pulse.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/pulse.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/pulse.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/pulse.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/pulse.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/pulse.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/pulse.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/pulse.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/pulse.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/pulse.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/pulse.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/pulse/01.png",
+      "assets/icons/pulse/02.png",
+      "assets/icons/pulse/03.png",
+      "assets/icons/pulse/04.png",
+      "assets/icons/pulse/05.png",
+      "assets/icons/pulse/06.png",
+      "assets/icons/pulse/07.png",
+      "assets/icons/pulse/08.png",
+      "assets/icons/pulse/09.png",
+      "assets/icons/pulse/10.png",
+      "assets/icons/pulse/11.png",
+      "assets/icons/pulse/12.png"
     ],
     "skill": "skills/pulse-icon/SKILL.md"
   },
@@ -2886,140 +486,20 @@
     "form": "Single plump candy or playful confection with an inflated rounded silhouette, simple front or shallow three-quarter view",
     "finish": "Smooth hard-candy lacquer, a few broad crisp white highlights and a soft luminous rim; clean molded surfaces",
     "palette": "Hot pink and magenta dominate, with bold cyan, royal blue, violet or yellow in two or three large color patches",
-    "reference": "assets/generated/candypop.webp",
+    "reference": "assets/icons/candypop/01.png",
     "references": [
-      {
-        "image": "assets/generated/candypop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/candypop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/candypop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/candypop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/candypop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/candypop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/candypop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/candypop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/candypop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/candypop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/candypop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/candypop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/candypop/01.png",
+      "assets/icons/candypop/02.png",
+      "assets/icons/candypop/03.png",
+      "assets/icons/candypop/04.png",
+      "assets/icons/candypop/05.png",
+      "assets/icons/candypop/06.png",
+      "assets/icons/candypop/07.png",
+      "assets/icons/candypop/08.png",
+      "assets/icons/candypop/09.png",
+      "assets/icons/candypop/10.png",
+      "assets/icons/candypop/11.png",
+      "assets/icons/candypop/12.png"
     ],
     "skill": "skills/candypop-icon/SKILL.md"
   },
@@ -3030,140 +510,20 @@
     "form": "Familiar household object with believable form and slightly uneven dark contours, three-quarter view",
     "finish": "Dense visible pencil strokes following form, gray-blue hatching, soft paper-grain shadows",
     "palette": "Slate and denim blue-gray dominate, cream highlights, small dusty salmon or pale gold accents",
-    "reference": "assets/generated/charcoal.webp",
+    "reference": "assets/icons/charcoal/01.png",
     "references": [
-      {
-        "image": "assets/generated/charcoal.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/charcoal.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/charcoal.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/charcoal.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/charcoal.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/charcoal.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/charcoal.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/charcoal.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/charcoal.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/charcoal.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/charcoal.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/charcoal.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/charcoal/01.png",
+      "assets/icons/charcoal/02.png",
+      "assets/icons/charcoal/03.png",
+      "assets/icons/charcoal/04.png",
+      "assets/icons/charcoal/05.png",
+      "assets/icons/charcoal/06.png",
+      "assets/icons/charcoal/07.png",
+      "assets/icons/charcoal/08.png",
+      "assets/icons/charcoal/09.png",
+      "assets/icons/charcoal/10.png",
+      "assets/icons/charcoal/11.png",
+      "assets/icons/charcoal/12.png"
     ],
     "skill": "skills/charcoal-icon/SKILL.md"
   },
@@ -3174,140 +534,20 @@
     "form": "Single rounded home-decor object with a simple, softly molded silhouette, front or shallow three-quarter view",
     "finish": "Smooth glossy porcelain glaze, broad gentle highlights, softly modeled volume, hand-shaped edges and one or two restrained raised relief details",
     "palette": "Blush pink is dominant; pale aqua or mint marks one inset or secondary part; lavender, cream and tiny warm yellow accents",
-    "reference": "assets/generated/ceramic.webp",
+    "reference": "assets/icons/ceramic/01.png",
     "references": [
-      {
-        "image": "assets/generated/ceramic.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/ceramic.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/ceramic.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/ceramic.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/ceramic.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/ceramic.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/ceramic.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/ceramic.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/ceramic.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/ceramic.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/ceramic.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/ceramic.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/ceramic/01.png",
+      "assets/icons/ceramic/02.png",
+      "assets/icons/ceramic/03.png",
+      "assets/icons/ceramic/04.png",
+      "assets/icons/ceramic/05.png",
+      "assets/icons/ceramic/06.png",
+      "assets/icons/ceramic/07.png",
+      "assets/icons/ceramic/08.png",
+      "assets/icons/ceramic/09.png",
+      "assets/icons/ceramic/10.png",
+      "assets/icons/ceramic/11.png",
+      "assets/icons/ceramic/12.png"
     ],
     "skill": "skills/ceramic-icon/SKILL.md"
   },
@@ -3318,140 +558,20 @@
     "form": "Compact soft object with a puffy but precise silhouette, near-front view",
     "finish": "Dense velvety microfibers over every surface, rounded seams and appliqued details, soft diffuse light",
     "palette": "Hot pink main body, lavender secondary, baby-blue panels, tiny peach details",
-    "reference": "assets/generated/fuzzy.webp",
+    "reference": "assets/icons/fuzzy/01.png",
     "references": [
-      {
-        "image": "assets/generated/fuzzy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/fuzzy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/fuzzy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/fuzzy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/fuzzy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/fuzzy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/fuzzy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/fuzzy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/fuzzy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/fuzzy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/fuzzy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/fuzzy.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/fuzzy/01.png",
+      "assets/icons/fuzzy/02.png",
+      "assets/icons/fuzzy/03.png",
+      "assets/icons/fuzzy/04.png",
+      "assets/icons/fuzzy/05.png",
+      "assets/icons/fuzzy/06.png",
+      "assets/icons/fuzzy/07.png",
+      "assets/icons/fuzzy/08.png",
+      "assets/icons/fuzzy/09.png",
+      "assets/icons/fuzzy/10.png",
+      "assets/icons/fuzzy/11.png",
+      "assets/icons/fuzzy/12.png"
     ],
     "skill": "skills/fuzzy-icon/SKILL.md"
   },
@@ -3462,140 +582,20 @@
     "form": "One small compact pictogram built from two to five rounded, irregular interlocking color shapes, front-facing without perspective",
     "finish": "Mostly flat digital fills, softly blended overlap edges, occasional clipped edge, hole or inset; no physical paper texture, stroke or grounding shadow",
     "palette": "Bright cobalt, leaf green, vermilion, pink, orange and pale lime; limit each glyph to two or three hues",
-    "reference": "assets/generated/colorcut.webp",
+    "reference": "assets/icons/colorcut/01.png",
     "references": [
-      {
-        "image": "assets/generated/colorcut.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/colorcut.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/colorcut.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/colorcut.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/colorcut.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/colorcut.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/colorcut.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/colorcut.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/colorcut.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/colorcut.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/colorcut.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/colorcut.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/colorcut/01.png",
+      "assets/icons/colorcut/02.png",
+      "assets/icons/colorcut/03.png",
+      "assets/icons/colorcut/04.png",
+      "assets/icons/colorcut/05.png",
+      "assets/icons/colorcut/06.png",
+      "assets/icons/colorcut/07.png",
+      "assets/icons/colorcut/08.png",
+      "assets/icons/colorcut/09.png",
+      "assets/icons/colorcut/10.png",
+      "assets/icons/colorcut/11.png",
+      "assets/icons/colorcut/12.png"
     ],
     "skill": "skills/colorcut-icon/SKILL.md"
   },
@@ -3606,140 +606,20 @@
     "form": "Compact floating icon built from a handful of broad beveled planes, subtly tilted in three-quarter view, small clear silhouette and faint ground shadow",
     "finish": "Crisp facet boundaries with restrained cyan-lavender-peach-gold refraction on selected faces, narrow pale edge glints, only occasional pin-size star glint; light from above-left",
     "palette": "Powder cyan and lavender dominate, with blush-peach and small golden reflections over very pale mint",
-    "reference": "assets/generated/hologram.webp",
+    "reference": "assets/icons/hologram/01.png",
     "references": [
-      {
-        "image": "assets/generated/hologram.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/hologram.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/hologram.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/hologram.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/hologram.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/hologram.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/hologram.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/hologram.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/hologram.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/hologram.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/hologram.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/hologram.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/hologram/01.png",
+      "assets/icons/hologram/02.png",
+      "assets/icons/hologram/03.png",
+      "assets/icons/hologram/04.png",
+      "assets/icons/hologram/05.png",
+      "assets/icons/hologram/06.png",
+      "assets/icons/hologram/07.png",
+      "assets/icons/hologram/08.png",
+      "assets/icons/hologram/09.png",
+      "assets/icons/hologram/10.png",
+      "assets/icons/hologram/11.png",
+      "assets/icons/hologram/12.png"
     ],
     "skill": "skills/hologram-icon/SKILL.md"
   },
@@ -3750,140 +630,20 @@
     "form": "Small tilted or floating vignette on a solid deep-slate field; one expressive subject with no more than one related prop or motion flourish",
     "finish": "Rounded softly beveled shapes, restrained hand-painted gradients and very light pigment grain, gentle upper-left light; sparse cloud fragments or tiny sparkles",
     "palette": "Coral-peach, pale sky blue, grass green, warm orange and sunflower yellow against dark blue-charcoal #2B424A",
-    "reference": "assets/generated/nightfall.webp",
+    "reference": "assets/icons/nightfall/01.png",
     "references": [
-      {
-        "image": "assets/generated/nightfall.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/nightfall.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/nightfall.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/nightfall.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/nightfall.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/nightfall.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/nightfall.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/nightfall.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/nightfall.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/nightfall.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/nightfall.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/nightfall.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/nightfall/01.png",
+      "assets/icons/nightfall/02.png",
+      "assets/icons/nightfall/03.png",
+      "assets/icons/nightfall/04.png",
+      "assets/icons/nightfall/05.png",
+      "assets/icons/nightfall/06.png",
+      "assets/icons/nightfall/07.png",
+      "assets/icons/nightfall/08.png",
+      "assets/icons/nightfall/09.png",
+      "assets/icons/nightfall/10.png",
+      "assets/icons/nightfall/11.png",
+      "assets/icons/nightfall/12.png"
     ],
     "skill": "skills/nightfall-icon/SKILL.md"
   },
@@ -3894,140 +654,20 @@
     "form": "One surreal narrative hero or tiny architectural world arranged as a self-contained vignette; use precise 30-degree isometric geometry for platforms and structures, supported by only one or two meaningful elements",
     "finish": "Crisp vector-like facets, clean hard-edged planes, a few clear steps or cutouts, selective gradient on a portal or magical form, occasional deep midnight-navy starry opening, and a short compact cast shadow",
     "palette": "Restrained but lively color grouping: usually two main hues with one or two small accents selected from cobalt, royal blue, violet, magenta, lemon yellow, coral, mint and lime; vary combinations between scenes and reserve navy for cavities",
-    "reference": "assets/generated/storyworld.webp",
+    "reference": "assets/icons/storyworld/01.png",
     "references": [
-      {
-        "image": "assets/generated/storyworld.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/storyworld.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/storyworld.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/storyworld.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/storyworld.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/storyworld.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/storyworld.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/storyworld.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/storyworld.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/storyworld.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/storyworld.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/storyworld.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/storyworld/01.png",
+      "assets/icons/storyworld/02.png",
+      "assets/icons/storyworld/03.png",
+      "assets/icons/storyworld/04.png",
+      "assets/icons/storyworld/05.png",
+      "assets/icons/storyworld/06.png",
+      "assets/icons/storyworld/07.png",
+      "assets/icons/storyworld/08.png",
+      "assets/icons/storyworld/09.png",
+      "assets/icons/storyworld/10.png",
+      "assets/icons/storyworld/11.png",
+      "assets/icons/storyworld/12.png"
     ],
     "skill": "skills/storyworld-icon/SKILL.md"
   },
@@ -4038,140 +678,20 @@
     "form": "One familiar object or character reduced to a compact, instantly recognizable silhouette assembled from a few large geometric shapes; mostly front-facing with no perspective",
     "finish": "Crisp hard-edged solid fills, clean cutout overlaps, minimal internal divisions, no outline except where a deliberate black shape defines a feature; completely flat with no shading",
     "palette": "Bright red, yellow, cobalt, sky blue, orange, pink, mint and black; choose only a few clear blocks per symbol, with white negative space",
-    "reference": "assets/generated/pop.webp",
+    "reference": "assets/icons/pop/01.png",
     "references": [
-      {
-        "image": "assets/generated/pop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/pop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/pop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/pop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/pop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/pop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/pop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/pop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/pop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/pop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/pop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/pop.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/pop/01.png",
+      "assets/icons/pop/02.png",
+      "assets/icons/pop/03.png",
+      "assets/icons/pop/04.png",
+      "assets/icons/pop/05.png",
+      "assets/icons/pop/06.png",
+      "assets/icons/pop/07.png",
+      "assets/icons/pop/08.png",
+      "assets/icons/pop/09.png",
+      "assets/icons/pop/10.png",
+      "assets/icons/pop/11.png",
+      "assets/icons/pop/12.png"
     ],
     "skill": "skills/pop-icon/SKILL.md"
   },
@@ -4182,74 +702,14 @@
     "form": "One immediately readable app symbol built from a few bold rounded shapes, centered and nearly front-facing",
     "finish": "Clean flat vector construction with gentle green tonal blends and only a narrow soft darker edge on selected overlaps; simple cutout details and almost no cast shadow",
     "palette": "Fresh emerald and spring green tie the set together, with pale mint or cream openings and occasional small coral, orange or yellow accents; a fruit may use coral-red",
-    "reference": "assets/generated/clover.webp",
+    "reference": "assets/icons/clover/01.png",
     "references": [
-      {
-        "image": "assets/generated/clover.webp",
-        "grid": [
-          3,
-          2
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/clover.webp",
-        "grid": [
-          3,
-          2
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/clover.webp",
-        "grid": [
-          3,
-          2
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/clover.webp",
-        "grid": [
-          3,
-          2
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/clover.webp",
-        "grid": [
-          3,
-          2
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/clover.webp",
-        "grid": [
-          3,
-          2
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      }
+      "assets/icons/clover/01.png",
+      "assets/icons/clover/02.png",
+      "assets/icons/clover/03.png",
+      "assets/icons/clover/04.png",
+      "assets/icons/clover/05.png",
+      "assets/icons/clover/06.png"
     ],
     "skill": "skills/clover-icon/SKILL.md"
   },
@@ -4260,284 +720,44 @@
     "form": "One ordinary household object, food item, or small furnishing, carefully constructed and isolated in a calm three-quarter view",
     "finish": "Soft diffuse studio light, realistic but simplified material cues, gentle ambient contact shadow, subtle surface texture, softly rounded edges and restrained highlights; no cartoon outline",
     "palette": "Natural object colors with warm wood, cream, stone, muted greens and small authentic color accents against clean white",
-    "reference": "assets/generated/studio.webp",
+    "reference": "assets/icons/studio/01.png",
     "references": [
-      {
-        "image": "assets/generated/studio.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/studio.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/studio.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/studio.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/studio.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/studio.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/studio.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/studio.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/studio.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/studio.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/studio.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/studio.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/studio/01.png",
+      "assets/icons/studio/02.png",
+      "assets/icons/studio/03.png",
+      "assets/icons/studio/04.png",
+      "assets/icons/studio/05.png",
+      "assets/icons/studio/06.png",
+      "assets/icons/studio/07.png",
+      "assets/icons/studio/08.png",
+      "assets/icons/studio/09.png",
+      "assets/icons/studio/10.png",
+      "assets/icons/studio/11.png",
+      "assets/icons/studio/12.png"
     ],
     "skill": "skills/studio-icon/SKILL.md"
   },
   {
     "name": "Concept",
     "slug": "concept",
-    "description": "Delicate editorial concept line drawing",
-    "form": "One simple visual metaphor for an abstract idea, drawn with spare hand-guided contours in a spacious composition",
-    "finish": "Very fine near-black strokes with slight natural variation, open interiors, small flat pale-lavender fills used on just one or two parts; no broad black fills, no gradients, texture or shadow",
-    "palette": "Near-black linework on a very light neutral field; pale lilac is the only fill and occupies little area",
-    "reference": "assets/generated/concept.webp",
+    "description": "Spare editorial line-and-lavender conceptual illustration",
+    "form": "One clever metaphor assembled from two or three recognizable elements in a loose, asymmetrical composition; mostly front-facing with only slight perspective where the idea needs it",
+    "finish": "Hairline near-black hand-guided contours, mostly open white interiors, one small flat soft-lavender shape that overlaps or sits behind the line drawing; a small near-black solid is allowed only as an essential focal part; no gradients, texture, modeled volume or shadows",
+    "palette": "Near-black lines and transparent negative space dominate; muted lavender #A98CE7 is the only fill and occupies less than one quarter of the visible artwork",
+    "reference": "assets/icons/concept/01.png",
     "references": [
-      {
-        "image": "assets/generated/concept.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/concept.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/concept.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/concept.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          0,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/concept.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/concept.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/concept.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/concept.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          1,
-          3
-        ]
-      },
-      {
-        "image": "assets/generated/concept.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          0
-        ]
-      },
-      {
-        "image": "assets/generated/concept.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          1
-        ]
-      },
-      {
-        "image": "assets/generated/concept.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          2
-        ]
-      },
-      {
-        "image": "assets/generated/concept.webp",
-        "grid": [
-          4,
-          3
-        ],
-        "cell": [
-          2,
-          3
-        ]
-      }
+      "assets/icons/concept/01.png",
+      "assets/icons/concept/02.png",
+      "assets/icons/concept/03.png",
+      "assets/icons/concept/04.png",
+      "assets/icons/concept/05.png",
+      "assets/icons/concept/06.png",
+      "assets/icons/concept/07.png",
+      "assets/icons/concept/08.png",
+      "assets/icons/concept/09.png",
+      "assets/icons/concept/10.png",
+      "assets/icons/concept/11.png",
+      "assets/icons/concept/12.png"
     ],
     "skill": "skills/concept-icon/SKILL.md"
   }

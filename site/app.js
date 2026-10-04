@@ -10,11 +10,7 @@ let activeStep = 0;
 let workflowTimer;
 
 function imageMarkup(reference, alt = '') {
-  if (typeof reference === 'string') return `<img loading="lazy" src="${reference}" alt="${alt}">`;
-  const { image, grid: [columns, rows], cell: [row, column] } = reference;
-  const offsetX = -(column / columns) * 100;
-  const offsetY = -(row / rows) * 100;
-  return `<span class="sample-crop" role="img" aria-label="${alt}"><img loading="lazy" src="${image}" alt="" style="width:${columns * 100}%;height:${rows * 100}%;transform:translate(${offsetX}%,${offsetY}%)"></span>`;
+  return `<img loading="lazy" src="${reference}" alt="${alt}">`;
 }
 
 function renderStyles() {
@@ -77,7 +73,6 @@ document.querySelector('#copy-prompt').addEventListener('click', async event => 
 
 const steps = [...document.querySelectorAll('[data-step]')];
 const workflowImage = document.querySelector('#workflow-image');
-const workflowSample = document.querySelector('#workflow-sample');
 function showStep(index) {
   activeStep = (index + steps.length) % steps.length;
   steps.forEach((step, i) => {
@@ -85,20 +80,10 @@ function showStep(index) {
     step.classList.toggle('is-active', active);
     if (active) step.setAttribute('aria-current', 'step'); else step.removeAttribute('aria-current');
   });
-  const firstReference = styles[activeStep]?.references[0];
-  const source = typeof firstReference === 'string' ? firstReference : firstReference?.image;
+  const source = styles[activeStep]?.references[0];
   if (source) {
     const updateImage = () => {
-      if (typeof firstReference === 'string') {
-        workflowSample.replaceChildren();
-        workflowSample.hidden = true;
-        workflowImage.hidden = false;
-        workflowImage.src = source;
-      } else {
-        workflowImage.hidden = true;
-        workflowSample.hidden = false;
-        workflowSample.innerHTML = imageMarkup(firstReference, `${styles[activeStep].name} generated example`);
-      }
+      workflowImage.src = source;
     };
     workflowImage.classList.add('is-changing');
     window.setTimeout(() => { updateImage(); workflowImage.classList.remove('is-changing'); }, 160);

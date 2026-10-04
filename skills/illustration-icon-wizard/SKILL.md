@@ -14,13 +14,10 @@ Lead a fully interactive icon creation flow. Ask exactly **one question per mess
 3. **Subject.** Ask what the icon should show, or request a comma-separated subject list for a set.
 4. **Use.** Ask where the icons will be used. Offer app or product UI / marketing or social / other.
 5. **Color method.** Ask style default palette / realistic object colors / custom palette. If custom, ask primary, secondary, tertiary, accent, and detail colors **in five separate turns**, in that order. Accept hex codes or names; "default" uses the chosen style's direction for that slot.
-6. **Background.** Read the selected style's native background in its guided selection section. Ask native background / transparent / custom solid color. If custom solid, ask its color in a separate turn.
-7. **Canvas.** Ask square / portrait / landscape.
-8. **Output.** Ask high resolution PNG / custom size or format. If custom, ask for the details in a separate turn and use only formats the available image tool supports.
-9. **Confirm.** Summarize every selected value. Ask exactly one question: "Generate with these choices, or change one?" If a change is requested, revisit that choice and confirm again.
+6. **Confirm.** Summarize every selected value and the fixed output (high-resolution square transparent PNG with generous safe margins). Ask exactly one question: "Generate with these choices, or change one?" If a change is requested, revisit that choice and confirm again. Never ask about background, canvas shape, resolution, or format.
 
 Only an explicit answer advances the sequence. If the user leaves a question unanswered, stop and await the reply.
 
 ## Produce
 
-After confirmation, use the selected style skill's Style lock, Visual calibration, and Generate sections. Use an image generation tool if available, setting transparent background when chosen. Otherwise provide complete prompts and clearly state that no image was generated. For a set, keep perspective, scale, palette, material, and light consistent. Check each output for recognition, clipping, text artifacts, and background errors. Return the result and a short summary of the choices.
+After confirmation, use the selected style skill's Style lock, Visual calibration, and Generate sections. Use an image generation tool with transparent background enabled (`transparent_background: true` for `image_gen.imagegen`) and request its highest available native square resolution. Otherwise provide complete prompts and clearly state that no image was generated. For a set, keep perspective, scale, palette, material, and light consistent. Verify genuine alpha transparency, square dimensions, central-65% safe bounds, balanced centering, recognition, and absence of text or clipping. Regenerate failures before delivery. Return the result and a short summary of the choices.

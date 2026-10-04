@@ -49,23 +49,16 @@ button { -webkit-tap-highlight-color: transparent; }
 .style-figure { display: grid; grid-template-rows: auto minmax(46px, auto); margin: 0; overflow: hidden; border-radius: 24px; background: var(--surface); transition: transform .32s cubic-bezier(.22,1,.36,1); }
 .style-button:hover .style-figure { transform: translateY(-3px); }
 .style-thumbs { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 4px; padding: 4px 4px 0; }
-.style-thumb { display: grid; aspect-ratio: 1; place-items: center; overflow: hidden; padding: 12%; background: var(--white); }
+.style-thumb { display: grid; aspect-ratio: 1; place-items: center; overflow: hidden; background: var(--white); }
 .style-thumb:nth-child(1) { border-radius: 18px 4px 4px 4px; }
 .style-thumb:nth-child(2) { border-radius: 4px 18px 4px 4px; }
 .style-thumb:nth-child(3) { border-radius: 4px 4px 4px 18px; }
 .style-thumb:nth-child(4) { border-radius: 4px 4px 18px 4px; }
-.style-thumb img { display: block; width: 82%; height: 82%; object-fit: contain; transition: transform .36s cubic-bezier(.22,1,.36,1); }
-.sample-crop { position: relative; display: block; width: 100%; height: 100%; overflow: hidden; clip-path: inset(1.5%); background: var(--white); }
-.style-thumb .sample-crop { transition: transform .36s cubic-bezier(.22,1,.36,1); }
-.style-thumb .sample-crop img, .modal-item .sample-crop img { position: absolute; top: 0; left: 0; display: block; max-width: none; object-fit: fill; }
+.style-thumb img { display: block; width: 100%; height: 100%; object-fit: contain; transition: transform .36s cubic-bezier(.22,1,.36,1); }
 .style-button:hover .style-thumb:nth-child(1) > img { transform: translate(-2px,-2px); }
 .style-button:hover .style-thumb:nth-child(2) > img { transform: translate(2px,-2px); }
 .style-button:hover .style-thumb:nth-child(3) > img { transform: translate(-2px,2px); }
 .style-button:hover .style-thumb:nth-child(4) > img { transform: translate(2px,2px); }
-.style-button:hover .style-thumb:nth-child(1) .sample-crop { transform: translate(-2px,-2px); }
-.style-button:hover .style-thumb:nth-child(2) .sample-crop { transform: translate(2px,-2px); }
-.style-button:hover .style-thumb:nth-child(3) .sample-crop { transform: translate(-2px,2px); }
-.style-button:hover .style-thumb:nth-child(4) .sample-crop { transform: translate(2px,2px); }
 .style-thumbs.single { grid-template-columns: 1fr; }
 .style-thumbs.single .style-thumb { grid-column: 1; grid-row: 1; border-radius: 18px; }
 .style-thumbs.single .style-thumb img { width: 100%; height: 100%; }
@@ -78,9 +71,6 @@ button { -webkit-tap-highlight-color: transparent; }
 .workflow-content { display: grid; grid-template-columns: 436px minmax(0, 1fr); align-items: center; gap: 48px; margin-top: 42px; }
 .workflow-visual { display: grid; width: 100%; aspect-ratio: 1; place-items: center; overflow: hidden; border: 1px solid var(--line); border-radius: 36px; background: var(--white); }
 .workflow-visual img { width: 66%; height: 66%; object-fit: contain; transition: opacity .22s ease, transform .22s ease; }
-.workflow-sample { display: block; width: 66%; height: 66%; overflow: hidden; }
-.workflow-sample .sample-crop { width: 100%; height: 100%; }
-.workflow-sample .sample-crop img { position: absolute; top: 0; left: 0; max-width: none; object-fit: fill; }
 .workflow-visual img.is-changing { opacity: 0; transform: scale(.98); }
 .workflow-steps { display: flex; flex-direction: column; gap: 28px; }
 .workflow-step { display: grid; width: 100%; grid-template-columns: 7px minmax(0, 1fr); gap: 15px; align-items: stretch; padding: 0; border: 0; background: transparent; text-align: left; cursor: pointer; }
@@ -124,8 +114,8 @@ code { padding: 1px 4px; border-radius: 4px; background: var(--surface); font: v
 .modal-action span { color: #c7c7c7; font-size: 24px; }
 .modal-body { width: min(1466px, calc(100% - 48px)); margin: 26px auto 56px; }
 .modal-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 24px; }
-.modal-item { display: grid; aspect-ratio: 1; place-items: center; overflow: hidden; padding: 18%; border-radius: 28px; background: var(--white); }
-.modal-item img { display: block; width: 74%; height: 74%; object-fit: contain; }
+.modal-item { display: grid; aspect-ratio: 1; place-items: center; overflow: hidden; border-radius: 28px; background: var(--white); }
+.modal-item img { display: block; width: 100%; height: 100%; object-fit: contain; }
 .modal-item:only-child { grid-column: 2 / span 2; }
 .modal-item:only-child img { width: 100%; height: 100%; }
 .modal-recipe { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; margin-top: 28px; }
