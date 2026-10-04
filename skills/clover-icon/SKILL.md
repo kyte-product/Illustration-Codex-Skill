@@ -24,19 +24,19 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 
 ## Style lock
 
-- Medium: minimal rounded green gradient glyph.
-- Form: one simple familiar app symbol built from a few large rounded geometric forms, centered and front-facing.
-- Surface and light: smooth solid vector shapes with a restrained green-to-lime gradient across the main form, clean edges, no outline and no cast shadow.
-- Default color direction: spring green and emerald dominate over warm ivory; tiny coral or orange accents appear only when they explain the symbol.
-- Avoid: many colors, blue-dominant palettes, gradients across every part, glossy reflections, outlines, texture, dimensional rendering, or busy details, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
+- Medium: soft green-gradient editorial glyph.
+- Form: one immediately readable app symbol built from a few bold rounded shapes, centered and nearly front-facing.
+- Surface and light: clean flat vector construction with gentle green tonal blends and only a narrow soft darker edge on selected overlaps; simple cutout details and almost no cast shadow.
+- Default color direction: fresh emerald and spring green tie the set together, with pale mint or cream openings and occasional small coral, orange or yellow accents; a fruit may use coral-red.
+- Avoid: thick extruded side walls, shiny plastic highlights, strong hard shadows, busy outlines, dense details, texture, or using only one monotonous shade of green, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
 
 ## Visual calibration
 
-Reference image 2: only a few very simple green glyphs spaced far apart on pale warm ivory. The main glyph is a smooth, chunky silhouette made from one or a few rounded shapes, with a subtle emerald-to-spring-green gradient and a small dark-green depth edge. A tiny orange dot may float nearby; the speech symbol uses three simple pale dots. No outlines, shadows, texture, detailed parts, extra colors or decorative scene. Keep it extremely sparse and calm. Match the reference's green gradient treatment, not its subjects. If this conversation still contains the user's reference sheet, use it as a style reference in an image tool that accepts conversation images. Otherwise follow these notes and the Style lock. Do not copy any subject from the sheet.
+Reference image 2: six sparse glyphs in a 3-by-2 arrangement on pale warm ivory. Use simple rounded silhouettes with smooth emerald-to-spring-green blending and only the faintest darker edge on selected overlaps. Green is the family color, but each object keeps a small natural accent: pale mint on openings/buttons, tiny orange or yellow hardware, and coral-red for a fruit. The shapes remain flat and clean, with no black contour, heavy extrusion, hard shadow or texture. Broad negative space is essential. Match the reference's muted gradient depth and restrained accent use, not its subjects. If this conversation still contains the user's reference sheet, use it as a style reference in an image tool that accepts conversation images. Otherwise follow these notes and the Style lock. Do not copy any subject from the sheet.
 
 ## Generate
 
-Check the glyph at 64 px; keep it very simple and green, with ample space around it. Keep the whole object or mini-scene within the central 65% of the canvas width and height, leaving generous balanced empty space. Reduce the subject to its identifying parts; omit tiny details that disappear at the intended size. Preserve the same viewpoint, scale, stroke weight or material treatment, light direction, shadow softness, and palette across a set. A solid background is a uniform field, not an app tile or surrounding scene.
+Check the glyph at 64 px; keep its green blending soft, any subject accent small, and dark-green depth minimal. Keep the whole object or mini-scene within the central 65% of the canvas width and height, leaving generous balanced empty space. Reduce the subject to its identifying parts; omit tiny details that disappear at the intended size. Preserve the same viewpoint, scale, stroke weight or material treatment, light direction, shadow softness, and palette across a set. A solid background is a uniform field, not an app tile or surrounding scene.
 
 Build a prompt with the subject, every style lock above, the chosen color mapping, selected canvas, and requested background. Explicitly describe which parts of the subject get primary, secondary, and accent colors. Use the image generation tool directly. Set its transparent background option when the user wants a transparent icon. For a series, reuse the same style block word for word and change only subject anatomy and user-requested colors. Prefer individual deliverables over a contact sheet unless the user asks for a sheet.
 

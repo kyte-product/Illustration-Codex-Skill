@@ -24,19 +24,19 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 
 ## Style lock
 
-- Medium: minimal conceptual line-art illustration.
-- Form: one clear metaphor for an abstract idea, assembled from a few elegant objects, gestures or symbols in a spacious editorial composition.
-- Surface and light: fine consistent near-black linework, open white interiors, clean rounded joins, one or two simple lavender-purple filled shapes; no gradients, texture or shadow.
-- Default color direction: black line on a pale neutral field, with lilac or lavender as the sole fill color.
-- Avoid: thick outlines, realistic rendering, multicolor fills, dense details, decorative backgrounds, cards, labels, text or explanatory captions, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
+- Medium: delicate editorial concept line drawing.
+- Form: one simple visual metaphor for an abstract idea, drawn with spare hand-guided contours in a spacious composition.
+- Surface and light: very fine near-black strokes with slight natural variation, open interiors, small flat pale-lavender fills used on just one or two parts; no broad black fills, no gradients, texture or shadow.
+- Default color direction: near-black linework on a very light neutral field; pale lilac is the only fill and occupies little area.
+- Avoid: heavy uniform outlines, mechanical vector geometry, large filled regions, many purple areas, extra colors, dense detail, decorative backgrounds, cards, labels, text or explanatory captions, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
 
 ## Visual calibration
 
-Reference image 4: conceptual editorial illustrations composed of thin, precise near-black linework and a single pale lavender fill color. An abstract business idea is shown through one or two simple symbols, a hand gesture or a small human silhouette; forms remain open and airy, with ample empty space. Lines are uniform and controlled, with simple geometry and very little detail. The original illustrations sit in light-gray square cards with explanatory text beneath; for standalone skill output, draw only the illustration and omit card borders and all text. No gradients, shadows, texture or other colors. Match the sparse metaphorical line-art style without copying the ideas shown. If this conversation still contains the user's reference sheet, use it as a style reference in an image tool that accepts conversation images. Otherwise follow these notes and the Style lock. Do not copy any subject from the sheet.
+Reference image 4: a spare business-concept drawing in thin near-black linework with only small pale-lavender filled accents. Lines should feel delicate and lightly hand-guided, not thick, rigid or mechanically uniform. Use a simple conceptual gesture or 2–3 open shapes, with large pale-gray/white interior areas and plenty of breathing room. The original sits on a light-gray square card with explanatory text underneath; draw only the icon and omit card borders and all text. Avoid solid black masses, oversized purple fills, extra colors and any shading, gradient or texture. Match the line weight and empty space, not the reference's exact concepts. If this conversation still contains the user's reference sheet, use it as a style reference in an image tool that accepts conversation images. Otherwise follow these notes and the Style lock. Do not copy any subject from the sheet.
 
 ## Generate
 
-Check the metaphor at 128 px; keep linework fine, lavender fills sparse and the composition open. Keep the whole object or mini-scene within the central 65% of the canvas width and height, leaving generous balanced empty space. Reduce the subject to its identifying parts; omit tiny details that disappear at the intended size. Preserve the same viewpoint, scale, stroke weight or material treatment, light direction, shadow softness, and palette across a set. A solid background is a uniform field, not an app tile or surrounding scene.
+Check the metaphor at 128 px; keep lines delicate, lilac areas small, and open space dominant. Keep the whole object or mini-scene within the central 65% of the canvas width and height, leaving generous balanced empty space. Reduce the subject to its identifying parts; omit tiny details that disappear at the intended size. Preserve the same viewpoint, scale, stroke weight or material treatment, light direction, shadow softness, and palette across a set. A solid background is a uniform field, not an app tile or surrounding scene.
 
 Build a prompt with the subject, every style lock above, the chosen color mapping, selected canvas, and requested background. Explicitly describe which parts of the subject get primary, secondary, and accent colors. Use the image generation tool directly. Set its transparent background option when the user wants a transparent icon. For a series, reuse the same style block word for word and change only subject anatomy and user-requested colors. Prefer individual deliverables over a contact sheet unless the user asks for a sheet.
 
