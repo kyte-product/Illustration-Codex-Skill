@@ -46,15 +46,17 @@ button { -webkit-tap-highlight-color: transparent; }
 .style-card { min-width: 0; }
 .style-button { display: block; width: 100%; margin: 0; padding: 0; border: 0; border-radius: 24px; color: inherit; background: transparent; text-align: left; cursor: pointer; }
 .style-button:focus-visible, .action:focus-visible, button:focus-visible, summary:focus-visible { outline: 3px solid #00000040; outline-offset: 4px; }
-.style-figure { display: grid; grid-template-rows: auto minmax(46px, auto); margin: 0; overflow: hidden; border-radius: 24px; background: var(--surface); }
+.style-figure { display: grid; grid-template-rows: auto minmax(46px, auto); margin: 0; overflow: hidden; border-radius: 24px; background: var(--surface); transition: transform .32s cubic-bezier(.22,1,.36,1), box-shadow .32s ease; }
+.style-button:hover .style-figure { transform: translateY(-3px); box-shadow: 0 12px 28px #0000000d; }
 .style-thumbs { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 4px; padding: 4px 4px 0; }
 .style-thumb { display: grid; aspect-ratio: 1; place-items: center; overflow: hidden; padding: 12%; background: var(--white); }
 .style-thumb:nth-child(1) { border-radius: 18px 4px 4px 4px; }
 .style-thumb:nth-child(2) { border-radius: 4px 18px 4px 4px; }
 .style-thumb:nth-child(3) { border-radius: 4px 4px 4px 18px; }
 .style-thumb:nth-child(4) { border-radius: 4px 4px 18px 4px; }
-.style-thumb img { display: block; width: 82%; height: 82%; object-fit: contain; transition: transform .24s cubic-bezier(.2,.7,.2,1); }
+.style-thumb img { display: block; width: 82%; height: 82%; object-fit: contain; transition: transform .36s cubic-bezier(.22,1,.36,1); }
 .sample-crop { position: relative; display: block; width: 100%; height: 100%; overflow: hidden; clip-path: inset(1.5%); background: var(--white); }
+.style-thumb .sample-crop { transition: transform .36s cubic-bezier(.22,1,.36,1); }
 .style-thumb .sample-crop img, .modal-item .sample-crop img { position: absolute; top: 0; left: 0; display: block; max-width: none; object-fit: fill; }
 .style-button:hover .style-thumb:nth-child(1) > img { transform: translate(-2px,-2px); }
 .style-button:hover .style-thumb:nth-child(2) > img { transform: translate(2px,-2px); }
