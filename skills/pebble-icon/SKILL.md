@@ -24,11 +24,11 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 
 ## Style lock
 
-- Medium: friendly molded-plastic product icon.
-- Form: a sturdy everyday object with broad rounded masses, a compact readable silhouette, and a shallow three-quarter view that reveals one short side face.
-- Surface and light: smooth soft-touch plastic with broad, restrained tonal shifts, clean rounded edges, one small controlled glint, and a short soft contact shadow only.
-- Default color direction: cornflower or cobalt blue covers the main body; bright yellow marks a key functional part, orange is a pin-size accent, and navy stays in recesses and the small side face.
-- Avoid: flat paper-like vector fills, thin black outlines, mirror gloss, metallic trim, tiny technical controls, or a long dramatic shadow, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
+- Medium: friendly rounded product vector.
+- Form: a compact practical object with sturdy rounded forms, simple functional parts, and a shallow three-quarter angle that reveals a short dark-blue side.
+- Surface and light: mostly clean blue fills with only gentle edge shading, crisp rounded edges, a small soft highlight, and a faint short grounding shadow; keep the finish smooth but not shiny.
+- Default color direction: medium cornflower or cobalt blue dominates; bright yellow marks a key functional component, orange is a pin-size detail, and navy is reserved for openings and the side face.
+- Avoid: high-gloss toy plastic, hard white specular bands, mirror shine, metallic trim, thin black outlines, dense controls, or a long cast shadow, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
 
 ## Visual calibration
 

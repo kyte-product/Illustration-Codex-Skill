@@ -24,11 +24,11 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 
 ## Style lock
 
-- Medium: expressive black marker spot drawing.
-- Form: one immediately recognizable everyday object, nearly frontal, drawn with a confident hand and slightly irregular outer contour; keep the silhouette bold and the interior spare.
-- Surface and light: medium-weight black marker lines with subtle pressure variation, rounded line ends, a few short interior strokes, and at most two or three gesture marks; leave the interior white, using solid black only for a small opening or recess.
-- Default color direction: black ink marks on a clean white field only.
-- Avoid: fine technical pen lines, ruler-straight CAD geometry, gray rendering, dense crosshatching, colored accents, or decorative scenery, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
+- Medium: spare hand-drawn black ink icon.
+- Form: one instantly recognizable everyday object, nearly frontal, with a clear silhouette and loose but controlled hand-drawn contours; keep the inside mostly open.
+- Surface and light: fine-to-medium black lines with slight human variation, a few short interior strokes, and occasional short gesture marks; use a small solid-black patch only for a cavity or cast side, with no dense hatching.
+- Default color direction: black ink alone on clean white.
+- Avoid: thick comic-marker outlines, ruler-straight CAD geometry, gray rendering, dense crosshatching, colored accents, or decorative scenery, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
 
 ## Visual calibration
 

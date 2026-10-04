@@ -291,9 +291,9 @@
     "name": "Zing",
     "slug": "zing",
     "description": "Minimal editorial school-object illustration",
-    "form": "One familiar study object, simplified to its essential parts, with open white planes, a gentle tilt, and a steady, fine black contour",
-    "finish": "Crisp near-monoline outlines and flat, untextured fills; use periwinkle only on a few side faces or components, with almost no shading or cast shadow",
-    "palette": "White is the main field; periwinkle blue is the largest accent, with tiny lemon-yellow and bubblegum-pink marks",
+    "form": "One familiar study object, simplified to its essential parts, with open white planes, a gentle tilt, and a steady fine black contour",
+    "finish": "Crisp, even monoline outlines and flat untextured fills; add a pale periwinkle-blue side plane, with little or no shading and almost no cast shadow",
+    "palette": "White is the main field; periwinkle is the principal spot color, while lemon yellow and bubblegum pink appear as small details rather than large filled regions",
     "reference": "assets/generated/zing.webp",
     "references": [
       {
@@ -722,10 +722,10 @@
   {
     "name": "Pebble",
     "slug": "pebble",
-    "description": "Friendly molded-plastic product icon",
-    "form": "A sturdy everyday object with broad rounded masses, a compact readable silhouette, and a shallow three-quarter view that reveals one short side face",
-    "finish": "Smooth soft-touch plastic with broad, restrained tonal shifts, clean rounded edges, one small controlled glint, and a short soft contact shadow only",
-    "palette": "Cornflower or cobalt blue covers the main body; bright yellow marks a key functional part, orange is a pin-size accent, and navy stays in recesses and the small side face",
+    "description": "Friendly rounded product vector",
+    "form": "A compact practical object with sturdy rounded forms, simple functional parts, and a shallow three-quarter angle that reveals a short dark-blue side",
+    "finish": "Mostly clean blue fills with only gentle edge shading, crisp rounded edges, a small soft highlight, and a faint short grounding shadow; keep the finish smooth but not shiny",
+    "palette": "Medium cornflower or cobalt blue dominates; bright yellow marks a key functional component, orange is a pin-size detail, and navy is reserved for openings and the side face",
     "reference": "assets/generated/pebble.webp",
     "references": [
       {
@@ -1010,10 +1010,10 @@
   {
     "name": "Ink",
     "slug": "ink",
-    "description": "Expressive black marker spot drawing",
-    "form": "One immediately recognizable everyday object, nearly frontal, drawn with a confident hand and slightly irregular outer contour; keep the silhouette bold and the interior spare",
-    "finish": "Medium-weight black marker lines with subtle pressure variation, rounded line ends, a few short interior strokes, and at most two or three gesture marks; leave the interior white, using solid black only for a small opening or recess",
-    "palette": "Black ink marks on a clean white field only",
+    "description": "Spare hand-drawn black ink icon",
+    "form": "One instantly recognizable everyday object, nearly frontal, with a clear silhouette and loose but controlled hand-drawn contours; keep the inside mostly open",
+    "finish": "Fine-to-medium black lines with slight human variation, a few short interior strokes, and occasional short gesture marks; use a small solid-black patch only for a cavity or cast side, with no dense hatching",
+    "palette": "Black ink alone on clean white",
     "reference": "assets/generated/ink.webp",
     "references": [
       {
@@ -1154,10 +1154,10 @@
   {
     "name": "Cardboard",
     "slug": "cardboard",
-    "description": "Illustrated hand-built corrugated-card miniature",
-    "form": "One compact object assembled from folded kraft-paper planes; make its box folds, layered edge thickness, tabs, slots, or one paper strap visibly structural, in a consistent three-quarter view",
-    "finish": "Matte paper with restrained fiber grain; show corrugation only on exposed cut edges, a few clear fold seams, soft upper-left studio light, and a small contact shadow",
-    "palette": "Warm kraft tan covers the broad planes; use muted indigo or teal on one or two panels, with a tiny coral or ochre paper fastener",
+    "description": "Hand-built corrugated-card miniature",
+    "form": "One compact everyday object visibly assembled from folded kraft-paper pieces, with real layered thickness, seams, tabs, slots or a paper strap; use a consistent three-quarter view",
+    "finish": "Softly lit studio-craft rendering with matte fibrous paper, visible corrugation along cut edges, crisp folds, and restrained surface grain; keep the object isolated with a soft short contact shadow",
+    "palette": "Warm natural kraft tan is dominant; muted denim-indigo or sage-teal form one or two paper panels, with a tiny coral or ochre fastener",
     "reference": "assets/generated/cardboard.webp",
     "references": [
       {
@@ -1298,10 +1298,10 @@
   {
     "name": "Linepop",
     "slug": "linepop",
-    "description": "Precise technical contour illustration",
-    "form": "One cleanly constructed utility object, mostly white, in a mild three-quarter view; define its function with a small number of accurate interior divisions",
-    "finish": "Crisp, even, fine near-black strokes with deliberate joins and no sketch wobble; leave most faces unfilled, adding at most one pale-blue side plane and a tiny sharp highlight",
-    "palette": "White remains dominant; use neon lime on one focal control, a smaller lemon-yellow mark, and near-black only for fine contours",
+    "description": "Minimal precise outline icon",
+    "form": "One simple utility object with a clean, recognizable silhouette, mostly front-facing or slightly tilted; show its function with only a few interior divisions",
+    "finish": "Thin, even near-black contour lines with clean joins; keep broad faces white, use at most one pale-blue side plane, no modeled gray shading, and only a faint contact mark",
+    "palette": "White dominates; use a small neon-lime focal fill and one much smaller yellow accent, with near-black reserved for the outline",
     "reference": "assets/generated/linepop.webp",
     "references": [
       {
@@ -1731,9 +1731,9 @@
     "name": "Jot",
     "slug": "jot",
     "description": "Spare hand-inked editorial object drawing",
-    "form": "One simple everyday object in a mostly frontal or mild three-quarter view; use fine, slightly imperfect contours and preserve generous white interior space",
-    "finish": "Light black pen lines with subtle hand variation, only a few short construction marks, and sparse pale-gray grounding strokes; fill just one or two small planes with pale buttery yellow",
-    "palette": "White paper and black linework dominate; pale butter yellow is the only fill and stays limited to a small functional or identifying area",
+    "form": "One simple everyday object in a mostly frontal or mild three-quarter view; fine, slightly imperfect contours define it while leaving generous white interior space",
+    "finish": "Light black pen lines with subtle hand variation, a few short construction marks and faint cool-gray grounding strokes; use a soft pale-butter-yellow tint on only one or two small identifying areas",
+    "palette": "White paper and black linework dominate; pale butter yellow stays light and occupies a small part of the object",
     "reference": "assets/generated/jot.webp",
     "references": [
       {

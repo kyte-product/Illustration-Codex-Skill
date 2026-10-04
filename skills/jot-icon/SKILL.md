@@ -25,10 +25,10 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 ## Style lock
 
 - Medium: spare hand-inked editorial object drawing.
-- Form: one simple everyday object in a mostly frontal or mild three-quarter view; use fine, slightly imperfect contours and preserve generous white interior space.
-- Surface and light: light black pen lines with subtle hand variation, only a few short construction marks, and sparse pale-gray grounding strokes; fill just one or two small planes with pale buttery yellow.
-- Default color direction: white paper and black linework dominate; pale butter yellow is the only fill and stays limited to a small functional or identifying area.
-- Avoid: medium-bold marker contours, solid black masses, lime or bright colors, dense hatching, precise vector geometry, dark shading, or glossy volume, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
+- Form: one simple everyday object in a mostly frontal or mild three-quarter view; fine, slightly imperfect contours define it while leaving generous white interior space.
+- Surface and light: light black pen lines with subtle hand variation, a few short construction marks and faint cool-gray grounding strokes; use a soft pale-butter-yellow tint on only one or two small identifying areas.
+- Default color direction: white paper and black linework dominate; pale butter yellow stays light and occupies a small part of the object.
+- Avoid: medium-bold marker contours, large solid black masses, saturated color, broad yellow panels, dense hatching, precise vector geometry, or glossy volume, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
 
 ## Visual calibration
 

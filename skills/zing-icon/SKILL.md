@@ -25,9 +25,9 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 ## Style lock
 
 - Medium: minimal editorial school-object illustration.
-- Form: one familiar study object, simplified to its essential parts, with open white planes, a gentle tilt, and a steady, fine black contour.
-- Surface and light: crisp near-monoline outlines and flat, untextured fills; use periwinkle only on a few side faces or components, with almost no shading or cast shadow.
-- Default color direction: white is the main field; periwinkle blue is the largest accent, with tiny lemon-yellow and bubblegum-pink marks.
+- Form: one familiar study object, simplified to its essential parts, with open white planes, a gentle tilt, and a steady fine black contour.
+- Surface and light: crisp, even monoline outlines and flat untextured fills; add a pale periwinkle-blue side plane, with little or no shading and almost no cast shadow.
+- Default color direction: white is the main field; periwinkle is the principal spot color, while lemon yellow and bubblegum pink appear as small details rather than large filled regions.
 - Avoid: thick comic strokes, loose scratchy drawing, gradients, inflated 3D volume, or coloring every surface, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
 
 ## Visual calibration
