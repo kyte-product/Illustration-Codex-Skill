@@ -650,10 +650,10 @@
   {
     "name": "Market",
     "slug": "market",
-    "description": "Polished miniature commercial 3D illustration",
-    "form": "One familiar service, shopping, food, people or utility subject rendered as a small isolated icon; compact three-quarter view with a clear silhouette, or a nearly frontal view for simple symbols",
-    "finish": "Soft cool studio light from the upper left, believable but simplified matte or satin materials, gently rounded edges, controlled highlights and a very short faint contact shadow; show only the few seams, openings or fittings needed to identify the subject",
-    "palette": "A recognizable emerald green accent ties the set together; balance it with charcoal, warm tan, cream and natural subject colors, using bright orange or gold only for a small focal detail",
+    "description": "Small polished commercial 3D spot illustration",
+    "form": "A compact isolated everyday subject, usually one hero object; across a set vary products, food, a simplified floating head, a hand-led action and simple service symbols; use shallow three-quarter views for objects and near-front views for faces and symbols",
+    "finish": "Soft cool upper-left studio light, simple believable matte or satin materials, slight selective bevels and a tiny pale contact shadow only where an object touches ground; facial features and seams are few and deliberate, and no surface needs photorealistic microdetail",
+    "palette": "Emerald green #00A86B recurs as one useful part of most icons but does not flood every object; balance it with charcoal, ivory, warm kraft tan, natural skin and food colors, with occasional tiny gold or red focal details",
     "reference": "assets/icons/market/01.png",
     "references": [
       "assets/icons/market/01.png",
