@@ -26,6 +26,7 @@ function openStyle(slug, trigger) {
   activeStyle = styles.find(style => style.slug === slug);
   if (!activeStyle) return;
   dialog.dataset.returnFocus = trigger ? 'yes' : 'no';
+  dialog.dataset.style = slug;
   modalTitle.textContent = `${activeStyle.name} Skill`;
   modalGrid.innerHTML = activeStyle.references.slice(0, 12).map((src, index) => `<div class="modal-item">${imageMarkup(src, `${activeStyle.name} visual reference ${index + 1}`)}</div>`).join('');
   modalRecipe.innerHTML = `<div class="recipe-part"><strong>Shape</strong>${activeStyle.form}</div><div class="recipe-part"><strong>Surface</strong>${activeStyle.finish}</div><div class="recipe-part"><strong>Palette</strong>${activeStyle.palette}</div>`;

@@ -626,10 +626,10 @@
   {
     "name": "Nightfall",
     "slug": "nightfall",
-    "description": "Matte painted editorial spot illustration",
-    "form": "Small tilted or floating vignette on a solid deep-slate field; one expressive subject with no more than one related prop or motion flourish",
-    "finish": "Rounded softly beveled shapes, restrained hand-painted gradients and very light pigment grain, gentle upper-left light; sparse cloud fragments or tiny sparkles",
-    "palette": "Coral-peach, pale sky blue, grass green, warm orange and sunflower yellow against dark blue-charcoal #2B424A",
+    "description": "Compact painted editorial spot illustration with graphic 2.5D depth",
+    "form": "One expressive subject, usually tilted, lifting, bending or in motion; build its silhouette from a few broad hand-shaped pieces and allow at most one meaningful secondary element",
+    "finish": "Matte color planes with a soft short gradient on selected curves, one narrow darker underside or inner cut, and a quiet upper-left highlight; edges stay clean but slightly organic; any cloud curl, steam, sparkle or motion mark must explain the action",
+    "palette": "Choose two main colors and one small accent per icon from coral-peach, powder blue, leaf green, warm orange and butter yellow; use midnight blue only for recesses or underside cuts; design for a deep blue-charcoal #2B424A presentation field but export transparent artwork",
     "reference": "assets/icons/nightfall/01.png",
     "references": [
       "assets/icons/nightfall/01.png",
