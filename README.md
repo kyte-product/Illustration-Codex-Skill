@@ -1,6 +1,6 @@
 # Illustration icon skills for Codex
 
-An original set of 32 image generation styles plus a guided wizard skill. The first 24 style recipes were calibrated against 287 public previews from the [Waterlemon gallery](https://sohna.dev/waterlemon/). Eight additional styles—Colorcut, Hologram, Nightfall, Storyworld, Pop, Clover, Studio, and Concept—were studied from reference sheets supplied by the user. All 32 gallery example sheets were generated with these recipes to test their results. These are independently written skills, not Waterlemon's paid prompts or Mac app.
+An original set of 33 image generation styles plus a guided wizard skill. The first 24 style recipes were calibrated against 287 public previews from the [Waterlemon gallery](https://sohna.dev/waterlemon/). Nine additional styles—Colorcut, Hologram, Nightfall, Market, Storyworld, Pop, Clover, Studio, and Concept—were studied from reference sheets supplied by the user. Gallery example sheets were generated with these recipes to test their results. These are independently written skills, not Waterlemon's paid prompts or Mac app.
 
 ## Install
 
@@ -20,7 +20,7 @@ To start with a particular style, say for example:
 
 For a set, provide the subjects when prompted. The skill keeps scale, angle, lighting, and palette consistent. If your Codex session has an image generation tool, it produces the icons directly. Otherwise, it returns ready to use image prompts.
 
-Each of the first 24 style skills links four public gallery images for visual calibration. When `sohna.dev` is reachable and the image tool accepts references, the skill can use them as style examples without copying the shown subjects. The eight user-supplied styles include detailed visual notes; when the original screenshots remain available in a conversation, the image tool can use them as references. Image generation remains variable, so preview and revise results that drift from the selected style. Check the exported file's actual square dimensions, alpha channel, and safe margins before delivery.
+Each of the first 24 style skills links four public gallery images for visual calibration. When `sohna.dev` is reachable and the image tool accepts references, the skill can use them as style examples without copying the shown subjects. The nine user-supplied styles include detailed visual notes; when the original screenshots remain available in a conversation, the image tool can use them as references. Image generation remains variable, so preview and revise results that drift from the selected style. Check the exported file's actual square dimensions, alpha channel, and safe margins before delivery.
 
 Styles: Clay, Flare, Zing, Gloss, Mist, Pebble, Drift, Ink, Cardboard, Linepop, Glide, Nimble, Jot, Riso, Marker, Glass, Watercolor, Yarn, Sketchy, Pulse, Candypop, Charcoal, Ceramic, Fuzzy, Colorcut, Hologram, Nightfall, Storyworld, Pop, Clover, Studio, and Concept.
 

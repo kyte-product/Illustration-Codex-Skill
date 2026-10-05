@@ -648,6 +648,30 @@
     "skill": "skills/nightfall-icon/SKILL.md"
   },
   {
+    "name": "Market",
+    "slug": "market",
+    "description": "Polished miniature commercial 3D illustration",
+    "form": "One familiar service, shopping, food, people or utility subject rendered as a small isolated icon; compact three-quarter view with a clear silhouette, or a nearly frontal view for simple symbols",
+    "finish": "Soft cool studio light from the upper left, believable but simplified matte or satin materials, gently rounded edges, controlled highlights and a very short faint contact shadow; show only the few seams, openings or fittings needed to identify the subject",
+    "palette": "A recognizable emerald green accent ties the set together; balance it with charcoal, warm tan, cream and natural subject colors, using bright orange or gold only for a small focal detail",
+    "reference": "assets/icons/market/01.png",
+    "references": [
+      "assets/icons/market/01.png",
+      "assets/icons/market/02.png",
+      "assets/icons/market/03.png",
+      "assets/icons/market/04.png",
+      "assets/icons/market/05.png",
+      "assets/icons/market/06.png",
+      "assets/icons/market/07.png",
+      "assets/icons/market/08.png",
+      "assets/icons/market/09.png",
+      "assets/icons/market/10.png",
+      "assets/icons/market/11.png",
+      "assets/icons/market/12.png"
+    ],
+    "skill": "skills/market-icon/SKILL.md"
+  },
+  {
     "name": "Storyworld",
     "slug": "storyworld",
     "description": "Fantastical isometric storybook diorama illustration",

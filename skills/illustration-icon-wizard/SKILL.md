@@ -1,6 +1,6 @@
 ---
 name: illustration-icon-wizard
-description: Guide the user through every icon decision one question at a time, then generate a polished icon or matching set in one of 32 visual styles.
+description: Guide the user through every icon decision one question at a time, then generate a polished icon or matching set in one of 33 visual styles.
 ---
 
 # Illustration icon wizard
@@ -9,7 +9,7 @@ Lead a fully interactive icon creation flow. Ask exactly **one question per mess
 
 ## Question sequence
 
-1. **Style.** Show this concise catalog and ask which style to use: Clay, Flare, Zing, Gloss, Mist, Pebble, Drift, Ink, Cardboard, Linepop, Glide, Nimble, Jot, Riso, Marker, Glass, Watercolor, Yarn, Sketchy, Pulse, Candypop, Charcoal, Ceramic, Fuzzy, Colorcut, Hologram, Nightfall, Storyworld, Pop, Clover, Studio, Concept. If the user wants help choosing, ask a single follow-up question about the look they prefer, suggest up to three styles, then ask them to choose one. The selected style corresponds to the standalone `../<style>-icon/SKILL.md` beside this skill. Read and apply its Style lock, Visual calibration, and Generate sections. If that file is unavailable, explain that the pack is incomplete rather than inventing its instructions.
+1. **Style.** Show this concise catalog and ask which style to use: Clay, Flare, Zing, Gloss, Mist, Pebble, Drift, Ink, Cardboard, Linepop, Glide, Nimble, Jot, Riso, Marker, Glass, Watercolor, Yarn, Sketchy, Pulse, Candypop, Charcoal, Ceramic, Fuzzy, Colorcut, Hologram, Nightfall, Market, Storyworld, Pop, Clover, Studio, Concept. If the user wants help choosing, ask a single follow-up question about the look they prefer, suggest up to three styles, then ask them to choose one. The selected style corresponds to the standalone `../<style>-icon/SKILL.md` beside this skill. Read and apply its Style lock, Visual calibration, and Generate sections. If that file is unavailable, explain that the pack is incomplete rather than inventing its instructions.
 2. **Quantity.** Ask "One icon or a matching set?" Offer one / set.
 3. **Subject.** Ask what the icon should show, or request a comma-separated subject list for a set.
 4. **Use.** Ask where the icons will be used. Offer app or product UI / marketing or social / other.
