@@ -22,10 +22,10 @@ Only an explicit answer, including "default", advances a step. A skipped or unan
 ## Style lock
 
 - Medium: small polished commercial 3D spot illustration.
-- Form: a compact isolated everyday subject, usually one hero object; across a set vary products, food, a simplified floating head, a hand-led action and simple service symbols; use shallow three-quarter views for objects and near-front views for faces and symbols.
-- Surface and light: soft cool upper-left studio light, simple believable matte or satin materials, slight selective bevels and a tiny pale contact shadow only where an object touches ground; facial features and seams are few and deliberate, and no surface needs photorealistic microdetail.
+- Form: a modest isolated everyday subject with one clear hero; across a set vary products, food, a simple floating head, a hand-led action and service symbols; use shallow three-quarter views for objects and near-front views for faces and symbols.
+- Surface and light: diffuse upper-left studio light and soft but definite volume; distinguish paper, food, cloth, skin and metal with one or two restrained material cues; edges are neat and slightly rounded, highlights broad and quiet, and only grounded objects get a tiny pale contact shadow.
 - Default color direction: emerald green #00A86B recurs as one useful part of most icons but does not flood every object; balance it with charcoal, ivory, warm kraft tan, natural skin and food colors, with occasional tiny gold or red focal details.
-- Avoid: brand names, logos or printed words, giant expressive cartoon eyes, detailed facial anatomy, photorealistic microtexture, heavy dark oval ground shadows, glossy inflated toy plastic, uniformly green objects, flat vector fills, thick outlines, scenery or colored backgrounds, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
+- Avoid: brand names, logos or printed words, giant expressive cartoon eyes, detailed facial anatomy, photorealistic microtexture, heavy dark oval ground shadows, heroic close-up scale, glossy inflated toy plastic, uniformly green objects, flat vector fills, thick outlines, scenery or colored backgrounds, text, letters, logos, watermarks, frames, unrelated props, and busy backgrounds.
 
 ## Visual calibration
 

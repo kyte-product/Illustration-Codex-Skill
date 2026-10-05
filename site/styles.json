@@ -651,8 +651,8 @@
     "name": "Market",
     "slug": "market",
     "description": "Small polished commercial 3D spot illustration",
-    "form": "A compact isolated everyday subject, usually one hero object; across a set vary products, food, a simplified floating head, a hand-led action and simple service symbols; use shallow three-quarter views for objects and near-front views for faces and symbols",
-    "finish": "Soft cool upper-left studio light, simple believable matte or satin materials, slight selective bevels and a tiny pale contact shadow only where an object touches ground; facial features and seams are few and deliberate, and no surface needs photorealistic microdetail",
+    "form": "A modest isolated everyday subject with one clear hero; across a set vary products, food, a simple floating head, a hand-led action and service symbols; use shallow three-quarter views for objects and near-front views for faces and symbols",
+    "finish": "Diffuse upper-left studio light and soft but definite volume; distinguish paper, food, cloth, skin and metal with one or two restrained material cues; edges are neat and slightly rounded, highlights broad and quiet, and only grounded objects get a tiny pale contact shadow",
     "palette": "Emerald green #00A86B recurs as one useful part of most icons but does not flood every object; balance it with charcoal, ivory, warm kraft tan, natural skin and food colors, with occasional tiny gold or red focal details",
     "reference": "assets/icons/market/01.png",
     "references": [
