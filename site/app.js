@@ -46,7 +46,7 @@ dialog.addEventListener('close', () => {
 
 document.querySelector('#copy-style').addEventListener('click', async event => {
   if (!activeStyle) return;
-  const command = `Use the ${activeStyle.slug}-icon skill.`;
+  const command = `Use the ${activeStyle.slug}-icon skill. If I attach an illustration, use it as the subject reference and redraw it in this style.`;
   try {
     await navigator.clipboard.writeText(command);
     modalStatus.textContent = `Copied: ${command}`;
@@ -59,7 +59,7 @@ document.querySelector('#copy-style').addEventListener('click', async event => {
 });
 
 document.querySelector('#copy-prompt').addEventListener('click', async event => {
-  const prompt = 'Use the illustration-icon-wizard skill. Ask me one question at a time and wait for my answer before asking the next.';
+  const prompt = 'Use the illustration-icon-wizard skill. Ask me one question at a time and wait for my answer before asking the next. At the subject step, let me describe an idea or attach an illustration to redraw in my chosen style.';
   const button = event.currentTarget;
   try {
     await navigator.clipboard.writeText(prompt);

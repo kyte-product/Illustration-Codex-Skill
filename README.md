@@ -12,7 +12,7 @@ For a guided session, say:
 
 > Use the `illustration-icon-wizard` skill. Ask me one question at a time and wait for each selection.
 
-The wizard asks for style, quantity, subject, intended use, palette, and final confirmation. A custom palette is chosen one color slot at a time. Every icon is generated as a high-resolution square transparent PNG, with its visible artwork centered inside the middle 52% of the canvas and at least 24% clear space on every side; the wizard does not ask about these fixed output settings. A direct style skill also asks its remaining questions one at a time.
+The wizard asks for style, quantity, subject, intended use, palette, and final confirmation. At the subject step, describe what to draw **or attach an illustration** in Codex. The chosen recipe redraws that subject in its style while preserving recognizable shape and key details. A custom palette is chosen one color slot at a time. Every icon is generated as a high-resolution square transparent PNG, with its visible artwork centered inside the middle 52% of the canvas and at least 24% clear space on every side; the wizard does not ask about these fixed output settings. A direct style skill also asks its remaining questions one at a time.
 
 To start with a particular style, say for example:
 
@@ -20,9 +20,11 @@ To start with a particular style, say for example:
 
 For a set, provide the subjects when prompted. The skill keeps scale, angle, lighting, and palette consistent. If your Codex session has an image generation tool, it produces the icons directly. Otherwise, it returns ready to use image prompts.
 
+To restyle an existing illustration, attach the image in Codex and say, for example: “Use the `market-icon` skill. Use my attached illustration as the subject reference.” The same image can be used with any of the style skills. The uploaded image defines the subject; the chosen recipe defines the visual treatment. The output keeps the subject recognizable and removes the uploaded background.
+
 Each of the first 24 style skills links four public gallery images for visual calibration. When `sohna.dev` is reachable and the image tool accepts references, the skill can use them as style examples without copying the shown subjects. The nine user-supplied styles include detailed visual notes; when the original screenshots remain available in a conversation, the image tool can use them as references. Image generation remains variable, so preview and revise results that drift from the selected style. Check the exported file's actual square dimensions, alpha channel, and safe margins before delivery.
 
-Styles: Clay, Flare, Zing, Gloss, Mist, Pebble, Drift, Ink, Cardboard, Linepop, Glide, Nimble, Jot, Riso, Marker, Glass, Watercolor, Yarn, Sketchy, Pulse, Candypop, Charcoal, Ceramic, Fuzzy, Colorcut, Hologram, Nightfall, Storyworld, Pop, Clover, Studio, and Concept.
+Styles: Clay, Flare, Zing, Gloss, Mist, Pebble, Drift, Ink, Cardboard, Linepop, Glide, Nimble, Jot, Riso, Marker, Glass, Watercolor, Yarn, Sketchy, Pulse, Candypop, Charcoal, Ceramic, Fuzzy, Colorcut, Hologram, Nightfall, Market, Storyworld, Pop, Clover, Studio, and Concept.
 
 ## Maintain
 
