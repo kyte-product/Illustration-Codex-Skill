@@ -650,10 +650,10 @@
   {
     "name": "Market",
     "slug": "market",
-    "description": "Small polished commercial 3D spot illustration",
-    "form": "A modest isolated everyday subject with one clear hero; across a set vary products, food, a simple floating head, a hand-led action and service symbols; use shallow three-quarter views for objects and near-front views for faces and symbols",
-    "finish": "Diffuse upper-left studio light and soft but definite volume; distinguish paper, food, cloth, skin and metal with one or two restrained material cues; edges are neat and slightly rounded, highlights broad and quiet, and only grounded objects get a tiny pale contact shadow",
-    "palette": "Emerald green #00A86B recurs as one useful part of most icons but does not flood every object; balance it with charcoal, ivory, warm kraft tan, natural skin and food colors, with occasional tiny gold or red focal details",
+    "description": "Tiny commercial 3D editorial vignette",
+    "form": "One modest isolated service subject per icon; a set mixes packaging, food, a small floating portrait, useful objects, hand gestures and simple symbols; use front or shallow three-quarter views with only the depth needed to identify the form",
+    "finish": "Soft diffuse studio light, delicate realistic material cues such as short wood grain, paper folds, leather stitching or food layers, small crisp highlights on glass or metal, and gentle rounded modeling elsewhere; only grounded objects get a short very pale contact shadow",
+    "palette": "Emerald #00A86B is a recurring family cue, not an all-over coating: let some icons be mostly green, some use a small green accent and some use none; retain natural wood, food and skin hues, charcoal, warm kraft, ivory, coral, pale gray and occasional gold",
     "reference": "assets/icons/market/01.png",
     "references": [
       "assets/icons/market/01.png",

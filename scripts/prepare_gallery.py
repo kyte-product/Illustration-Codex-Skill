@@ -27,7 +27,9 @@ def export_sheet(name, source):
     image = Image.open(source).convert("RGBA")
     columns, rows = (3, 2) if name == "clover" else (4, 3)
     width, height = image.size
-    if abs(width / height - columns / rows) > 0.02:
+    # Market's reference uses wider cells than the other square-cell sheets.
+    tolerance = 0.25 if name == "market" else 0.02
+    if abs(width / height - columns / rows) > tolerance:
         raise ValueError(f"{name}: sheet ratio does not match {columns}x{rows} grid")
 
     alpha = np.asarray(image.getchannel("A"))
@@ -69,6 +71,10 @@ def export_sheet(name, source):
         cropped_alpha[~mask[top:bottom, left:right]] = 0
         crop.putalpha(Image.fromarray(cropped_alpha))
         scale = min((SIZE * SAFE_FRACTION) / crop.width, (SIZE * SAFE_FRACTION) / crop.height)
+        if name == "market":
+            # Keep the reference sheet's varied icon sizes instead of enlarging
+            # every little face, food item, and paper symbol to the same bound.
+            scale = min(scale, SIZE / max(cell_width, cell_height))
         resized = crop.resize((round(crop.width * scale), round(crop.height * scale)), Image.Resampling.LANCZOS)
         square = Image.new("RGBA", (SIZE, SIZE), (0, 0, 0, 0))
         square.alpha_composite(resized, ((SIZE - resized.width) // 2, (SIZE - resized.height) // 2))

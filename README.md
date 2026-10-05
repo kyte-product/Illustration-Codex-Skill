@@ -4,7 +4,7 @@ An original set of 33 image generation styles plus a guided wizard skill. The fi
 
 ## Install
 
-Attach [`illustration-icon-skills.zip`](illustration-icon-skills.zip) to Codex Chat and ask it to install the skills, or copy the `skills/` folders into your Codex skills directory. Each folder contains a standalone `SKILL.md`.
+Attach [`illustration-icon-skills.zip`](illustration-icon-skills.zip) to Codex Chat and ask it to install the skills, or copy the `skills/` folders into your Codex skills directory. Each folder contains a `SKILL.md`; Market also includes a generated visual reference sheet.
 
 ## Use
 
